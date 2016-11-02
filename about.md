@@ -15,9 +15,9 @@ layout: page
 <ul>
 	<img class="  wp-image-194 alignright" src="https://kijungyoonblog.files.wordpress.com/2016/08/j21.jpg" alt="J2" width="176" height="222" />
 
-	<li>Grid cell responses in 1D environments assessed as slices through a 2D lattice
-	Yoon, KJ.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W.,and Fiete, I. R.
-	<i>Neuron 2016</i>
+	<li>Grid cell responses in 1D environments assessed as slices through a 2D lattice<br>
+	Yoon, KJ.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W.,and Fiete, I. R.<br>
+	<i>Neuron 2016</i><br>
 	[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">pdf</a>],[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">SI</a>]</li>
 </ul>
 
