@@ -12,14 +12,21 @@ layout: page
 
 <h2>Journal articles</h2>
 
-<ul>
-	<img class="  wp-image-194 alignright" src="https://kijungyoonblog.files.wordpress.com/2016/08/j21.jpg" alt="J2" width="176" height="222" />
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ https://kijungyoonblog.files.wordpress.com/2016/08/j21.jpg }}/{{ site.picture }}" alt="Alt Text">
+        <figcaption class="caption">Photo by KiJung Yoon</figcaption>
+    </div>
 
-	<li>Grid cell responses in 1D environments assessed as slices through a 2D lattice<br>
+    <div class="toright">
+        <p>Grid cell responses in 1D environments assessed as slices through a 2D lattice<br>
 	Yoon, KJ.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W.,and Fiete, I. R.<br>
 	<i>Neuron 2016</i><br>
-	[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">pdf</a>],[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">SI</a>]</li>
-</ul>
+	[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">pdf</a>],[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">SI</a>]
+	</p>
+    </div>
+</div>
+
 
 <h2>Skills</h2>
 
