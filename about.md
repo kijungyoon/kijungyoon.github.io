@@ -10,6 +10,17 @@ layout: page
 
 <p>Prior to that, I obtained a PhD in 2015 in the Department of Electrical and Computer Engineering at UT Austin, in <a href="http://clm.utexas.edu/fietelab" target="_blank">Ila Fiete</a>'s lab. My research in the Fiete group focused on developing statistical tools for studying the dimensionality of the dynamical system neurons belong to and for unraveling neural representations of space in the brain.</p>
 
+<h2>Journal articles</h2>
+
+<ul>
+	<img class="  wp-image-194 alignright" src="https://kijungyoonblog.files.wordpress.com/2016/08/j21.jpg" alt="J2" width="176" height="222" />
+
+	<li>Grid cell responses in 1D environments assessed as slices through a 2D lattice
+	Yoon, KJ.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W.,and Fiete, I. R.
+	<i>Neuron 2016</i>
+	[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">pdf</a>],[<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)00064-7">SI</a>]</li>
+</ul>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
