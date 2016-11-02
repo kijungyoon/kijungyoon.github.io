@@ -4,19 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am interested in neuroscience, unsupervised learning, and artificial intelligence, aiming to understand the mathematical abstractions of representations and nonlinear transformations employed by the brain.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</p>I am currently a Postdoctoral Researcher in <a href="http://xaqlab.com" target="_blank">Xaq Pitkow</a>'s lab at Baylor College of Medicine and Rice University, where I study structure learning of graphical models for understanding the mathematical principles of context-dependent computation in the brain.</p>
+
+</p>Prior to that, I obtained a PhD in 2015 in the Department of Electrical and Computer Engineering at UT Austin, in <a href="http://clm.utexas.edu/fietelab" target="_blank">Ila Fiete</a>'s lab. My research in the Fiete group focused on developing statistical tools for studying the dimensionality of the dynamical system neurons belong to and for unraveling neural representations of space in the brain.</p>
 
 <h2>Skills</h2>
 
