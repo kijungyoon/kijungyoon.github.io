@@ -14,7 +14,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ https://kijungyoonblog.files.wordpress.com/2016/08/j21.jpg }}/{{ site.picture }}" alt="Alt Text">
+        <img class="image" src="https://kijungyoonblog.files.wordpress.com/2016/08/j21.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by KiJung Yoon</figcaption>
     </div>
 
