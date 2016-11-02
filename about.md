@@ -22,11 +22,23 @@ layout: page
     <b>Grid cell responses in 1D environments assessed as slices through a 2D lattice</b><br>
     <b>Yoon, KJ.</b>*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., and Fiete, I. R.<br>
 	<i>Neuron 2016</i><br>
-	[<a href="https://clm.utexas.edu/fietelab/Papers/1Dgridcells_Yoon_2016.pdf">pdf</a>],[<a href="http://www.cell.com/cms/attachment/2062705203/2065233124/mmc1.pdf">SI</a>]
-
+	[<a href="https://clm.utexas.edu/fietelab/Papers/1Dgridcells_Yoon_2016.pdf">pdf</a>][<a href="http://www.cell.com/cms/attachment/2062705203/2065233124/mmc1.pdf">SI</a>]
     </div>
 </div>
 
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://kijungyoonblog.files.wordpress.com/2016/08/j1.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by KiJung Yoon</figcaption>
+    </div>
+
+    <div class="toright">
+    <b>Specific evidence of low-dimensional continuous attractor dynamics</b><br>
+    <b>Yoon, KJ.</b>, Buice, M. A., Barry, C., Hayman, R., Burgess, N., and Fiete, I. R.<br>
+	<i>Nature Neuroscience 2013</i><br>
+	[<a href="https://www.researchgate.net/profile/Kijung_Yoon/publication/249320873_Specific_evidence_of_low-dimensional_continuous_attractor_dynamics_in_grid_cells/links/0deec5230f3ca58336000000.pdf">pdf</a>][<a href="http://www.nature.com/neuro/journal/v16/n8/extref/nn.3450-S1.pdf">SI</a>]
+    </div>
+</div>
 
 <h2>Skills</h2>
 
