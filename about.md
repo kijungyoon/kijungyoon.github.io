@@ -42,12 +42,14 @@ layout: page
 
 <h2>Conference abstracts</h2>
 <ul class="conference-list">	
-	<li>Yoon, KJ., & Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, <i>Society for Neuroscience</i> (2014)</li>
-	<li>Yoon, KJ.∗, Lewallen, S.∗, Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, <i>Society for Neuroscience</i> (2013)</li>
-	<li>Lewallen, S.∗, Yoon, KJ.∗, Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are linear slices of the 2-d periodic pattern.”, <i>Society for Neuroscience</i>, (2013)</li>
-	<li>Yoon, KJ., Robles-Llana, D., Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Are aperiodic 1D grid cell responses consistent with low-dimensional continuous attractor dynamics?”, <i>Computational and Systems Neuroscience</i>, (2013)</li>
-	<li>Yoon, KJ., Barry, C., Buice, M. A., Burgess, N. & Fiete, I. R. “Are grid-cell responses very low- dimensional?”, <i>Computational and Systems Neuroscience</i>, (2012)</li>
-	<li>Yoon, KJ., Barry, C., Burgess, N., & Fiete, I. R. “Assessing the role of feedback in spatially patterened grid cell responses.” <i>Society for Neuroscience</i>, (2010)</li>
+	<li><b>Yoon, KJ.</b>, & Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, <i>Society for Neuroscience</i> (2014)</li>
+	<li><b>Yoon, KJ.</b>*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, <i>Society for Neuroscience</i> (2013)</li>
+	<li>Lewallen, S.*, <b>Yoon, KJ.</b>*, Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are linear slices of the 2-d periodic pattern.”, <i>Society for Neuroscience</i>, (2013)</li>
+	<li><b>Yoon, KJ.</b>, Robles-Llana, D., Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Are aperiodic 1D grid cell responses consistent with low-dimensional continuous attractor dynamics?”, <i>Computational and Systems Neuroscience</i>, (2013)</li>
+	<li><b>Yoon, KJ.</b>, Barry, C., Buice, M. A., Burgess, N. & Fiete, I. R. “Are grid-cell responses very low- dimensional?”, <i>Computational and Systems Neuroscience</i>, (2012)</li>
+	<li><b>Yoon, KJ.</b>, Barry, C., Burgess, N., & Fiete, I. R. “Assessing the role of feedback in spatially patterened grid cell responses.” <i>Society for Neuroscience</i>, (2010)</li>
+</ul>
+
 
 <h2>Skills</h2>
 
