@@ -3,7 +3,9 @@ title: "Blog Notebooks"
 layout: post
 date: 2016-08-05 22:10
 tag: Jupyter
+headerImage: false
 projects: true
+hidden: true
 ---
 
 Python Code Snippets
