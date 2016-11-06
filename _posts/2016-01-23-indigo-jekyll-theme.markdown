@@ -4,7 +4,7 @@ layout: post
 date: 2016-08-05 22:10
 tag: Jupyter
 image: /assets/images/jekyll-logo-light-solid.png
-headerImage: false
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 author: KiJung
