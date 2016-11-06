@@ -3,9 +3,7 @@ title: "Blog Notebooks"
 layout: post
 date: 2016-08-05 22:10
 tag: Jupyter
-headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
 ---
 
 Python Code Snippets
