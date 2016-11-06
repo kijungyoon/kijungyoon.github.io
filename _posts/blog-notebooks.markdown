@@ -8,6 +8,7 @@ projects: true
 
 Python Code Snippets
 ---
+
 - <a href="https://nbviewer.jupyter.org/github/kijungyoon/blog-notebooks/blob/master/demixed_principal_component_analysis.ipynb">Demixed Princicpal Component Analysis (dPCA)</a>
 
 
