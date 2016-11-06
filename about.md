@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am interested in neuroscience, unsupervised learning, and artificial intelligence, aiming to understand the mathematical abstractions of representations and nonlinear transformations employed by the brain.</p>
+<p>I am interested in computational neuroscience, unsupervised learning, and artificial intelligence, aiming to understand the mathematical abstractions of representations and nonlinear transformations employed by the brain.</p>
 
 <p>I am currently a Postdoctoral Researcher in <a href="http://xaqlab.com" target="_blank">Xaq Pitkow</a>'s lab at Baylor College of Medicine and Rice University, where I study structure learning of graphical models for understanding the mathematical principles of context-dependent computation in the brain.</p>
 
@@ -36,7 +36,7 @@ layout: page
     <p><b>Specific evidence of low-dimensional continuous attractor dynamics</b><br>
     <b>Yoon, KJ.</b>, Buice, M. A., Barry, C., Hayman, R., Burgess, N., and Fiete, I. R.<br>
 	<i>Nature Neuroscience (2013)</i><br>
-	[<a href="https://www.researchgate.net/profile/Kijung_Yoon/publication/249320873_Specific_evidence_of_low-dimensional_continuous_attractor_dynamics_in_grid_cells/links/0deec5230f3ca58336000000.pdf">pdf</a>][<a href="http://www.nature.com/neuro/journal/v16/n8/extref/nn.3450-S1.pdf">SI</a>]</p>
+	[<a href="https://www.researchgate.net/profile/Kijung_Yoon/publication/249320873_Specific_evidence_of_low-dimensional_continuous_attractor_dynamics_in_grid_cells/links/0deec5230f3ca58336000000.pdf">pdf</a>][<a href="http://www.nature.com/neuro/journal/v16/n8/extref/nn.3450-S1.pdf">SI</a>][<a href="http://f1000.com/prime/718030887">F1000</a>]</p>
     </div>
 </div>
 
