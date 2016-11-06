@@ -7,7 +7,6 @@ image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-author: KiJung
 ---
 
 Python Code Snippets
