@@ -1,8 +1,8 @@
 ---
-title: "Blog Jupyter Notebooks"
+title: "Blog Notebooks"
 layout: post
 date: 2016-08-05 22:10
-tag: jekyll
+tag: Jupyter
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
