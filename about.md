@@ -54,11 +54,10 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Bash, C, C++, Java, LaTeX, Matlab, Python, R, Scala</li>
+	<li>Bash, C, C++, Java, LaTeX, Matlab, Python, R</li>
 	<li>CSS, HTML, JavaScript</li>
 	<li>Keras, NumPy, TensorFlow, Pandas, SciPy, scikit-learn, Spark, Theano</li>
-	<li>Git</li>
-	<li>MySQL - MongoDB</li>
+	<li>Illustrator, Photoshop</li>
 </ul>
 
 <h2>Projects</h2>
