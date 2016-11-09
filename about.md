@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am interested in computational neuroscience, unsupervised learning, and artificial intelligence, aiming to understand the mathematical abstractions of representations and nonlinear transformations employed by the brain.</p>
+<p>I am interested in computational neuroscience, unsupervised learning, and artificial intelligence. The current deep learning systems do neither have enough structure in the search space nor exploit the regularities of the external world. Namely, they live in an encoded world by human involvement. In this prong, I aim to understand the mathematical abstractions of representations and nonlinear transformations employed by the brain.</p>
 
 <p>I am currently a Postdoctoral Researcher in <a href="http://xaqlab.com" target="_blank">Xaq Pitkow</a>'s lab at Baylor College of Medicine and Rice University, where I study structure learning of graphical models for understanding the mathematical principles of context-dependent computation in the brain.</p>
 
