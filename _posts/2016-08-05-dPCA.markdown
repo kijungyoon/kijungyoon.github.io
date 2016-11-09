@@ -1,220 +1,31 @@
 ---
-title: "Markdown Common Elements"
+title: "Demixed Principal Component Analysis (dPCA)"
 layout: post
-date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
+date: 2016-08-05 12:00
 headerImage: false
 tag:
-- markdown
-- elements
+- dPCA
+- LDA
+- PCA
+- reduced-rank regression
+- dimensionality reduction
 blog: true
 star: true
-author: johndoe
-description: Markdown summary with different options
+author: KiJung Yoon
 ---
 
-## Summary:
+We often encounter the brain areas where neurons are modulated by more than one variable; e.g. neurons in the prefrontal cortex (PFC) respond to both stimuli and the decisions of a subject simultaneously in various working memory tasks. Such neurons are said to have a mixed selectivity/representation, which makes it difficult to understand what information those neurons encode and how it is represented.
 
-You can pick as item to see how to apply in markdown.
+We want to unravel the neural specificity for each task parameter from a large number of population neurons. The problem reminds us of standard dimensionality reduction methods such as principal component analysis (PCA) or linear discriminant analysis (LDA) because they share the same objective to extract a few key low-dimensional components that explain the essence of high-dimensional data. Unfortunately, a vanilla PCA has no mathematical operations of actively separating the task parameters and thus the mixed selectivity remains in all principal components, whereas LDA typically aims to maximize the separation between groups of data with regard to only one parameter. Kobak et al. [1] introduced an interesting dimensionality reduction technique, demixed principal component analysis (dPCA), to overcome the limitations of existing methods and achieve the aforementioned goal.
 
-### Comum Elements
-- [Basic formatting](#basic-formatting)
-- [Headings](#headings)
-- [Lists](#lists)
-- [Paragraph Modifiers](#paragraph-modifiers)
-- [Urls](#urls)
-- [Horizontal Rule](#horizontal-rule)
-- [Images](#images)
-- [Code](#code)
+In a nutshell, the first major step of dPCA is to decompose the data $latex \mathbf{X}$ into uncorrelated conditional terms $latex \mathbf{X}_{\phi}$ through marginalization procedures: $latex \mathbf{X} = \sum_{\phi}\mathbf{X}_{\phi} + \mathbf{X}_{noise}$ where $latex \mathbf{X}_{\phi}$ is regarded as the portion dependent on the parameter $latex \phi$ only (with appropriate mean subtractions followed by averaging over $latex \backslash \phi$). The next is to perform PCA-like dimensionality reduction to demix the inherently entangled selectivity of neurons with the objective of minimizing Frobenius norm of the difference between $latex \mathbf{X}_{\phi}$ and $latex \hat{\mathbf{X}}_{\phi}$.
 
----
+The core of dPCA lies in designing the linear decoder $latex \mathbf{D}_{\phi}$ and encoder $latex \mathbf{F}_{\phi}$ that match $latex \hat{\mathbf{X}}_{\phi} (=\mathbf{F}_{\phi}\mathbf{D}_{\phi}\mathbf{X})$ to $latex \mathbf{X}_{\phi}$ as much as possible. Here, $latex \mathbf{D}_{\phi}$ and $latex \mathbf{F}_{\phi}$ are estimated analytically by solving a linear regression problem with a sparse constraint on the regression coefficient matrix, which is known as the reduced-rank regression problem. I said "PCA-like" because $latex \mathbf{F}_{\phi}$ and $latex \mathbf{D}_{\phi}$ are forced to be equal in PCA but not in dPCA. Nevertheless, PCA technique is used in meeting the sparse constraint and determining final $latex \mathbf{D}_{\phi}$ and $latex \mathbf{F}_{\phi}$ as a consequence.
 
-## Basic formatting
+The authors provided extensive approaches to deal with practical issues such as overfitting and unbalanced/missing data, and they also discussed the current limitations of dPCA, which is what I strongly encourage to read.
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+I posted a <a href="https://nbviewer.jupyter.org/github/kijungyoon/blog-notebooks/blob/master/demixed_principal_component_analysis.ipynb">Jupyter notebook on dPCA</a> to revisit a toy example in the paper and visualize what dPCA actually performs. Hope it helps get to know dPCA better.
 
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
-
----
-
-## Headings
-
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-
-# Headings can be small
-
-## Headings can be small
-
-### Headings can be small
-
-#### Headings can be small
-
-{% highlight raw %}
-# Heading
-## Heading
-### Heading
-#### Heading
-{% endhighlight %}
-
----
-
-## Lists
-
-### Ordered list
-
-1. Item 1
-2. A second item
-3. Number 3
-
-{% highlight raw %}
-1. Item 1
-2. A second item
-3. Number 3
-{% endhighlight %}
-
-### Unordered list
-
-* An item
-* Another item
-* Yet another item
-* And there's more...
-
-{% highlight raw %}
-* An item
-* Another item
-* Yet another item
-* And there's more...
-{% endhighlight %}
-
----
-
-## Paragraph modifiers
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-> Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
-
----
-
-## URLs
-
-URLs can be made in a handful of ways:
-
-* A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-
-{% highlight raw %}
-* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-{% endhighlight %}
-
----
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-{% highlight raw %}
----
-{% endhighlight %}
-
----
-
-## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-{% endhighlight %}
-
-![Markdowm Image][6]
-
-*Figure Caption*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][6]
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-*Bigger Images*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][6]{: class="bigger-image" }
-
----
-
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-    padding: 10px;
-    font-size: .8em;
-    white-space: pre;
-}
-
-pre, table {
-    width: 100%;
-}
-
-code, pre, tt {
-    font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-    background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[1] D Kobak+, W Brendel+, C Constantinidis, CE Feierstein, A Kepecs, ZF Mainen, X-L Qi, R Romo, N Uchida, CK Machens
+<a href="https://elifesciences.org/content/5/e10989" target="_blank">Demixed principal component analysis of neural population data</a>
+eLife 2016
