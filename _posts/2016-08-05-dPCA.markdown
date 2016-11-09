@@ -1,5 +1,5 @@
 ---
-title: "Demixed Principal Component Analysis (dPCA)"
+title: "Demixed Principal Component Analysis"
 layout: post
 date: 2016-08-05 12:00
 headerImage: false
@@ -10,13 +10,13 @@ tag:
 - reduced-rank regression
 - dimensionality reduction
 blog: true
-star: true
+star: false
 author: KiJung Yoon
 ---
 
 We often encounter the brain areas where neurons are modulated by more than one variable; e.g. neurons in the prefrontal cortex (PFC) respond to both stimuli and the decisions of a subject simultaneously in various working memory tasks. Such neurons are said to have a mixed selectivity/representation, which makes it difficult to understand what information those neurons encode and how it is represented.
 
-We want to unravel the neural specificity for each task parameter from a large number of population neurons. The problem reminds us of standard dimensionality reduction methods such as principal component analysis (PCA) or linear discriminant analysis (LDA) because they share the same objective to extract a few key low-dimensional components that explain the essence of high-dimensional data. Unfortunately, a vanilla PCA has no mathematical operations of actively separating the task parameters and thus the mixed selectivity remains in all principal components, whereas LDA typically aims to maximize the separation between groups of data with regard to only one parameter. Kobak et al. [1] introduced an interesting dimensionality reduction technique, demixed principal component analysis (dPCA), to overcome the limitations of existing methods and achieve the aforementioned goal.
+We want to unravel the neural specificity for each task parameter from a large number of population neurons. The problem reminds us of standard dimensionality reduction methods such as principal component analysis (PCA) or linear discriminant analysis (LDA) because they share the same objective to extract a few key low-dimensional components that explain the essence of high-dimensional data. Unfortunately, a vanilla PCA has no mathematical operations of actively separating the task parameters and thus the mixed selectivity remains in all principal components, whereas LDA typically aims to maximize the separation between groups of data with regard to only one parameter. Kobak et al.[1](https://elifesciences.org/content/5/e10989) introduced an interesting dimensionality reduction technique, demixed principal component analysis (dPCA), to overcome the limitations of existing methods and achieve the aforementioned goal.
 
 In a nutshell, the first major step of dPCA is to decompose the data $latex \mathbf{X}$ into uncorrelated conditional terms $latex \mathbf{X}_{\phi}$ through marginalization procedures: $latex \mathbf{X} = \sum_{\phi}\mathbf{X}_{\phi} + \mathbf{X}_{noise}$ where $latex \mathbf{X}_{\phi}$ is regarded as the portion dependent on the parameter $latex \phi$ only (with appropriate mean subtractions followed by averaging over $latex \backslash \phi$). The next is to perform PCA-like dimensionality reduction to demix the inherently entangled selectivity of neurons with the objective of minimizing Frobenius norm of the difference between $latex \mathbf{X}_{\phi}$ and $latex \hat{\mathbf{X}}_{\phi}$.
 
@@ -27,5 +27,5 @@ The authors provided extensive approaches to deal with practical issues such as 
 I posted a <a href="https://nbviewer.jupyter.org/github/kijungyoon/blog-notebooks/blob/master/demixed_principal_component_analysis.ipynb">Jupyter notebook on dPCA</a> to revisit a toy example in the paper and visualize what dPCA actually performs. Hope it helps get to know dPCA better.
 
 [1] D Kobak+, W Brendel+, C Constantinidis, CE Feierstein, A Kepecs, ZF Mainen, X-L Qi, R Romo, N Uchida, CK Machens
-<a href="https://elifesciences.org/content/5/e10989" target="_blank">Demixed principal component analysis of neural population data</a>
+<a href="https://elifesciences.org/content/5/e10989" target="_blank">Demixed principal component analysis of neural population data</a><br>
 eLife 2016
