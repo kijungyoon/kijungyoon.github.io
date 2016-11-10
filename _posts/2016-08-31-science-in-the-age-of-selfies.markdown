@@ -11,7 +11,7 @@ star: false
 author: KiJung Yoon
 ---
 
-Would a time traveler from half a century ago be equally dazzled by the scientific theories and engineering technologies invented during that period as the one arriving in 50 years ago from a century ago? Geman D. & Geman S. $latex [[1]](http://www.pnas.org/content/113/34/9384.full.pdf) answered no with asserting that, as contrasted with the the former 50-years when groundbreaking discoveries and inventions proliferated all over the domains, the advances of the past 50-years were mostly incremental, and largely focused on newer and faster ways to gather and store information, communicate, or be entertained.
+Would a time traveler from half a century ago be equally dazzled by the scientific theories and engineering technologies invented during that period as the one arriving in 50 years ago from a century ago? Geman D. & Geman S. [[1]](http://www.pnas.org/content/113/34/9384.full.pdf) answered no with asserting that, as contrasted with the the former 50-years when groundbreaking discoveries and inventions proliferated all over the domains, the advances of the past 50-years were mostly incremental, and largely focused on newer and faster ways to gather and store information, communicate, or be entertained.
 
 One of the major causes the authors remark about is the fact that we are too much "being online", where intense and sustained concentration/thinking are inhibited by the perpetually distracting messaging and massive communication via Internet.
 
