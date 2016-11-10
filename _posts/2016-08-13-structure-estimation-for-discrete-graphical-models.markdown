@@ -13,9 +13,9 @@ star: false
 author: KiJung Yoon
 ---
 
-Graphical models for high-dimensional data are used in many applications such as computer vision, natural language processing, bioinformatics, and social networks. Learning the edge structure of an underlying graphical model from the data is of great interest because the model  may be used to represent close relationships between people in a social network or interactions between (ensembles of) neurons in the brain.
+Graphical models for high-dimensional data are used in many applications such as computer vision, natural language processing, bioinformatics, and social networks. Learning the edge structure of an underlying graphical model from the data is of great interest because the model may be used to represent close relationships between people in a social network or interactions between (ensembles of) neurons in the brain.
 
-It has been well known that the inverse covariance matrix $$(\Gamma=\Sigma^{-1})$$ of any multivariate Gaussian is graph-structured as a consequence of Hammersley–Clifford theorem; zeros in $$\Gamma$$ indicate the absence of an edge in the corresponding graphical model. For the non-Gaussian distributions, however, it is unknown whether the entries of $$\Gamma$$ have any relationship with the strengths of correlations along edges in the graph. Loh and Wainwright[[1]](https://arxiv.org/abs/1212.0478) studied the analog of this type of correspondence for non-Gaussian graphical models, and we will touch base on the main theorem with a binary Ising model, which is a special case of the non-Gaussian.
+It has been well known that the inverse covariance matrix $$(\Gamma=\Sigma^{-1})$$ of any multivariate Gaussian is graph-structured as a consequence of Hammersley–Clifford theorem; zeros in $$\Gamma$$ indicate the absence of an edge in the corresponding graphical model. For the non-Gaussian distributions, however, it is unknown whether the entries of $$\Gamma$$ have any relationship with the strengths of correlations along edges in the graph. Loh and Wainwright [[1]](https://arxiv.org/abs/1212.0478) studied the analog of this type of correspondence for non-Gaussian graphical models, and we will touch base on the main theorem with a binary Ising model, which is a special case of the non-Gaussian.
 
 ![Markdowm Image](https://kijungyoonblog.files.wordpress.com/2016/08/graphical_models.jpg)
 
@@ -25,9 +25,9 @@ where the edges (1,3), (1,4), and (2,4) are represented in blue colors implying 
 
 When do certain inverse covariances capture the structure of a graphical model? Here comes the main theorem:
 
-<strong>THEOREM 1</strong> (Triangulation and block graph-structure) <em>Consider an arbitrary discrete graphical model of a general multinomial exponential family, and let</em> $$\tilde{\mathcal{C}}$$ <em>be the set of all cliques in any triangulation of the graph</em> $$G$$. <em>Then the generalized covariance matrix</em> cov$$(\Psi(X;\tilde{\mathcal{C}}))$$ <em>is invertible, and its inverse</em> $$\Gamma$$ <em>is block graph-structured:</em>
+> <strong>THEOREM 1</strong> (Triangulation and block graph-structure) <em>Consider an arbitrary discrete graphical model of a general multinomial exponential family, and let</em> $$\tilde{\mathcal{C}}$$ <em>be the set of all cliques in any triangulation of the graph</em> $$G$$. <em>Then the generalized covariance matrix</em> cov$$(\Psi(X;\tilde{\mathcal{C}}))$$ <em>is invertible, and its inverse</em> $$\Gamma$$ <em>is block graph-structured:</em>
 
-(a) <em>For any subset</em> $$A,B \in \tilde{\mathcal{C}}$$ <em>that are not subsets of the same maximal clique, the block</em> $$\Gamma(A,B)$$ <em>is identically zero.</em>
+> (a) <em>For any subset</em> $$A,B \in \tilde{\mathcal{C}}$$ <em>that are not subsets of the same maximal clique, the block</em> $$\Gamma(A,B)$$ <em>is identically zero.</em><br>
 (b) <em>For almost all parameters</em> $$\theta$$, <em>the entire block</em> $$\Gamma(A,B)$$ <em>is nonzero whenever</em> $$A$$ <em>and</em> $$B$$ <em>belong to a common maximal clique.</em>
 
 The essence of the theorem lies in adding higher-order moments into the original set of random variables to compute $$\Sigma$$ through a certain rule stated above. Graphs in (c) and (d) are the examples of triangulation of the cycle in (b), and the set of all cliques $$\tilde{\mathcal{C}}$$ of the triangulated graph (c,e) ends up with as follows:
