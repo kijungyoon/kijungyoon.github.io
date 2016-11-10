@@ -27,6 +27,6 @@ The authors provided extensive approaches to deal with practical issues such as 
 
 I posted a <a href="https://nbviewer.jupyter.org/github/kijungyoon/blog-notebooks/blob/master/demixed_principal_component_analysis.ipynb">Jupyter notebook on dPCA</a> to revisit a toy example in the paper and visualize what dPCA actually performs. Hope it helps get to know dPCA better.
 
-[1] D Kobak+, W Brendel+, C Constantinidis, CE Feierstein, A Kepecs, ZF Mainen, X-L Qi, R Romo, N Uchida, CK Machens
+[1] D Kobak+, W Brendel+, C Constantinidis, CE Feierstein, A Kepecs, ZF Mainen, X-L Qi, R Romo, N Uchida, CK Machens<br>
 <a href="https://elifesciences.org/content/5/e10989" target="_blank">Demixed principal component analysis of neural population data</a><br>
 eLife 2016
