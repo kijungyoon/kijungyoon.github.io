@@ -17,7 +17,7 @@ Graphical models for high-dimensional data are used in many applications such as
 
 It has been well known that the inverse covariance matrix $$(\Gamma=\Sigma^{-1})$$ of any multivariate Gaussian is graph-structured as a consequence of Hammersley–Clifford theorem; zeros in $$\Gamma$$ indicate the absence of an edge in the corresponding graphical model. For the non-Gaussian distributions, however, it is unknown whether the entries of $$\Gamma$$ have any relationship with the strengths of correlations along edges in the graph. Loh and Wainwright[[1]](https://arxiv.org/abs/1212.0478) studied the analog of this type of correspondence for non-Gaussian graphical models, and we will touch base on the main theorem with a binary Ising model, which is a special case of the non-Gaussian.
 
-![Markdowm Image][https://kijungyoonblog.files.wordpress.com/2016/08/graphical_models.jpg]
+![Markdowm Image](https://kijungyoonblog.files.wordpress.com/2016/08/graphical_models.jpg)
 
 The figure above shows a simple graph on four nodes (row 1) and the corresponding $$\Gamma$$ (row 2). Notably, the edge structure of the chain graph (a) is uncovered in
 <p align="center">$$\Gamma_a = \Sigma_a^{-1} = \textrm{cov}(X_1,X_2,X_3,X_4)$$</p>
@@ -39,4 +39,6 @@ The two augmented vectors could unveil the absence of edges (1,3) and (2,4) resp
 
 This is kind of cool because the authors have taken a leap toward making a general connection between graph structure and inverse covariance. Many remaining questions are expected to be solved such as how to deal with missing data or discrete graphical model with hidden variables.
 
-[1] P. Loh and M.J. Wainwright. <a href="https://arxiv.org/abs/1212.0478" target="_blank">Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses.</a> Annals of Statistics, 41(6):3022--3049, 2013
+[1] P. Loh and M.J. Wainwright.<Br>
+<a href="https://arxiv.org/abs/1212.0478" target="_blank">Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses.</a><br>
+Annals of Statistics, 41(6):3022--3049, 2013
