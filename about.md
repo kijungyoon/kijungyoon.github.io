@@ -15,7 +15,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.jpg" alt="Alt Text">
-        <figcaption class="caption">Photo by KiJung Yoon</figcaption>
+        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
@@ -29,7 +29,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/gridcat.jpg" alt="Alt Text">
-        <figcaption class="caption">Photo by KiJung Yoon</figcaption>
+        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
