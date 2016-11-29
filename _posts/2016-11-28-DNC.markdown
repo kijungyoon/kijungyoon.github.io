@@ -23,9 +23,12 @@ The earlier form of DNC is the neural Turing machine (NTM) [[3]](https://arxiv.o
 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/lstm.png)
 
-Note that the yellow box represents the set of (input/recurrent) weights to be learned for successfully performing a task given a time-varying input $$\mathbf{x}_t$$. Likewise, the controller of NTM is modelled by LSTM with additional sets of weights that determine interface parameters, whereby read-write access to a memory is regulated.
+Note that the yellow box represents the set of (input/recurrent) weights to be learned for successfully performing a task given a time-varying input $$\mathbf{x}_t$$. Likewise, the controller of NTM is modelled by LSTM with additional sets of weights that determine interface parameters, whereby read-write access to a memory is regulated:
 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/ntm.png)
+
+The first architectural difference of DNC from NTM is that DNC employs multiple read vectors and a deep LSTM although they are not necessary conditions.
+
 
 [1] A. Graves, G. Wayne et al.<br>
 <a href="https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html" target="_blank">Hybrid computing using a eural network with dynamic external memory.</a><br>
