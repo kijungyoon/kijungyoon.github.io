@@ -27,7 +27,8 @@ Note that the yellow box represents the set of (input/recurrent) weights to be l
 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/ntm.png)
 
-The first architectural difference of DNC from NTM is that DNC employs multiple read vectors and a deep LSTM although they are not necessary conditions.
+The first architectural difference of DNC from NTM is that DNC employs multiple read vectors and a deep LSTM although they are not necessary conditions. The qualitative difference is that DNC uses the dynamic memory allocation to ensure that blocks of allocated memory do not overlap and interfere.
+
 
 
 [1] A. Graves, G. Wayne et al.<br>
