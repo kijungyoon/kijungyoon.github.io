@@ -29,10 +29,10 @@ Note that the yellow box represents the set of (input/recurrent) weights to be l
 
 [1] A. Graves, G. Wayne et al.<br>
 <a href="https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html" target="_blank">Hybrid computing using a eural network with dynamic external memory.</a><br>
-Nature, 2016
+Nature, 2016<br>
 [2] C. Olah and S. Carter <br>
 <a href="http://distill.pub/2016/augmented-rnns/#adaptive-computation-time" target="_blank">Attention and Augmented Recurrent Neural Networks</a><br>
-Distill, 2016
+Distill, 2016<br>
 [3] A. Graves, G. Wayne, and I. Danihelka<Br>
 <a href="https://arxiv.org/abs/1410.5401" target="_blank">Neural Turing Machines</a><br>
-ArXiv, 2014
+ArXiv, 2014<br>
