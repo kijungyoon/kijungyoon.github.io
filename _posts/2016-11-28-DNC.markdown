@@ -19,13 +19,13 @@ Despite the popularity, RNNs lack the the ability to represent variables and dat
 
 In this post, I will focus on presenting detailed model schematics without making all intelligible because I have yet to find one such thing that visualizes the whole circuit, and there are already many instructive blogs outlining the key ingredients of the model framework. I personally use it as a cheat sheet for neural network models.
 
-The earlier form of DNC is the neural Turing machine (NTM) [[3]](https://arxiv.org/abs/1410.5401) developed by the same authors, and they share a larger part of the architecture. An elementary module of NTM/DNC is LSTM, referred as to a controller because it determines the values of interface parameters that control the memory interactions. The circuit from unfolding the recurrent computation of LSTM is given by:
+The earlier form of DNC is the neural Turing machine (NTM) [[3]](https://arxiv.org/abs/1410.5401) developed by the same authors, and they share a larger part of the architecture. An elementary module of NTM/DNC is LSTM, referred as to a controller because it determines the values of interface parameters that control the memory interactions. Unfolding the recurrent computation, here is the vanilla LSTM:
 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/lstm.png)
 
-Note that the yellow box represents the set of (input/recurrent) weights to be learned for successfully performing a task given a time-varying input $$\mathbf{x}_t$$. Likewise, the controller of NTM is modelled by LSTM with additional sets of weights that regulate interface parameters, whereby read-write access to a memory is decided.
+Note that the yellow box represents the set of (input/recurrent) weights to be learned for successfully performing a task given a time-varying input $$\mathbf{x}_t$$. Likewise, the controller of NTM is modelled by LSTM with additional sets of weights that determine interface parameters, whereby read-write access to a memory is regulated.
 
-![Markdowm Image](https://kijungyoon.github.io/assets/images/graphical_models.jpg)
+![Markdowm Image](https://kijungyoon.github.io/assets/images/ntm.png)
 
 [1] A. Graves, G. Wayne et al.<br>
 <a href="https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html" target="_blank">Hybrid computing using a eural network with dynamic external memory.</a><br>
