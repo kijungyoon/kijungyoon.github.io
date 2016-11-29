@@ -1,220 +1,46 @@
 ---
-title: "Markdown Common Elements"
+title: "Differentiable Neural Computer"
 layout: post
-date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
+date: 2016-11-28 20:30
 headerImage: false
 tag:
-- markdown
-- elements
+- RNN
+- LSTM
+- NTM
+- DNC
 blog: true
-star: true
-author: johndoe
-description: Markdown summary with different options
+star: false
+author: KiJung Yoon
 ---
 
-## Summary:
+Much as a feedforward neural network is to disentangle the spatial features of an input such as an image by approximating some functions, a recurrent neural network (RNN) aims to learn disentangled representations of the temporal features through feedback connections and parameter sharing over time. The vanilla RNN has a caveat of the vanishing gradient problem, and gated RNNs appear as an alternative but the most effective sequence models. The main idea is to create paths in time to prevent back propagated errors from vanishing or exploding. A special variant, called long short-term memory (LSTM) network has been found to be useful in many tasks such as machine translation, voice recognition, and image captioning.
 
-You can pick as item to see how to apply in markdown.
+Graves et al.[[1]](http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html) introduces a differentiable neural computer (DNC), which is an extension of RNNs with an external memory bank that the network can read from and write to. The motivation is to hurdle the limitations of RNNs such as the ability to represent variables and data structures, and to store data over long timescales for solving more complex tasks including reasoning and inference problems. It is broadly considered as augmented RNNs with attention mechanisms [[2]](http://distill.pub/2016/augmented-rnns/#adaptive-computation-time) that would probably accelerate the power of learning machines.
 
-### Comum Elements
-- [Basic formatting](#basic-formatting)
-- [Headings](#headings)
-- [Lists](#lists)
-- [Paragraph Modifiers](#paragraph-modifiers)
-- [Urls](#urls)
-- [Horizontal Rule](#horizontal-rule)
-- [Images](#images)
-- [Code](#code)
+In this post, I will focus on presenting detailed model schematics without making all intelligible because I have yet to find one such thing that visualizes the whole circuit, and there are already many instructive blogs outlining the key ingredients of the model framework. I personally use it as a cheat sheet for neural network models.
 
----
+![Markdowm Image](https://kijungyoon.github.io/assets/images/graphical_models.jpg)
 
-## Basic formatting
+The figure above shows a simple graph on four nodes (row 1) and the corresponding $$\Gamma$$ (row 2). Notably, the edge structure of the chain graph (a) is uncovered in
+<p align="center">$$\Gamma_a = \Sigma_a^{-1} = \textrm{cov}(X_1,X_2,X_3,X_4)$$</p>
+where the edges (1,3), (1,4), and (2,4) are represented in blue colors implying (nearly) zero in $$\Gamma$$ or no edges in the graph. Note that row 2 actually displays $$\log(\vert \Gamma \vert)$$ to highlight the difference between zero and nonzero values in $$\Gamma$$, and thus negative values (bluish and greenish color codes) in log domain suggest the absence of an edge due to finite precision of computations. The inverse covariance matrix $$\Gamma_b$$ of the cycle (b), however, could not reveal its edge structure in the same way as the chain.
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+When do certain inverse covariances capture the structure of a graphical model? Here comes the main theorem:
 
-And that's how to do it.
+> <strong>THEOREM 1</strong> (Triangulation and block graph-structure) <em>Consider an arbitrary discrete graphical model of a general multinomial exponential family, and let</em> $$\tilde{\mathcal{C}}$$ <em>be the set of all cliques in any triangulation of the graph</em> $$G$$. <em>Then the generalized covariance matrix</em> cov$$(\Psi(X;\tilde{\mathcal{C}}))$$ <em>is invertible, and its inverse</em> $$\Gamma$$ <em>is block graph-structured:</em>
 
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+> (a) <em>For any subset</em> $$A,B \in \tilde{\mathcal{C}}$$ <em>that are not subsets of the same maximal clique, the block</em> $$\Gamma(A,B)$$ <em>is identically zero.</em><br>
+(b) <em>For almost all parameters</em> $$\theta$$, <em>the entire block</em> $$\Gamma(A,B)$$ <em>is nonzero whenever</em> $$A$$ <em>and</em> $$B$$ <em>belong to a common maximal clique.</em>
 
----
+The essence of the theorem lies in adding higher-order moments into the original set of random variables to compute $$\Sigma$$ through a certain rule stated above. Graphs in (c) and (d) are the examples of triangulation of the cycle in (b), and the set of all cliques $$\tilde{\mathcal{C}}$$ of the triangulated graph (c,e) ends up with as follows:
+<p align="center">$$\Psi(X) = \{ X_1,X_2,X_3,X_4,X_1X_2,X_2X_3,X_3X_4,X_1X_4,X_1X_3,X_1X_2X_3,X_1X_3X_4\}$$</p>
+Does the 11 $$\times$$ 11 inverse of the matrix $$\textrm{cov}(\Psi(X))$$ capture the aspects of the graph structure? Yes, greenish colors correspond to zeros in the inverse covariance, some of which are $$(X_2,X_4),(X_2,X_3X_4), (X_2,X_1X_4)$$. Furthermore, one of the corollaries says that a much smaller set of cliques may be sufficient to satisfy the theorem 1. Graphs (c) and (d) are the concrete examples of the corollary:
+<p align="center">$$\Psi(X) = \{ X_1,X_2,X_3,X_4,X_1X_3\}$$</p>
+<p align="center">$$\Psi(X) = \{ X_1,X_2,X_3,X_4,X_2X_4\}$$</p>
+The two augmented vectors could unveil the absence of edges (1,3) and (2,4) respectively.
 
-## Headings
+This is kind of cool because the authors have taken a leap toward making a general connection between graph structure and inverse covariance. Many remaining questions are expected to be solved such as how to deal with missing data or discrete graphical model with hidden variables.
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-
-# Headings can be small
-
-## Headings can be small
-
-### Headings can be small
-
-#### Headings can be small
-
-{% highlight raw %}
-# Heading
-## Heading
-### Heading
-#### Heading
-{% endhighlight %}
-
----
-
-## Lists
-
-### Ordered list
-
-1. Item 1
-2. A second item
-3. Number 3
-
-{% highlight raw %}
-1. Item 1
-2. A second item
-3. Number 3
-{% endhighlight %}
-
-### Unordered list
-
-* An item
-* Another item
-* Yet another item
-* And there's more...
-
-{% highlight raw %}
-* An item
-* Another item
-* Yet another item
-* And there's more...
-{% endhighlight %}
-
----
-
-## Paragraph modifiers
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-> Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
-
----
-
-## URLs
-
-URLs can be made in a handful of ways:
-
-* A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-
-{% highlight raw %}
-* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-{% endhighlight %}
-
----
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-{% highlight raw %}
----
-{% endhighlight %}
-
----
-
-## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-{% endhighlight %}
-
-![Markdowm Image][6]
-
-*Figure Caption*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][6]
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-*Bigger Images*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][6]{: class="bigger-image" }
-
----
-
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-    padding: 10px;
-    font-size: .8em;
-    white-space: pre;
-}
-
-pre, table {
-    width: 100%;
-}
-
-code, pre, tt {
-    font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-    background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[1] P. Loh and M.J. Wainwright.<Br>
+<a href="https://arxiv.org/abs/1212.0478" target="_blank">Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses.</a><br>
+Annals of Statistics, 41(6):3022--3049, 2013
