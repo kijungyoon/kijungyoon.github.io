@@ -31,6 +31,7 @@ The first architectural difference of DNC from NTM is that DNC employs multiple 
 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/dnc.png)
 
+Note that there are some notational mismatches between NTM and DNC, but they are consistent with the original papers.<br>
 
 [1] A. Graves, G. Wayne et al.<br>
 <a href="https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html" target="_blank">Hybrid computing using a eural network with dynamic external memory.</a><br>
