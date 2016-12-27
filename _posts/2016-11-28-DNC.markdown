@@ -19,7 +19,7 @@ Despite the popularity, RNNs lack the the ability to represent variables and dat
 
 In this post, I will focus on presenting detailed model schematics without making all intelligible because I have yet to find one such thing that visualizes the whole circuit, and there are already many instructive blogs outlining the key ingredients of the model framework. I personally use it as a cheat sheet for neural network models.
 
-The earlier form of DNC is the neural Turing machine (NTM) [[3]](https://arxiv.org/abs/1410.5401) developed by the same authors, and they share a larger part of the architecture. An elementary module of NTM/DNC is LSTM, referred as to a controller because it determines the values of interface parameters that control the memory interactions. Unfolding the recurrent computation, here is the vanilla LSTM:
+The earlier form of DNC is the neural Turing machine (NTM) [[3]](https://arxiv.org/abs/1410.5401) developed by the same authors, and they share a large part of the architecture. An elementary module of NTM/DNC is LSTM, referred as to a controller because it determines the values of interface parameters that control the memory interactions. Unfolding the recurrent computation, here is the vanilla LSTM:
 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/lstm.png)
 
@@ -32,6 +32,7 @@ The first architectural difference of DNC from NTM is that DNC employs multiple 
 ![Markdowm Image](https://kijungyoon.github.io/assets/images/dnc.png)
 
 Note that there are some notational mismatches between NTM and DNC, but they are consistent with the original papers.<br>
+(still working...)
 
 [1] A. Graves, G. Wayne et al.<br>
 <a href="https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html" target="_blank">Hybrid computing using a eural network with dynamic external memory.</a><br>
