@@ -66,7 +66,7 @@ layout: page
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-	
-	> We are surrounded by and working for very impressive people. ... I would rather have a lot of focus, dedication, passion and confidence. ... From what i can tell, most people who struggle around me are not struggling because they are too stupid, but rather because they are too distractable, depressed, bored, disappointed with how amazing their work is, unable to drive themselves to do analysis or experiments, disorganized, or procrastinating, etc. <br> -C. D.
-
 </ul>
+
+> We are surrounded by and working for very impressive people. ... I would rather have a lot of focus, dedication, passion and confidence. ... From what i can tell, most people who struggle around me are not struggling because they are too stupid, but rather because they are too distractable, depressed, bored, disappointed with how amazing their work is, unable to drive themselves to do analysis or experiments, disorganized, or procrastinating, etc. <br> - C. D.
+
