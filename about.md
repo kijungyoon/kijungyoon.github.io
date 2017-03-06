@@ -36,7 +36,7 @@ layout: page
     <p><b>Specific evidence of low-dimensional continuous attractor dynamics</b><br>
     <b>Yoon, KJ.</b>, Buice, M. A., Barry, C., Hayman, R., Burgess, N., and Fiete, I. R.<br>
 	<i>Nature Neuroscience (2013)</i><br>
-	[<a href="https://www.researchgate.net/profile/Kijung_Yoon/publication/249320873_Specific_evidence_of_low-dimensional_continuous_attractor_dynamics_in_grid_cells/links/0deec5230f3ca58336000000.pdf">pdf</a>],[<a href="http://www.nature.com/neuro/journal/v16/n8/extref/nn.3450-S1.pdf">SI</a>],[<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiIhNCW85LQAhWqsVQKHXK5DHIQFggnMAE&url=http%3A%2F%2Ff1000.com%2Fprime%2F718030887&usg=AFQjCNHhAmmMNnD-zFD-v2PJHmr7hc8kYg&sig2=ByZupaSyaCDKPMy5T7LLaQ&bvm=bv.137904068,d.amc">F1000</a>]</p>
+	[<a href="https://pdfs.semanticscholar.org/e213/a8021156ee97e647576170e49a87db2a0e9a.pdf">pdf</a>],[<a href="http://www.nature.com/neuro/journal/v16/n8/extref/nn.3450-S1.pdf">SI</a>],[<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiIhNCW85LQAhWqsVQKHXK5DHIQFggnMAE&url=http%3A%2F%2Ff1000.com%2Fprime%2F718030887&usg=AFQjCNHhAmmMNnD-zFD-v2PJHmr7hc8kYg&sig2=ByZupaSyaCDKPMy5T7LLaQ&bvm=bv.137904068,d.amc">F1000</a>]</p>
     </div>
 </div>
 
