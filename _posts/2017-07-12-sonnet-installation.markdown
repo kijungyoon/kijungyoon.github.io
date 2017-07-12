@@ -8,8 +8,9 @@ projects: true
 hidden: true
 ---
 
-Sonnet Installation Instructions on AWS Ubuntu Server 16.04 LTS (HVM), SSD Volume Type - ami-835b4efa
+Sonnet on AWS Ubuntu Server 16.04 LTS (HVM), SSD Volume Type - ami-835b4efa
 ---
+> The main principle of Sonnet is to first construct Python objects which represent some part of a neural network, and then separately connect these objects into the TensorFlow computation graph. The objects are subclasses of sonnet.AbstractModule and as such are referred to as Modules. Modules may be connected into the graph multiple times, and any variables declared in that module will be automatically shared on subsequent connection calls
 
 <ol><li>
 <p>We start by updating the packages of Ubuntu:</p>
