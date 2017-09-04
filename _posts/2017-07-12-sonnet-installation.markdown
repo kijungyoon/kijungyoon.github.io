@@ -21,8 +21,8 @@ $ sudo apt-get update &amp;&amp; sudo apt-get -y upgrade
 <li>
 <p>Install pip and virtualenv by issuing one of the following commands:</p>
 <pre><code>
-$ sudo apt-get install python-pip python-dev python-virtualenv # for Python 2.7
-$ sudo apt-get install python3-pip python3-dev python-virtualenv # for Python 3.n
+$ sudo apt-get install python-pip python-dev python-virtualenv python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas # for Python 2.7
+$ sudo apt-get install python3-pip python3-dev python-virtualenv python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas # for Python 3.n
 </code></pre>
 </li>
 <li>
