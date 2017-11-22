@@ -41,7 +41,8 @@ layout: page
 </div>
 
 <h2>Conference abstracts</h2>
-<ul class="conference-list">	
+<ul class="conference-list">
+	<li><b>Yoon, KJ.</b>, & Pitkow, X. “Learning nonlinearities for identifying regular structure in the brain’s inference algorithm.”, <i>Cosyne</i> (2018) [<a href="https://">pdf</a>]</li>
 	<li><b>Yoon, KJ.</b>, & Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, <i>Society for Neuroscience</i> (2014) [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/abstracts/abstract06.pdf">pdf</a>]</li>
 	<li><b>Yoon, KJ.</b>*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, <i>Society for Neuroscience</i> (2013) [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/abstracts/abstract05.pdf">pdf</a>]</li>
 	<li>Lewallen, S.*, <b>Yoon, KJ.</b>*, Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “1D grid fields are slices of a 2D hexagonal lattice.”, <i>Society for Neuroscience</i>, (2013) [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/abstracts/abstract04.pdf">pdf</a>]</li>
