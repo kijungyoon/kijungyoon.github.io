@@ -56,18 +56,7 @@ layout: page
 <ul class="skill-list">
 	<li>Bash, C, C++, Java, LaTeX, Matlab, Python, R</li>
 	<li>CSS, HTML, JavaScript</li>
-	<li>Keras, NumPy, TensorFlow, Pandas, SciPy, scikit-learn, Spark, Theano</li>
+	<li>Keras, NumPy, TensorFlow, Pandas, PyTorch, SciPy, scikit-learn, Spark</li>
+	<li>Edward, Pyro</li>
 	<li>Illustrator, Photoshop</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
-
-<h2></h2>
-> We are surrounded by and working for very impressive people. ... I would rather have a lot of focus, dedication, passion and confidence. ... From what i can tell, most people who struggle around me are not struggling because they are too stupid, but rather because they are too distractable, depressed, bored, disappointed with how amazing their work is, ... <br> - C. D.
-
