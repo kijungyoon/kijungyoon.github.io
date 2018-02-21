@@ -4,11 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am interested in computational neuroscience, unsupervised learning, and artificial intelligence. The current deep learning systems do neither have enough structure in the search space nor exploit the regularities of the external world. Namely, they live in an encoded world by human involvement. In this prong, I aim to understand the mathematical abstractions of representations and nonlinear transformations employed by the brain.</p>
+<p>I am a postdoctoral researcher in <a href="http://xaqlab.com" target="_blank">Xaq Pitkow</a>'s lab at Baylor College of Medicine and Rice University. My recent work lies on the intersection of probabilistic graphical models and neural networks, to reproduce the brain's inference algorithm.</p>
 
-<p>I am currently a Postdoctoral Researcher in <a href="http://xaqlab.com" target="_blank">Xaq Pitkow</a>'s lab at Baylor College of Medicine and Rice University, where I study structure learning of graphical models for understanding the mathematical principles of context-dependent computation in the brain.</p>
-
-<p>Prior to that, I obtained a PhD in 2015 in the Department of Electrical and Computer Engineering at UT Austin, in <a href="http://clm.utexas.edu/fietelab" target="_blank">Ila Fiete</a>'s lab. My research in the Fiete group focused on developing statistical tools for studying the dimensionality of the dynamical system neurons belong to and for unraveling neural representations of space in the brain.</p><br>
+<p>Prior to that, I obtained a PhD in 2015 in the Department of Electrical and Computer Engineering at UT Austin, in <a href="http://clm.utexas.edu/fietelab" target="_blank">Ila Fiete</a>'s lab. My research in the Fiete group focused on neural coding, dynamics of neural networks, and Bayesian inference for studying neural representations of space in the brain.</p><br>
 
 
 <h2>Journal articles</h2>
