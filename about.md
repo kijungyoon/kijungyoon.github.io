@@ -9,7 +9,48 @@ layout: page
 <p>Prior to that, I obtained a PhD in 2015 in the Department of Electrical and Computer Engineering at UT Austin, in <a href="http://clm.utexas.edu/fietelab" target="_blank">Ila Fiete</a>'s lab. My research in the Fiete group focused on neural coding, dynamics of neural networks, and Bayesian inference for studying neural representations of space in the brain.</p><br>
 
 
-<h2>Journal articles</h2>
+<h2>Publications</h2>
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/inference_gnn.png" alt="Alt Text">
+        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
+    </div>
+
+    <div class="toright">
+    <p><b>Inference in probabilistic graphical models by graph neural networks</b><br>
+    <b>Yoon, KJ.</b>, Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
+	<i>In review</i><br>
+	[<a href="https://">pdf</a>]</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/rbp.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Reviving and improving recurrent backpropagation</b><br>
+    Liao, R., Xiong, Y., Fetaya, E., Zhang, L., <b>Yoon, KJ.</b>, Pitkow, X., Urtasun, R., & Zemel, R. <br>
+	<i>In review</i><br>
+	[<a href="https://">pdf</a>]</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.jpg" alt="Alt Text">
+        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
+    </div>
+
+    <div class="toright">
+    <p><b>A map-like micro-organization of grid cells in the medial entorhinal cortex</b><br>
+    Gu, Y., Lewallen, S., Kinkhabwala, A. A., Domnisoru, C., <b>Yoon, KJ.</b>, Gauthier, J., Fiete, I. R., and Tank, D. W.<br>
+	<i>In review</i><br>
+	[<a href="https://">pdf</a>]</p>
+    </div>
+</div>
+
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.jpg" alt="Alt Text">
