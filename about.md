@@ -94,9 +94,9 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Bash, C, C++, Java, LaTeX, Matlab, Python, R</li>
-	<li>CSS, HTML, JavaScript</li>
-	<li>Keras, NumPy, TensorFlow, Pandas, PyTorch, SciPy, scikit-learn, Spark</li>
+	<li>Python, Java, C, Matlab, LaTeX, Bash</li>
+	<li>TensorFlow, PyTorch, Keras, NumPy, SciPy, Pandas, scikit-learn</li>
 	<li>Edward, Pyro</li>
+	<li>CSS, HTML, JavaScript</li>
 	<li>Illustrator, Photoshop</li>
 </ul>
