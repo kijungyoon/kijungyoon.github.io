@@ -20,8 +20,8 @@ layout: page
     <p><b>Inference in probabilistic graphical models by graph neural networks</b><br>
     <b>Yoon, KJ.</b>, Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
 	<i>In review</i>
-	[<a href="https://">pdf</a>]</p><br>
-	<i>To be presented in ICLR Workshop (2018)</i>
+	[<a href="https://">pdf</a>]<br>
+	<i>(to be presented in ICLR Workshop, 2018)</i></p>
     </div>
 </div>
 
