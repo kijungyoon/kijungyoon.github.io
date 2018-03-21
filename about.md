@@ -34,7 +34,7 @@ layout: page
     <p><b>Reviving and improving recurrent backpropagation</b><br>
     Liao, R., Xiong, Y., Fetaya, E., Zhang, L., <b>Yoon, KJ.</b>, Pitkow, X., Urtasun, R., & Zemel, R. <br>
 	<i>In review</i>
-	[<a href="https://arxiv.org/abs/1803.06396">pdf</a>]</p><br>
+	[<a href="https://arxiv.org/abs/1803.06396">arXiv:1803.06396</a>]</p><br>
     </div>
 </div>
 
