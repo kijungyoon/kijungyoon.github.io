@@ -21,7 +21,7 @@ layout: page
     <b>Yoon, KJ.</b>, Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
 	<i>In review</i>
 	[<a href="https://">pdf</a>]<br>
-	<i>(to be presented in <a href="https://openreview.net/forum?id=rkN1pF1vz">ICLR Workshop<\a>, 2018)</i></p>
+	<i>(to be presented in <a href="https://openreview.net/forum?id=rkN1pF1vz">ICLR Workshop</a>, 2018)</i></p>
     </div>
 </div>
 
