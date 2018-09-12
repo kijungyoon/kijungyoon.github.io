@@ -33,8 +33,8 @@ layout: page
     <div class="toright">
     <p><b>Reviving and improving recurrent backpropagation</b><br>
     Liao, R., Xiong, Y., Fetaya, E., Zhang, L., <b>Yoon, KJ.</b>, Pitkow, X., Urtasun, R., & Zemel, R. <br>
-	<i>In review</i>
-	[<a href="https://arxiv.org/abs/1803.06396">arXiv:1803.06396</a>]</p><br>
+	<i>ICML (2018)</i>
+	[<a href="http://proceedings.mlr.press/v80/liao18c/liao18c.pdf">pdf</a>]</p><br>
     </div>
 </div>
 
@@ -47,8 +47,8 @@ layout: page
     <div class="toright">
     <p><b>A map-like micro-organization of grid cells in the medial entorhinal cortex</b><br>
     Gu, Y., Lewallen, S., Kinkhabwala, A. A., Domnisoru, C., <b>Yoon, KJ.</b>, Gauthier, J., Fiete, I. R., and Tank, D. W.<br>
-	<i>In review</i>
-	[<a href="https://">pdf</a>]</p><br>
+	<i>Cell (2018)</i>
+	[<a href="https://">In press</a>]</p><br>
     </div>
 </div>
 
