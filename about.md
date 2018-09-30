@@ -28,6 +28,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/rbp.png" alt="Alt Text">
+	<figcaption class="caption">Graphic by Xaq Pitkow</figcaption>
     </div>
 
     <div class="toright">
@@ -41,14 +42,14 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/micro_gc.png" alt="Alt Text">
-        
+        <figcaption class="caption">Graphic by Yi Gu</figcaption>
     </div>
 
     <div class="toright">
     <p><b>A map-like micro-organization of grid cells in the medial entorhinal cortex</b><br>
     Gu, Y., Lewallen, S., Kinkhabwala, A. A., Domnisoru, C., <b>Yoon, KJ.</b>, Gauthier, J., Fiete, I. R., and Tank, D. W.<br>
 	<i>Cell (2018)</i>
-	[<a href="https://">In press</a>]</p><br>
+	[<a href="https://doi.org/10.1016/j.cell.2018.08.066">In press</a>]</p><br>
     </div>
 </div>
 
