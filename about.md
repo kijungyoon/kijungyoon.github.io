@@ -4,8 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am an Assistant Professor in the School of Electronic and Electrical Engineering at Hongik University.
-
 <p>I was a postdoctoral researcher in <a href="http://xaqlab.com" target="_blank">Xaq Pitkow</a>'s lab at Baylor College of Medicine and Rice University. My recent work lies on the intersection of probabilistic graphical models and neural networks, to reproduce the brain's inference algorithm.</p>
 
 <p>Prior to that, I obtained a PhD in 2015 in the Department of Electrical and Computer Engineering at UT Austin, in <a href="http://clm.utexas.edu/fietelab" target="_blank">Ila Fiete</a>'s lab. My research in the Fiete group focused on neural coding, dynamics of neural networks, and Bayesian inference for studying neural representations of space in the brain.</p><br>
