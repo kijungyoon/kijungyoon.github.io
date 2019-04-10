@@ -10,7 +10,7 @@ description: A blog about neural computation, machine learning, and AI
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://kijungyoon.github.io
+url: http://kijungyoon.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
