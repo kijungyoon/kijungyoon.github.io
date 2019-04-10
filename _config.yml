@@ -3,7 +3,7 @@ name: Yoon Lab @ Hanyang
 bio: Neuro-inspired AI group <br><br> Our group is interested in understanding principles that underlie learning and inference in the brain and machines, mainly by using tools from machine learning and statistics.
 
 # twitter summary info
-description: A blog about neural computation, machine learning, and AI
+description:
 
 # if it's an external image, update below for true
 # better with square images
@@ -48,7 +48,7 @@ github: kijungyoon
 authors:
     kijung:
         name: KiJung Yoon
-        bio: A Man who studies how the brain works
+        bio: 
         external-image: false
         #picture: assets/images/profile.jpg
 
@@ -63,11 +63,11 @@ width: large
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # if you don't need projects, comment the *projects* configs below
 code: true
-projects: true
+projects: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
