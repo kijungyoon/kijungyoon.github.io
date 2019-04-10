@@ -62,12 +62,13 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: false
+people: true
+# about: true
+# blog: false
 
 # if you don't need projects, comment the *projects* configs below
 code: true
-projects: false
+# projects: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
