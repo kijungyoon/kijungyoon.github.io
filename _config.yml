@@ -7,8 +7,8 @@ description: A blog about neural computation, machine learning, and AI
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: #assets/images/profile.jpg
+# external-image: false
+# picture: assets/images/profile.jpg
 
 url: https://kijungyoon.github.io/
 # your url: http://USERNAME.github.io
@@ -50,7 +50,7 @@ authors:
         name: KiJung Yoon
         bio: A Man who studies how the brain works
         external-image: false
-        picture: assets/images/profile.jpg
+        #picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
