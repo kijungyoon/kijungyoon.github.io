@@ -1,6 +1,6 @@
 # main text of home
 name: Yoon Lab @ Hanyang
-bio: Neuro-inspired AI group <br> Our group is interested in understanding principles that underlie learning, inference and information processing, mainly by using tools from deep machine learning.
+bio: Neuro-inspired AI group <br><br> Our group is interested in understanding principles that underlie learning and inference in the brain and machines, mainly by using tools from machine learning and statistics.
 
 # twitter summary info
 description: A blog about neural computation, machine learning, and AI
@@ -36,13 +36,13 @@ disqus: false #mydisqus
 # linkedin: kijung-yoon-85480a6
 # youtube: myyoutube
 # spotify: myspotify
-# github: kijungyoon
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: kijung.yoon
 # vimeo: myvimeo
 email: kiyoon@hanyang.ac.kr
+github: kijungyoon
 #google: citations?user=YH7_rOEAAAAJ&hl=en
 
 authors:
