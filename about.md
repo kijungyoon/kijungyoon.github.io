@@ -93,12 +93,3 @@ layout: page
 </ul>
 
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>Python, Java, C, Matlab, LaTeX, Bash</li>
-	<li>TensorFlow, PyTorch, Keras, NumPy, SciPy, Pandas, scikit-learn</li>
-	<li>Edward, Pyro</li>
-	<li>CSS, HTML, JavaScript</li>
-	<li>Illustrator, Photoshop</li>
-</ul>
