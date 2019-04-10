@@ -3,9 +3,9 @@ title: People
 layout: page
 ---
 
-<h2> KiJung Yoon, PI &nbsp&nbsp&nbsp&nbsp&nbsp</h2>
 <div class="side-by-side">
     <div class="toleft">
+	<h2> KiJung Yoon, PI</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/profile.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
@@ -15,9 +15,10 @@ layout: page
     </div>   
 </div>
 
-<h2>Future lab members &nbsp&nbsp&nbsp&nbsp&nbsp</h2>
+
 <div class="side-by-side">
     <div class="toleft">
+	<h2>Future lab members</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/future_members.png" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
