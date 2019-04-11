@@ -50,7 +50,7 @@ authors:
         name: KiJung Yoon
         bio: temp
         external-image: false
-        #picture: assets/images/profile.jpg
+        picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -62,12 +62,12 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need "about" or "blog", comment them out below
-people: true
 # about: true
 # blog: false
+people: true
 
 # if you don't need projects, comment the *projects* configs below
-code: true
+# code: true
 # projects: false
 
 # do you want to show the "read time" of the posts?
