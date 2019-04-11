@@ -16,15 +16,3 @@ layout: page
     </div>   
 </div>
 
-
-<div class="side-by-side">
-    <div class="toleft">
-	<h2>Future lab members</h2>
-        <img class="image" src="https://kijungyoon.github.io/assets/images/future_members.png" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    
-</div>
-
-
