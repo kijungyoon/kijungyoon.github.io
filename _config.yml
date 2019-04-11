@@ -1,9 +1,9 @@
 # main text of home
 name: Yoon Lab @ Hanyang
-bio: Neuro-inspired AI group <br> Our group is interested in understanding principles that underlie learning and inference in the brain and machines, mainly by using tools from machine learning and statistics.
+bio: Neuro-inspired AI group <br><br> Our group is interested in understanding principles that underlie learning and inference in the brain and machines, mainly by using tools from machine learning and statistics.
 
 # twitter summary info
-description: temp
+# description: temp
 
 # if it's an external image, update below for true
 # better with square images
