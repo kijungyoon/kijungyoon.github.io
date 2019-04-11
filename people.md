@@ -24,10 +24,7 @@ layout: page
 	<figcaption class="caption"></figcaption>
     </div>
 	
-    <div class="toright">
-    <br><br><br><br>
-    <p>We are hiring and welcome inquiries from motivated students who explore and figure out directions on their own. If interested, please send an email to me with arranging for your CV.</p>
-    </div>   
+    
 </div>
 
 
