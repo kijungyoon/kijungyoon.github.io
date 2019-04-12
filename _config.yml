@@ -65,6 +65,7 @@ width: normal
 # about: false
 # blog: false
 people: true
+contact: true
 
 # if you don't need projects, comment the *projects* configs below
 # code: false
