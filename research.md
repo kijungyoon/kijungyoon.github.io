@@ -12,9 +12,9 @@ layout: page
 <h3>3. Computational Neuroscience</h3>
 <p>What kinds of network connectivity or organization support integration, memory, and gating in the brain? We study these questions through the aforementioned tools.</p>
 
-    <div class="center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text">
-        <figcaption class="caption"></figcaption>
-    </div>
+<div class="center">
+    <img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text">
+    <figcaption class="caption"></figcaption>
+</div>
 
 
