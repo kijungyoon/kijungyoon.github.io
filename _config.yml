@@ -43,7 +43,7 @@ disqus: false #mydisqus
 # vimeo: myvimeo
 email: kiyoon@hanyang.ac.kr
 github: kijungyoon
-#google: citations?user=YH7_rOEAAAAJ&hl=en
+google: citations?user=YH7_rOEAAAAJ&hl=en
 
 authors:
     kijung:
@@ -62,9 +62,9 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need "about" or "blog", comment them out below
-# about: false
 # blog: false
 people: true
+publication: true
 contact: true
 
 # if you don't need projects, comment the *projects* configs below
