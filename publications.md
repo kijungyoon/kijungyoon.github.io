@@ -11,7 +11,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/inference_gnn.png" alt="Alt Text">
-        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
+        <figcaption class="caption">Image by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
@@ -24,7 +24,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/rbp.png" alt="Alt Text">
-	<figcaption class="caption">Graphic by Xaq Pitkow</figcaption>
+	<figcaption class="caption">Image by Xaq Pitkow</figcaption>
     </div>
 
     <div class="toright">
@@ -38,7 +38,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/micro_gc.png" alt="Alt Text">
-        <figcaption class="caption">Graphic by Yi Gu</figcaption>
+        <figcaption class="caption">Image by Yi Gu</figcaption>
     </div>
 
     <div class="toright">
@@ -52,7 +52,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.jpg" alt="Alt Text">
-        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
+        <figcaption class="caption">Image by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
@@ -66,7 +66,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/gridcat.jpg" alt="Alt Text">
-        <figcaption class="caption">Graphic by KiJung Yoon</figcaption>
+        <figcaption class="caption">Image by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
