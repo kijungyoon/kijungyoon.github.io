@@ -64,7 +64,7 @@ width: normal
 # if you don't need "about" or "blog", comment them out below
 # blog: false
 people: true
-publication: true
+publications: true
 contact: true
 
 # if you don't need projects, comment the *projects* configs below
