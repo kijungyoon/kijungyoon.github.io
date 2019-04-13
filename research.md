@@ -1,4 +1,3 @@
-```
 ---
 title: Research
 layout: page
@@ -18,5 +17,4 @@ layout: page
         <figcaption class="caption"></figcaption>
     </div>
 
-```
 
