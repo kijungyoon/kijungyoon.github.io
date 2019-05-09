@@ -8,7 +8,7 @@ description: temp
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-# picture: assets/images/profile.jpg
+picture: assets/images/hex.jpg
 
 url: https://kijungyoon.github.io
 # your url: http://USERNAME.github.io
