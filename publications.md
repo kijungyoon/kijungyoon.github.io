@@ -17,8 +17,8 @@ layout: page
     <div class="toright">
     <p><b>Inference in probabilistic graphical models by graph neural networks</b><br>
     <b>Yoon, KJ.</b>, Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
-	<i><a href="https://arxiv.org/pdf/1803.07710.pdf">arXiv:1803.07710</a> (2018)</i><br></p>
-    <p style="font-size:15px">ICML (2019), Workshop on Tractable Probabilistic Modeling (Best Paper Award)</p>
+	<i><a href="https://arxiv.org/pdf/1803.07710.pdf">arXiv:1803.07710</a> (2018)</i></p>
+    <p style="font-size:12px">ICML (2019), Workshop on Tractable Probabilistic Modeling <b>(Best Paper Award)</b></p>
     </div>
 </div>
 
