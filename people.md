@@ -25,7 +25,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p>Hyunmok Park</p>
+    <p><b>Hyunmok Park</b></p>
     <p>B.S. in EE at Hanyang University</p>
     </div>
 </div>
