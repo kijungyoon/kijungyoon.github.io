@@ -18,6 +18,20 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+	<h2>Graduate Students</h2>
+        <img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p>Hyunmok Park</p>
+    <p>B.S. in EE at Hanyang University</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
 	<h2>Future lab members</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/future_members.png" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
