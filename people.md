@@ -40,6 +40,6 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p>We welcome inquiries from motivated students who explore and figure out directions on their own. If interested, please send an email to me with arranging for your CV.</p>
-    [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/_posts/2016-08-05-dPCA.markdown">[Opening] Fall 2020 Undergraduate Research Internship</a>]</p><br>
+    <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/_posts/2016-08-05-dPCA.markdown">[Opening] Fall 2020 Undergraduate Research Internship</a><br>
     </div>
 </div>
