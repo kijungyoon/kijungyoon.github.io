@@ -20,3 +20,5 @@
 - Opportunity for contributing to a top-tier academic publication.
 
   Depending on your commitment and contributions to the project, you will have an opportunity to co-author a research paper.
+
+**Please apply by sending an email to kiyoon [at] hanyang.ac.kr**
