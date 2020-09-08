@@ -3,6 +3,7 @@
 #### [Neuro-Inspired AI Lab](http://yoonlab.hanyang.ac.kr) @ Hanyang University
 
 **[Project 1] Learning neuroscience-inspired nonlinear activation functions of DNNs**
+
 **[Project 2] Connectivity inference in recurrent networks by DNNs**
 
 **Required skills/experiences**
