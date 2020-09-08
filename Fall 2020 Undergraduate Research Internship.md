@@ -8,7 +8,7 @@
 
 **Required skills/experiences**
 
-- I'm looking for students who have basic python programming knowledge and have taken any undergraduate machine learning/deep learning/AI courses at HY. This is not a requirement, but is strongly recommended.
+- I'm looking for students who have basic python programming knowledge and have taken any undergraduate-level machine learning/deep learning/AI courses at HY. This is not a requirement, but is strongly recommended.
 - Expertise in modern deep learning frameworks (e.g. PyTorch, TensorFlow, etc.)
 
 **Benefits**
