@@ -11,9 +11,9 @@
 
 **Benefits**
 
-- Opportunity to gain hands-on experience in ML/DL/AI research
+- Opportunity to gain hands-on experience in ML/DL/AI research.
 
-- Opportunity to design and conduct ML/DL/AI experiments
+- Opportunity to design and conduct ML/DL/AI experiments.
 
 - Opportunity for contributing to a top-tier academic publication.
 
