@@ -66,6 +66,7 @@ width: normal
 people: true
 research: true
 publications: true
+teaching: true
 contact: true
 
 # if you don't need projects, comment the *projects* configs below
