@@ -7,6 +7,6 @@ layout: page
 <p> <u>Undergraduate</u><br>
 Linear Algebra<br>
 Introduction to AI<br>
-<u>Graduate</u>
+<u>Graduate</u><br>
 Graph-based Machine Learning</p>
 
