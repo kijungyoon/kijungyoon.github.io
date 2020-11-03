@@ -65,7 +65,7 @@ width: large
 # blog: false
 people: true
 research: true
-publications: true
+papers: true
 teaching: true
 contact: true
 
