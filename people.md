@@ -40,6 +40,6 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p>We welcome inquiries from motivated students who explore and figure out directions on their own. If interested, please send an email to me with arranging for your CV.</p>
-    [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/Fall%202020%20Undergraduate%20Research%20Internship.md"> Fall 2020 Undergraduate Research Internship</a><br>
+    <!-- [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/Fall%202020%20Undergraduate%20Research%20Internship.md"> Fall 2020 Undergraduate Research Internship</a><br> -->
     </div>
 </div>
