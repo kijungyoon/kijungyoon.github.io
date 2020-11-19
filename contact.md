@@ -11,4 +11,4 @@ R&D Building (산학기술관) 702<br>
 Seoul, 04763<br>
 South Korea<br>
 
-<a href="https://www.hanyang.ac.kr/web/eng/campus-map-directions" target="_blank">Campus map</a>
+<a href="https://www.hanyang.ac.kr/web/eng/map_seoul" target="_blank">Campus map</a>
