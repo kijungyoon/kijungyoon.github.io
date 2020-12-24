@@ -43,7 +43,7 @@ disqus: false #mydisqus
 # vimeo: myvimeo
 email: kiyoon@hanyang.ac.kr
 github: yoon-lab-hy
-google: citations?user=YH7_rOEAAAAJ&hl=en
+# google: citations?user=YH7_rOEAAAAJ&hl=en
 
 authors:
     kijung:
