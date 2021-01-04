@@ -41,7 +41,17 @@ layout: page
     </div>
 </div>
 
-
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/DongminKim.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Dongmin Kim (김동민)</b></p>
+    </div>
+</div>
 
 <div class="side-by-side">
     <div class="toleft">
