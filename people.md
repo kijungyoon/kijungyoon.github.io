@@ -20,13 +20,13 @@ layout: page
     <div class="toleft">
 	<h2>Graduate Students</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
 	
     <div class="toright">
     <br><br><br><br>
     <p><b>Hyunmok Park</b></p>
-    <p>B.S. in EE at Hanyang University</p>
     </div>
 </div>
 
