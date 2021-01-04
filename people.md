@@ -43,7 +43,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/Dongmin Kim.jpg" alt="Alt Text">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/DongminKim.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
 	
@@ -67,7 +67,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/Taehoon Park.jpg" alt="Alt Text">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/TaehoonPark.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
 	
