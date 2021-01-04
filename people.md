@@ -20,14 +20,36 @@ layout: page
     <div class="toleft">
 	<h2>Graduate Students</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/JuhyunKim.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Hyunmok Park</b></p>
+    <p><b>Hyunmok Park (박현목)</b></p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Donghee Kang (강동희)</b></p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/JuhyunKim.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Juhyun Kim (김주현)</b></p>
     </div>
 </div>
 
