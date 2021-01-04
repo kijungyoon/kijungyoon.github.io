@@ -21,6 +21,7 @@ layout: page
 	<h2>Graduate Students</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
 	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/JuhyunKim.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
 	
