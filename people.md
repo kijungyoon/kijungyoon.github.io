@@ -5,7 +5,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<h2> KiJung Yoon, PI</h2>
+	<h2> KiJung Yoon (윤기중), PI</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/profile.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
