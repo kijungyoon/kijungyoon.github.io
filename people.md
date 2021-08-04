@@ -76,5 +76,7 @@ layout: page
     <br><br><br><br>
     <p>We welcome inquiries from motivated students who explore and figure out directions on their own. If interested, please send an email to me with arranging for your CV.</p>
     <!-- [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/e221e35bf11a2611f5249cf07ae0cf9d498cde29/Fall%202021%20Undergraduate%20Research%20Internship.md"> Fall 2021 Undergraduate Research Internship</a><br> -->
-    </div>
+    [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/e221e35bf11a2611f5249cf07ae0cf9d498cde29/Fall%202021%20Undergraduate%20Research%20Internship.md"> Fall 2021 Undergraduate Research Internship</a><br>
+	  
+</div>
 </div>
