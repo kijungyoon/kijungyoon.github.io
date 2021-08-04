@@ -4,7 +4,7 @@
 
 **[Project 1] Manifold learning from time-series data**
 
-**[Project 2] Building Exponential random graph models**
+**[Project 2] Building exponential random graph models**
 
 **Required skills/experiences**
 
