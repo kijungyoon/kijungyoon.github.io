@@ -1,6 +1,6 @@
 # Fall 2021 Undergraduate Research Internship
 
-#### [Neuro-Inspired AI Lab](http://yoonlab.hanyang.ac.kr) @ Hanyang University
+#### [Neuro-Inspired AI Lab](https://yoonlab.hanyang.ac.kr) @ Hanyang University
 
 **[Project 1] Manifold learning from time-series data**
 
