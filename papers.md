@@ -10,8 +10,20 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/complex_neurons.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Two-argument activation functions learn soft XOR operations like cortical neurons</b><br>
+    <b>Yoon, KJ.</b>, Orhan, E., Kim, J., & Pitkow, X.<br>
+    <i><a href="https://arxiv.org/pdf/.pdf">arXiv:</a> (2021)</i></p>
+    <p style="font-size:12px">CRS21 - Dialogues on Neural and Machine Intelligence (2021)</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/inference_gnn.png" alt="Alt Text">
-        <figcaption class="caption">Image by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
@@ -25,7 +37,6 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/rbp.png" alt="Alt Text">
-	<figcaption class="caption">Image by Xaq Pitkow</figcaption>
     </div>
 
     <div class="toright">
@@ -39,7 +50,6 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/micro_gc.png" alt="Alt Text">
-        <figcaption class="caption">Image by Yi Gu</figcaption>
     </div>
 
     <div class="toright">
@@ -53,7 +63,6 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.jpg" alt="Alt Text">
-        <figcaption class="caption">Image by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
@@ -67,7 +76,6 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/gridcat.jpg" alt="Alt Text">
-        <figcaption class="caption">Image by KiJung Yoon</figcaption>
     </div>
 
     <div class="toright">
