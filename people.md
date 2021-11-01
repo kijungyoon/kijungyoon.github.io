@@ -49,7 +49,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Juhyun Kim (김주현)</b></p>
+    <p><b>Juhyeon Kim (김주현)</b></p>
     </div>
 </div>
 
