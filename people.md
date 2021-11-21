@@ -91,7 +91,6 @@ layout: page
     <!-- [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/e221e35bf11a2611f5249cf07ae0cf9d498cde29/Fall%202021%20Undergraduate%20Research%20Internship.md"> Undergraduate Research Internship</a><br> -->
     [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/e221e35bf11a2611f5249cf07ae0cf9d498cde29/Fall%202021%20Undergraduate%20Research%20Internship.md"> Undergraduate/Graduate/Postdoc Research Positions</a><br>
 	  
-</div>
 	
 <div class="side-by-side">
     <div class="toleft">
@@ -101,4 +100,5 @@ layout: page
     </div>
 </div>
 	
+</div>
 </div>
