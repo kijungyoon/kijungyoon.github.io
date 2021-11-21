@@ -67,6 +67,19 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+	<h2>Undergrads</h2>
+        <img class="image" src="https://kijungyoon.github.io/assets/images/HyunGeunLee.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Hyungeun Lee (이현근)</b></p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
 	<h2>Future lab members</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/future_members.png" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
@@ -79,4 +92,13 @@ layout: page
     [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/e221e35bf11a2611f5249cf07ae0cf9d498cde29/Fall%202021%20Undergraduate%20Research%20Internship.md"> Undergraduate/Graduate/Postdoc Research Positions</a><br>
 	  
 </div>
+	
+<div class="side-by-side">
+    <div class="toleft">
+	<h2>Group Alumni</h2>
+	<br><br><br><br>
+        <p><b> -- </b></p>
+    </div>
+</div>
+	
 </div>
