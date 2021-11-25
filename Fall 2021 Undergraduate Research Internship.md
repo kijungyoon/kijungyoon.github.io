@@ -1,14 +1,16 @@
-# Fall 2021 Undergraduate Research Internship
+# 2022 Research Opportunities
 
 #### [Neuro-Inspired AI Lab](https://yoonlab.hanyang.ac.kr) @ Hanyang University
 
 **[Project 1] Manifold learning from time-series data**
 
-**[Project 2] Building exponential random graph models**
+**[Project 2] Developing more expressive graph neural networks**
+
+**[Project 3] Building exponential random graph models**
 
 **Required skills/experiences**
 
-- I'm looking for students who have basic python/R programming knowledge and have taken any undergraduate-level machine learning/deep learning/AI courses at HY. This is not a requirement, but is strongly recommended.
+- I'm looking for people who have basic python/R programming knowledge and have taken any undergraduate-level machine learning/deep learning/AI courses at HY. This is not a requirement, but is strongly recommended.
 - Expertise in modern deep learning frameworks (e.g. PyTorch, TensorFlow, etc.)
 
 **Benefits**
