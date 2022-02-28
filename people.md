@@ -16,18 +16,6 @@ layout: page
     </div>   
 </div>
 
-<div class="side-by-side">
-    <div class="toleft">
-	<h2>Graduate Students</h2>
-        <img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Hyunmok Park (박현목)</b></p>
-    </div>
-</div>
 
 <div class="side-by-side">
     <div class="toleft">
@@ -96,13 +84,13 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
 	<h2>Group Alumni</h2>
-	<br><br><br><br>
-        <p><b> -- </b></p>
+	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
     </div>
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b> -- </b></p>
+    <p><b> Hyunmok Park (MS, 2022): NHN Cloud AI </b></p>
     </div>
 </div>
-	
+
