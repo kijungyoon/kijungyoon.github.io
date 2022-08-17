@@ -88,13 +88,43 @@ layout: page
 
 <h2>Conference abstracts</h2>
 <ul class="conference-list">
-	<li><b>Yoon, KJ.</b>, & Pitkow, X. “Learning nonlinearities for identifying regular structure in the brain’s inference algorithm.”, <i>Cosyne</i> (2018) </li>
-	<li><b>Yoon, KJ.</b>, & Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, <i>Society for Neuroscience</i> (2014) </li>
-	<li><b>Yoon, KJ.</b>*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, <i>Society for Neuroscience</i> (2013) </li>
-	<li>Lewallen, S.*, <b>Yoon, KJ.</b>*, Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “1D grid fields are slices of a 2D hexagonal lattice.”, <i>Society for Neuroscience</i>, (2013) </li>
-	<li><b>Yoon, KJ.</b>, Robles-Llana, D., Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Are aperiodic 1D grid cell responses consistent with low-dimensional continuous attractor dynamics?”, <i>Computational and Systems Neuroscience</i>, (2013) </li>
-	<li><b>Yoon, KJ.</b>, Barry, C., Buice, M. A., Burgess, N. & Fiete, I. R. “Are grid-cell responses very low-dimensional?”, <i>Computational and Systems Neuroscience</i>, (2012) </li>
-	<li><b>Yoon, KJ.</b>, Barry, C., Burgess, N., & Fiete, I. R. “Assessing the role of feedback in spatially patterened grid cell responses.” <i>Society for Neuroscience</i>, (2010) </li>
-</ul>
 
+<li>
+Park, T. & Yoon, K. “Connectivity inference of biological neural networks through systematic perturbations”, Korea Computer Congress, Jeju, South Korea (2022)
+</li>
+<li>
+Kim, J. & Yoon, K. “Time-series forecasting with graph structure learning”, Korea Computer Congress, Jeju, South Korea (2022)
+</li>
+<li>
+Kang, D. & Yoon, K. “Cortical surface segmentation based on graph neural networks using non- spherical spatial coordinates”, Korea Computer Congress, Jeju, South Korea (2022)
+</li>
+<li>
+Yoon, K., Orhan, E., Kim, J. & Pitkow X. “Two-argument activation functions learn soft XOR operations like cortical neurons”, CRS21–Dialogues on Neural and Machine Intelligence, Lisbon, Portugal (2021)
+</li>
+<li>
+Park, H. & Yoon, K. “Degree matters: assessing the generalization of graph neural network”, IEEE IC-NIDC, Beijing, China (2021)
+</li>
+<li>
+Yoon, K., & Pitkow, X. “Learning nonlinearities for identifying regular structure in the brain’s inference algorithm.”, Computational and Systems Neuroscience, Denver, CO (2018)
+</li>
+<li>
+Yoon, K., & Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, Society for Neuroscience, Washington DC (2014)
+</li>
+<li>
+Yoon, K.∗, Lewallen, S.∗, (∗equal contribution) Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, Society for Neuroscience, San Diego, CA (2013)
+</li>
+<li>
+Lewallen, S.∗, Yoon, K.∗, (∗equal contribution) Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are linear slices of the 2-d periodic pattern.”, Society for Neuroscience, San Diego, CA (2013)
+</li>
+<li>
+Yoon, K., Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Are aperiodic 1D grid cell responses consistent with low-dimensional continuous attractor dynamics?”, Computational and Systems Neu- roscience, Salt Lake City, UT (2013)
+</li>
+<li>
+Yoon, K., Barry, C., Buice, M. A., Burgess, N. & Fiete, I. R. “Are grid-cell responses very low- dimensional?”, Computational and Systems Neuroscience, Salt Lake City, UT (2012)
+</li>
+<li>
+Yoon, K., Barry, C., Burgess, N., & Fiete, I. R. “Assessing the role of feedback in spatially pat- terened grid cell responses.” Society for Neuroscience, San Diego, CA (2010)
+</li>
+	
+</ul>
 
