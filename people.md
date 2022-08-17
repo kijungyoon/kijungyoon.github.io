@@ -59,6 +59,19 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/SeoJungWang.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Shuting Wang (왕서정)</b><br>
+	  Research Interest: Graph-based ML for Biomedical Applications</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
 	<h2>Undergrads</h2>
         <img class="image" src="https://kijungyoon.github.io/assets/images/HyunGeunLee.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
