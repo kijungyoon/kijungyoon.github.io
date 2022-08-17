@@ -76,7 +76,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.jpg" alt="Alt Text">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/grid1D.png" alt="Alt Text">
     </div>
 
     <div class="toright">
