@@ -83,7 +83,7 @@ layout: page
     <p><b>Grid cell responses in 1D environments assessed as slices through a 2D lattice</b><br>
     Yoon, K.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., and Fiete, I. R.<br>
     <i>Neuron (2016)</i>
-    [<a href="https://clm.utexas.edu/fietelab/Papers/1Dgridcells_Yoon_2016.pdf">pdf</a>],[<a href="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316000647-mmc1.pdf">SI</a>]</p><br>
+    [<a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2816%2900064-7">pdf</a>],[<a href="https://www.cell.com/cms/10.1016/j.neuron.2016.01.039/attachment/57d65060-bdc8-41f3-837a-671470bdcce7/mmc1.pdf">SI</a>]</p><br>
     </div>
 </div>
 
