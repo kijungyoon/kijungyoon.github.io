@@ -86,7 +86,7 @@ layout: page
     </div>
 </div>
 
-<h2>Conference abstracts</h2>
+<h2>Conference/Workshop</h2>
 <ul class="conference-list">
 
 <li>
