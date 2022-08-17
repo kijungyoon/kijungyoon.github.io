@@ -111,10 +111,10 @@ Yoon, K., & Pitkow, X. “Learning nonlinearities for identifying regular struct
 Yoon, K., & Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, Society for Neuroscience, Washington DC (2014)
 </li>
 <li>
-Yoon, K.∗, Lewallen, S.∗, (∗equal contribution) Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, Society for Neuroscience, San Diego, CA (2013)
+Yoon, K.∗, Lewallen, S.∗, Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, Society for Neuroscience, San Diego, CA (2013)
 </li>
 <li>
-Lewallen, S.∗, Yoon, K.∗, (∗equal contribution) Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are linear slices of the 2-d periodic pattern.”, Society for Neuroscience, San Diego, CA (2013)
+Lewallen, S.∗, Yoon, K.∗, Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., & Fiete, I. R. “Grid cell responses in 1-d environments are linear slices of the 2-d periodic pattern.”, Society for Neuroscience, San Diego, CA (2013)
 </li>
 <li>
 Yoon, K., Kinkhabwala, A. A., Tank, D. W., & Fiete, I. R. “Are aperiodic 1D grid cell responses consistent with low-dimensional continuous attractor dynamics?”, Computational and Systems Neu- roscience, Salt Lake City, UT (2013)
