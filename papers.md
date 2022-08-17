@@ -14,7 +14,6 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b></b><br>
     Lee, H.*, Park, H.*, Yoon, K.<br>
     <i>Submitted (2022)</i>
     </div>
