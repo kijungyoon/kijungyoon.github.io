@@ -27,7 +27,7 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Donghee Kang (강동희)</b><br>
-	  Research Interest: Graph Neural Networks for Time-Series Analysis</p>
+	  Research Interest: Graph Neural Networks for 3D Data</p>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Juhyeon Kim (김주현)</b><br>
-	  Research Interest: Graph Neural Networks for 3D Data</p>
+	  Research Interest: Time-Series Forecasting by Graph Neural Networks</p>
     </div>
 </div>
 
