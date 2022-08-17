@@ -15,7 +15,7 @@ layout: page
 
     <div class="toright">
     <p><b>Two-argument activation functions learn soft XOR operations like cortical neurons</b><br>
-    <b>Yoon, KJ.</b>, Orhan, E., Kim, J., & Pitkow, X.<br>
+    Yoon, K., Orhan, E., Kim, J., & Pitkow, X.<br>
     <i><a href="https://arxiv.org/abs/2110.06871">arXiv:2110.06871</a> (2021)</i></p>
     <p style="font-size:12px">CRS21 - Dialogues on Neural and Machine Intelligence (2021)</p>
     </div>
@@ -28,9 +28,9 @@ layout: page
 
     <div class="toright">
     <p><b>Inference in probabilistic graphical models by graph neural networks</b><br>
-    <b>Yoon, KJ.</b>, Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
-    <i><a href="https://openreview.net/pdf?id=rkN1pF1vz">ICLR Workshop </a> (2018)</i>
-    <i><a href="https://arxiv.org/pdf/1803.07710.pdf">ICML Workshop on Tractable Probabilistic ModelingL </a> (2019)</i></p>
+    Yoon, K., Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
+    <i><a href="https://openreview.net/pdf?id=rkN1pF1vz">ICLR Workshop </a> (2018)</i><br>
+    <i><a href="https://arxiv.org/pdf/1803.07710.pdf">ICML Workshop on Tractable Probabilistic Modeling </a> (2019)</i></p>
     </div>
 </div>
 
@@ -41,7 +41,7 @@ layout: page
 
     <div class="toright">
     <p><b>Reviving and improving recurrent backpropagation</b><br>
-    Liao, R., Xiong, Y., Fetaya, E., Zhang, L., <b>Yoon, KJ.</b>, Pitkow, X., Urtasun, R., & Zemel, R. <br>
+    Liao, R., Xiong, Y., Fetaya, E., Zhang, L., Yoon, K., Pitkow, X., Urtasun, R., & Zemel, R. <br>
     <i>ICML (2018)</i>
     [<a href="http://proceedings.mlr.press/v80/liao18c/liao18c.pdf">pdf</a>]</p><br>
     </div>
@@ -54,7 +54,7 @@ layout: page
 
     <div class="toright">
     <p><b>A map-like micro-organization of grid cells in the medial entorhinal cortex</b><br>
-    Gu, Y., Lewallen, S., Kinkhabwala, A. A., Domnisoru, C., <b>Yoon, KJ.</b>, Gauthier, J., Fiete, I. R., and Tank, D. W.<br>
+    Gu, Y., Lewallen, S., Kinkhabwala, A. A., Domnisoru, C., Yoon, K., Gauthier, J., Fiete, I. R., and Tank, D. W.<br>
     <i>Cell (2018)</i>
     [<a href="https://doi.org/10.1016/j.cell.2018.08.066">pdf</a>]</p><br>
     </div>
@@ -67,7 +67,7 @@ layout: page
 
     <div class="toright">
     <p><b>Grid cell responses in 1D environments assessed as slices through a 2D lattice</b><br>
-    <b>Yoon, KJ.</b>*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., and Fiete, I. R.<br>
+    Yoon, K.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., and Fiete, I. R.<br>
     <i>Neuron (2016)</i>
     [<a href="https://clm.utexas.edu/fietelab/Papers/1Dgridcells_Yoon_2016.pdf">pdf</a>],[<a href="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316000647-mmc1.pdf">SI</a>]</p><br>
     </div>
@@ -80,7 +80,7 @@ layout: page
 
     <div class="toright">
     <p><b>Specific evidence of low-dimensional continuous attractor dynamics in grid cells</b><br>
-    <b>Yoon, KJ.</b>, Buice, M. A., Barry, C., Hayman, R., Burgess, N., and Fiete, I. R.<br>
+    Yoon, K., Buice, M. A., Barry, C., Hayman, R., Burgess, N., and Fiete, I. R.<br>
     <i>Nature Neuroscience (2013)</i><br>
     [<a href="https://doi.org/10.1038/nn.3450">pdf</a>],[<a href="https://static-content.springer.com/esm/art%3A10.1038%2Fnn.3450/MediaObjects/41593_2013_BFnn3450_MOESM29_ESM.pdf">SI</a>],[<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiIhNCW85LQAhWqsVQKHXK5DHIQFggnMAE&url=http%3A%2F%2Ff1000.com%2Fprime%2F718030887&usg=AFQjCNHhAmmMNnD-zFD-v2PJHmr7hc8kYg&sig2=ByZupaSyaCDKPMy5T7LLaQ&bvm=bv.137904068,d.amc">F1000</a>]</p>
     </div>
