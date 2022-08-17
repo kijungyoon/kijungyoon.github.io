@@ -16,7 +16,7 @@ layout: page
     <div class="toright">
     <p><b></b><br>
     Lee, H.*, Park, H.*, Yoon, K.<br>
-    <i><a href="https://">Submitted</a> (2022)</i></p>
+    <i>Submitted (2022)</i>
     </div>
 </div>
 
@@ -28,7 +28,8 @@ layout: page
     <div class="toright">
     <p><b>Two-argument activation functions learn soft XOR operations like cortical neurons</b><br>
     Kim, J., Orhan, E., Yoon, K.* & Pitkow, X.*<br>
-    <i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785635">IEEE Access</a> (2022)</i></p>
+    <i>IEEE Access (2022)</i>
+    [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785635">pdf</a>]</p><br>
     </div>
 </div>
 
@@ -40,8 +41,10 @@ layout: page
     <div class="toright">
     <p><b>Inference in probabilistic graphical models by graph neural networks</b><br>
     Yoon, K., Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
-    <i><a href="https://arxiv.org/pdf/1803.07710.pdf">ICML Workshop on Tractable Probabilistic Modeling </a> (2019)</i><br>
-    <i><a href="https://openreview.net/pdf?id=rkN1pF1vz">ICLR Workshop </a> (2018)</i></p>
+    <i>ICML Workshop on Tractable Probabilistic Modeling (2019)</i>
+    [<a href="https://arxiv.org/pdf/1803.07710.pdf">pdf</a>]</p><br>
+    <i>ICLR Workshop (2018)</i>
+    [<a href="https://openreview.net/pdf?id=rkN1pF1vz">pdf</a>]</p><br>
     </div>
 </div>
 
