@@ -26,7 +26,8 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Donghee Kang (강동희)</b></p>
+    <p><b>Donghee Kang (강동희)</b><br>
+	  Research Interest: Graph Neural Networks for Time-Series Analysis</p>
     </div>
 </div>
 
@@ -38,7 +39,8 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Juhyeon Kim (김주현)</b></p>
+    <p><b>Juhyeon Kim (김주현)</b><br>
+	  Research Interest: Graph Neural Networks for 3D Data</p>
     </div>
 </div>
 
@@ -50,7 +52,8 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Taehoon Park (박태훈)</b></p>
+    <p><b>Taehoon Park (박태훈)</b><br>
+	  Research Interest: Graph Structure Learning</p>
     </div>
 </div>
 
@@ -63,7 +66,8 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Hyungeun Lee (이현근)</b></p>
+    <p><b>Hyungeun Lee (이현근)</b><br>
+	  Research Interest: Graph Representation Learning</p>
     </div>
 </div>
 
