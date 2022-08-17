@@ -10,6 +10,18 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/generalization_of_gnns.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>TBA</b><br>
+    Lee, H.*, Park, H.*, Yoon, K.<br>
+    <i><a href="https://">Submitted</a> (2022)</i></p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/complex_neurons.png" alt="Alt Text">
     </div>
 
