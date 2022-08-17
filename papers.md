@@ -15,9 +15,8 @@ layout: page
 
     <div class="toright">
     <p><b>Two-argument activation functions learn soft XOR operations like cortical neurons</b><br>
-    Yoon, K., Orhan, E., Kim, J., & Pitkow, X.<br>
+    Kim, J., Orhan, E., Yoon, K.* & Pitkow, X.*<br>
     <i><a href="https://arxiv.org/abs/2110.06871">arXiv:2110.06871</a> (2021)</i></p>
-    <p style="font-size:12px">CRS21 - Dialogues on Neural and Machine Intelligence (2021)</p>
     </div>
 </div>
 
@@ -125,6 +124,6 @@ Yoon, K., Barry, C., Buice, M. A., Burgess, N. & Fiete, I. R. “Are grid-cell r
 <li>
 Yoon, K., Barry, C., Burgess, N., & Fiete, I. R. “Assessing the role of feedback in spatially pat- terened grid cell responses.” Society for Neuroscience, San Diego, CA (2010)
 </li>
-	
+*Equal contributions.	
 </ul>
 
