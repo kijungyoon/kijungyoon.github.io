@@ -16,7 +16,7 @@ layout: page
     <div class="toright">
     <p><b>Two-argument activation functions learn soft XOR operations like cortical neurons</b><br>
     Kim, J., Orhan, E., Yoon, K.* & Pitkow, X.*<br>
-    <i><a href="https://arxiv.org/abs/2110.06871">arXiv:2110.06871</a> (2021)</i></p>
+    <i><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785635">IEEE Access</a> (2022)</i></p>
     </div>
 </div>
 
