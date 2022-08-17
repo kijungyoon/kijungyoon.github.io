@@ -14,8 +14,9 @@ layout: page
     </div>
 
     <div class="toright">
+    <p>
     Lee, H.*, Park, H.*, Yoon, K.<br>
-    <i>Submitted (2022)</i>
+    <i>Submitted (2022)</i></p><br>
     </div>
 </div>
 
@@ -41,7 +42,7 @@ layout: page
     <p><b>Inference in probabilistic graphical models by graph neural networks</b><br>
     Yoon, K., Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., Zemel, R., & Pitkow, X.<br>
     <i>ICML Workshop on Tractable Probabilistic Modeling (2019)</i>
-    [<a href="https://arxiv.org/pdf/1803.07710.pdf">pdf</a>]</p><br>
+    [<a href="https://arxiv.org/pdf/1803.07710.pdf">pdf</a>]<br>
     <i>ICLR Workshop (2018)</i>
     [<a href="https://openreview.net/pdf?id=rkN1pF1vz">pdf</a>]</p><br>
     </div>
