@@ -14,9 +14,10 @@ layout: page
     </div>
 
     <div class="toright">
-    <p>
+    <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
     Lee, H.*, Park, H.*, Yoon, K.<br>
-    <i>Submitted (2022)</i></p><br>
+    <i>Submitted (2022)</i>
+    [<a href="[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785635](https://arxiv.org/pdf/2209.06589.pdf)">pdf</a>]</p><br>
     </div>
 </div>
 
