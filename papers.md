@@ -10,13 +10,26 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/connectivity_inference.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Graph neural networks for connectivity inference in spatially patterned neural responses</b><br>
+    Park, T., Kim, J., Kang, D., Yoon, K.<br>
+    <i>In review (2022)</i>
+    [<a href="https://">pdf</a>]</p><br>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/generalization.png" alt="Alt Text">
     </div>
 
     <div class="toright">
     <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
     Lee, H.*, Park, H.*, Yoon, K.<br>
-    <i>Submitted (2022)</i>
+    <i>In review (2022)</i>
     [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]</p><br>
     </div>
 </div>
