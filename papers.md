@@ -16,7 +16,7 @@ layout: page
     <div class="toright">
     <p><b>Graph neural networks for connectivity inference in spatially patterned neural responses</b><br>
     Park, T., Kim, J., Kang, D., Yoon, K.<br>
-    <i>In review (2022)</i>
+    <i>NeurIPS Workshop on Symmetry and Geometry in Neural Representations (2022)</i>
     [<a href="https://">pdf</a>]</p><br>
     </div>
 </div>
