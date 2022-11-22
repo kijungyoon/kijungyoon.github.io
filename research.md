@@ -13,7 +13,7 @@ layout: page
 <p>What kinds of network connectivity or organization support integration, memory, and gating in the brain? We study these questions through the aforementioned tools.</p>
 
 <div class="center">
-    <img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text">
+    <img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text" width="200">
     <figcaption class="caption"></figcaption>
 </div>
 
