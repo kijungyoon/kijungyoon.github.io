@@ -59,35 +59,10 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b> Hyunmok Park (MS, 2022): NHN Cloud AI </b></p>
+    <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b></p><br>
+    <p><b>Donghee Kang (MS, 2023)</b></p><br>
+    <p><b>Juhyeon Kim (MS, 2023)</b></p><br>
+    <p><b>Taehoon Park (MS, 2023)</b></p>
     </div>
 
-
-    <div class="toleft">
-<!-- 	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption> -->
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Donghee Kang (강동희)</b><br></p>
-    </div>
-
-
-    <div class="toleft">
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Juhyeon Kim (김주현)</b><br></p>
-    </div>
-
-
-    <div class="toleft">
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Taehoon Park (박태훈)</b><br></p>
-    </div>
 </div>
