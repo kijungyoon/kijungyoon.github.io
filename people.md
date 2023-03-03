@@ -46,10 +46,10 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b></p>
-    <p><b>Donghee Kang (MS, 2023)</b></p>
-    <p><b>Juhyeon Kim (MS, 2023)</b></p>
-    <p><b>Taehoon Park (MS, 2023)</b></p>
+    <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b><br>
+    <b>Donghee Kang (MS, 2023)</b><br>
+    <b>Juhyeon Kim (MS, 2023)</b><br>
+    <b>Taehoon Park (MS, 2023)</b></p>
     </div>
 
 </div>
