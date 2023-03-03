@@ -16,9 +16,10 @@ layout: page
     </div>   
 </div>
 
-
-<div class="toleft">
-<h2>Graduate Students</h2>
+<div class="side-by-side">
+	<div class="toleft">
+	<h2>Graduate Students</h2>
+	</div>
 </div>
 	
 <div class="side-by-side">
@@ -35,20 +36,6 @@ layout: page
     </div>
 </div>
 
-<div class="side-by-side">
-    <div class="toleft">
-	<h2>Future lab members</h2>
-        <img class="image" src="https://kijungyoon.github.io/assets/images/future_members.png" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p>We welcome inquiries from motivated students who explore and figure out directions on their own. If interested, please send an email to me with arranging for your CV.</p>
-    <!-- [Opening] <a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/e221e35bf11a2611f5249cf07ae0cf9d498cde29/Fall%202021%20Undergraduate%20Research%20Internship.md"> Undergraduate Research Internship</a><br> -->
-    [Opening] Undergraduate/Graduate/Postdoc Research Positions<br>
-    </div>
-</div>
 	
 <div class="side-by-side">
     <div class="toleft">
@@ -59,9 +46,9 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b></p><br>
-    <p><b>Donghee Kang (MS, 2023)</b></p><br>
-    <p><b>Juhyeon Kim (MS, 2023)</b></p><br>
+    <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b></p>
+    <p><b>Donghee Kang (MS, 2023)</b></p>
+    <p><b>Juhyeon Kim (MS, 2023)</b></p>
     <p><b>Taehoon Park (MS, 2023)</b></p>
     </div>
 
