@@ -16,47 +16,11 @@ layout: page
     </div>   
 </div>
 
-
 <div class="side-by-side">
     <div class="toleft">
 	<h2>Graduate Students</h2>
-	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
     </div>
 	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Donghee Kang (강동희)</b><br>
-	  Research Interest: Graph Neural Networks for 3D Data</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/JuhyunKim.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Juhyeon Kim (김주현)</b><br>
-	  Research Interest: Time-Series Forecasting by Graph Neural Networks</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/TaehoonPark.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Taehoon Park (박태훈)</b><br>
-	  Research Interest: Graph Structure Learning</p>
-    </div>
-</div>
-
 <div class="side-by-side">
     <div class="toleft">
 	<h2>Undergrads</h2>
@@ -99,3 +63,34 @@ layout: page
     </div>
 </div>
 
+<div class="side-by-side">
+    <div class="toleft">
+<!-- 	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption> -->
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Donghee Kang (강동희)</b><br></p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Juhyeon Kim (김주현)</b><br></p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Taehoon Park (박태훈)</b><br></p>
+    </div>
+</div>
