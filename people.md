@@ -87,11 +87,11 @@ layout: page
 </div>
 	
 <div class="side-by-side">
-    <div class="toleft">
+<!--     <div class="toleft">
 	<h2>Group Alumni</h2>
 	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunmokPark.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
-    </div>
+    </div> -->
 	
     <div class="toright">
     <br><br><br><br>
