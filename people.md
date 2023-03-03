@@ -16,10 +16,10 @@ layout: page
     </div>   
 </div>
 
-<div class="side-by-side">
-    <div class="toleft">
-	<h2>Graduate Students</h2>
-    </div>
+
+<div class="toleft">
+<h2>Graduate Students</h2>
+</div>
 	
 <div class="side-by-side">
     <div class="toleft">
@@ -61,9 +61,8 @@ layout: page
     <br><br><br><br>
     <p><b> Hyunmok Park (MS, 2022): NHN Cloud AI </b></p>
     </div>
-</div>
 
-<div class="side-by-side">
+
     <div class="toleft">
 <!-- 	<img class="image" src="https://kijungyoon.github.io/assets/images/DongheeKang.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption> -->
@@ -73,9 +72,8 @@ layout: page
     <br><br><br><br>
     <p><b>Donghee Kang (강동희)</b><br></p>
     </div>
-</div>
 
-<div class="side-by-side">
+
     <div class="toleft">
     </div>
 	
@@ -83,9 +81,8 @@ layout: page
     <br><br><br><br>
     <p><b>Juhyeon Kim (김주현)</b><br></p>
     </div>
-</div>
 
-<div class="side-by-side">
+
     <div class="toleft">
     </div>
 	
