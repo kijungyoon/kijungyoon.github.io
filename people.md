@@ -17,9 +17,30 @@ layout: page
 </div>
 
 <div class="side-by-side">
-	<div class="toleft">
+    <div class="toleft">
 	<h2>Graduate Students</h2>
-	</div>
+	<img class="image" src="https://kijungyoon.github.io/assets/images/SeungwonYoo.png" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Seungwon Yoo (유승원)</b><br>
+	    co-advised by Prof. Je-Chang Jeong</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/JonginChoi.png" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Jongin Choi (최종인)</b><br>
+	    co-advised by Prof. Je-Chang Jeong</p>
+    </div>
 </div>
 	
 <div class="side-by-side">
