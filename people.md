@@ -51,7 +51,8 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Woong Hwang (황웅)</b></p>
+    <p><b>Woong Hwang (황웅)</b><br>
+	  Research Interest: Multimodal Self-Supervised Learning for Medical/Healthcare Applications</p>
     </div>
 </div>
 	
