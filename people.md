@@ -42,6 +42,18 @@ layout: page
 	    co-advised by Prof. Je-Chang Jeong</p>
     </div>
 </div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/WoongHwang.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Woong Hwang (황웅)</b></p>
+    </div>
+</div>
 	
 <div class="side-by-side">
     <div class="toleft">
