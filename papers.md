@@ -10,6 +10,19 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/multi-module-gnn.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
+    Lee, H., Yoon, K.<br>
+    <i>In review (2023)</i>
+    [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]</p><br>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/connectivity_inference.png" alt="Alt Text">
     </div>
 
@@ -18,19 +31,6 @@ layout: page
     Park, T., Kim, J., Kang, D., Yoon, K.<br>
     <i>NeurIPS Workshop on Symmetry and Geometry in Neural Representations (2022)</i>
     [<a href="https://openreview.net/pdf?id=Rccr2wYTEdw">pdf</a>],[<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60807.png?t=1669581372.9837747">poster</a>]</p><br>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/generalization.png" alt="Alt Text">
-    </div>
-
-    <div class="toright">
-    <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
-    Lee, H.*, Park, H.*, Yoon, K.<br>
-    <i>In review (2022)</i>
-    [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]</p><br>
     </div>
 </div>
 
