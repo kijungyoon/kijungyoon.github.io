@@ -9,7 +9,7 @@ layout: page
 <p>In our laboratory, we harness cutting-edge deep learning methods that embrace structures from both probabilistic and geometric perspectives. Specifically, our focus lies on graph neural networks, the broader domain of geometric deep learning, and generative models. By leveraging these approaches, we aim to tackle a wide range of important scientific, engineering, and real-world problems.</p>
 
 <div class="center">
-    <center><img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text" width="500"></center>
+    <center><img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text" width="400"></center>
     <figcaption class="caption"></figcaption>
 </div>
 
