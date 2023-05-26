@@ -3,14 +3,10 @@ title: Research
 layout: page
 ---
 
-<h3>1. Probabilistic Graphical Models</h3>
-<p>Probabilistic graphical models (PGMs) can efficiently represent the structure of many complex data and processes by making explicit conditional independences among random variables. We use PGMs as an adequate generative structure (inductive biases), allowing for rich integration into more complex systems.</p>
 
-<h3>2. Deep Learning</h3>
-<p>Deep learning is a representation-learning method with special emphasis on compositionality. We use its capability of learning complex functions with end-to-end design philosophy to solve complex structured problems.</p>
+<p>Structures permeate the fields of science and engineering, manifesting in various forms. Some structures, like molecular structures and transportation networks, are easily observable, while others, such as biological neural networks, spatial structures, causal graphs, and latent interactions among signals from diverse sensors, are not readily apparent or challenging to measure.</p>
 
-<h3>3. Computational Neuroscience</h3>
-<p>What kinds of network connectivity or organization support integration, memory, and gating in the brain? We study these questions through the aforementioned tools.</p>
+<p>In our laboratory, we harness cutting-edge deep learning methods that embrace structures from both probabilistic and geometric perspectives. Specifically, our focus lies on graph neural networks, the broader domain of geometric deep learning, and generative models. By leveraging these approaches, we aim to tackle a wide range of important scientific, engineering, and real-world problems.</p>
 
 <div class="center">
     <center><img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text" width="500"></center>
