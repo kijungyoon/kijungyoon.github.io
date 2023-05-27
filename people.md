@@ -26,7 +26,20 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Seungwon Yoo (유승원)</b><br>
-	    co-advised by Prof. Je-Chang Jeong</p>
+	    Research Interest: Multimodal Self-Supervised Learning for Medical/Healthcare Applications</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/WoongHwang.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Woong Hwang (황웅)</b><br>
+	  Research Interest: Multimodal Self-Supervised Learning for Medical/Healthcare Applications</p>
     </div>
 </div>
 
@@ -53,19 +66,6 @@ layout: page
     <br><br><br><br>
     <p><b>Junghwan Heo (허정환)</b><br>
 	  co-advised by Prof. Je-Chang Jeong</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/WoongHwang.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Woong Hwang (황웅)</b><br>
-	  Research Interest: Multimodal Self-Supervised Learning for Medical/Healthcare Applications</p>
     </div>
 </div>
 	
