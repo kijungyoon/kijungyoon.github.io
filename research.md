@@ -13,4 +13,18 @@ layout: page
     <figcaption class="caption"></figcaption>
 </div>
 
+We are currently seeking three highly motivated individuals pursuing MS-PhD/PhD degrees to join our research team. Our primary objective is to find candidates who are deeply passionate about the field of AI and possess a strong drive to contribute to cutting-edge advancements in machine learning.
 
+<b>Key Responsibilities:</b>
+
+- Design, implement, and evaluate novel deep neural networks and related methods.
+- Collaborate with researche colleagues to efficiently implement structured machine learning architectures.
+- Effectively communicate research findings and developments, both internally and externally, through clear and concise written and verbal presentations.
+- Stay up to date with the latest advancements in machine learning by actively exploring and assimilating new research.
+- Foster collaborations with external collaborators and maintain relationships with relevant research labs and individuals.
+
+<b>Minimum Qualifications:<b>
+
+- A Bachelor's degree in a technical field or equivalent practical experience.
+- Proficiency in programming languages such as Python, PyTorch, Tensorflow, etc.
+- Demonstrated passion for AI.
