@@ -23,7 +23,7 @@ We are currently seeking three highly motivated individuals pursuing MS-PhD/PhD 
 - Stay up to date with the latest advancements in machine learning by actively exploring and assimilating new research.
 - Foster collaborations with external collaborators and maintain relationships with relevant research labs and individuals.
 
-<b>Minimum Qualifications:<b>
+<b>Minimum Qualifications:</b>
 
 - A Bachelor's degree in a technical field or equivalent practical experience.
 - Proficiency in programming languages such as Python, PyTorch, Tensorflow, etc.
