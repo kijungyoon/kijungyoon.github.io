@@ -94,9 +94,9 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b><br>
-    <b>Donghee Kang (MS, 2023)</b><br>
-    <b>Juhyeon Kim (MS, 2023)</b><br>
-    <b>Taehoon Park (MS, 2023)</b></p>
+    <b>Donghee Kang (MS, 2023): 삼성전자 DX</b><br>
+    <b>Juhyeon Kim (MS, 2023): TBD</b><br>
+    <b>Taehoon Park (MS, 2023): LG전자 CDO AI</b></p>
     </div>
 
 </div>
