@@ -43,31 +43,6 @@ layout: page
     </div>
 </div>
 
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/JonginChoi.png" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Jongin Choi (최종인)</b><br>
-	    co-advised by Prof. Je-Chang Jeong</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/JunghwanHeo.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Junghwan Heo (허정환)</b><br>
-	  co-advised by Prof. Je-Chang Jeong</p>
-    </div>
-</div>
 	
 <div class="side-by-side">
     <div class="toleft">
