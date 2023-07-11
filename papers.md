@@ -128,6 +128,8 @@ Kang, D., Yoon, K. “Cortical surface segmentation based on graph neural networ
 </li>
 <li>
 Yoon, K., Orhan, E., Kim, J., Pitkow X. “Two-argument activation functions learn soft XOR operations like cortical neurons”, CRS21–Dialogues on Neural and Machine Intelligence, Lisbon, Portugal (2021)
+    [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/assets/images/CRS21_poster_yoon.pdf">poster</a>]
+    
 </li>
 <li>
 Park, H., Yoon, K. “Degree matters: assessing the generalization of graph neural network”, IEEE IC-NIDC, Beijing, China (2021)
