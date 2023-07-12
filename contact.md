@@ -6,7 +6,7 @@ layout: page
 Email: kiyoon [at] hanyang.ac.kr<br>
 
 <h3>Where to find us:</h3>
-R&D Building (산학기술관) 702<br>
+R&D Building (산학기술관) 702, 702-1<br>
 222, Wangsimni-ro, Seongdong-gu<br>
 Seoul, 04763<br>
 South Korea<br>
