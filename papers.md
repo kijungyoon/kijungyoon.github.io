@@ -10,6 +10,18 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="https://" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Multivariate time-series forecasting with graph structure learning and signal decomposition</b><br>
+    <i>In preparation</i>
+    [<a href="https://">pdf</a>]</p><br>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/multi-module-gnn.png" alt="Alt Text">
     </div>
 
