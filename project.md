@@ -13,3 +13,6 @@ layout: page
 <li><i>2018.09 ~ 2021.08</i> | <b>혁신적 인공지능을 위한 신경과학 기반 딥뉴럴네트워크 연구</b> (한국연구재단)</li>
 </ul>
 
+<div class="center">
+  <img class="image" src="https://kijungyoon.github.io/assets/images/funding.png" alt="Alt Text">
+</div>
