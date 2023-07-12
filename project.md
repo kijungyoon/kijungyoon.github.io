@@ -3,7 +3,7 @@ title: Project
 layout: page
 ---
 
-<h4>Research Project</h4>
+<h3>Research Project</h3>
 <ul>
 <li><i>2023.04 ~ 2027.12</i> | 개방형 DB 플랫폼 서비스 및 AI 기반 치매 조기 예측시스템 실증 (한국연구재단)</li><br>
 <li><i>2022.03 ~ 2025.02</i> | 조합적 추론 일반화를 위한 Modular Neural Networks 연구 (삼성전자)</li><br>
