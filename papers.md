@@ -10,7 +10,7 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://" alt="Alt Text">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/ts.png" alt="Alt Text">
     </div>
 
     <div class="toright">
