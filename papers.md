@@ -28,8 +28,8 @@ layout: page
     <div class="toright">
     <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
     Lee, H., Yoon, K.<br>
-    <i>In review (2023)</i>
-    [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]</p><br>
+    <i>TMLR (2023)</i>
+    [<a href="https://openreview.net/forum?id=EYjfLeJL4l&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">pdf</a>]</p><br>
     </div>
 </div>
 
