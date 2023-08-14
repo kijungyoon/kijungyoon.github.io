@@ -58,6 +58,18 @@ layout: page
     </div>
 </div>
 
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/WooyeolJung.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Wooyeol Jung (정우열)</b><br>
+	  </p>
+    </div>
+</div>
 	
 <div class="side-by-side">
     <div class="toleft">
