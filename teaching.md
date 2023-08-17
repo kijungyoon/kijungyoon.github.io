@@ -18,7 +18,7 @@ layout: page
 <h3>Service</h3>
 <ul>
 <li>Program Committee, NeurIPS 2023 Workshop on Symmetry and Geometry in NeurReps (Dec. 2023)</li>
-<li>Program Committee, AAAI 2024, 2023, ICML 2022, AISTATS 2022</li>
+<li>Program Committee, AAAI 2024, 2023, ICML 2022, AISTATS 2024, 2022</li>
 <li>Discussant, UAI 2023 (Aug. 2023)</li>
 <li>Reviewer, IEEE TNNLS (Aug. 2023)</li>
 <li>Speaker, UKC 2023 (Aug. 2023)</li>
