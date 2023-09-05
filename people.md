@@ -67,7 +67,20 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Wooyeol Jung (정우열)</b><br>
-	  </p>
+	  Research Interest: Graph-based ML</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/MisunPark.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Misun Park (박미선)</b><br>
+	  Research Interest: Graph-based ML</p>
     </div>
 </div>
 	
