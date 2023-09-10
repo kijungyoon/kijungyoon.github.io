@@ -25,7 +25,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Seungwon Yoo (유승원)</b><br>
+    <p><b>Seungwon Yu (유승원)</b><br>
 	    Research Interest: Multimodal Self-Supervised Learning for Medical/Healthcare Applications</p>
     </div>
 </div>
@@ -38,7 +38,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Woong Hwang (황웅)</b><br>
+    <p><b>Ung Hwang (황웅)</b><br>
 	  Research Interest: Multimodal Self-Supervised Learning for Medical/Healthcare Applications</p>
     </div>
 </div>
