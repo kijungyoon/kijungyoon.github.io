@@ -14,7 +14,7 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Osteoporosis Risk Prediction from Wrist X-Ray Images using Image Segmentation and Self-Supervised Learning</b><br>
+    <p><b>Osteoporosis risk prediction from wrist x-ray images using image segmentation and self-supervised learning</b><br>
     Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K.<br>
     <i>In preparation</i>
     [<a href="https://">arXiv</a>]</p><br>
@@ -27,7 +27,7 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Hierarchical Joint Graph Learning and Multivariate Time Series Forecasting</b><br>
+    <p><b>Hierarchical joint graph learning and multivariate time series forecasting</b><br>
     Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Yoon, K.<br>
     <i>In review</i>
     [<a href="https://">arXiv</a>]</p><br>
