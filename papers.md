@@ -10,13 +10,14 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/timeseries.png" alt="Alt Text">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/HGMTS.png" alt="Alt Text">
     </div>
 
     <div class="toright">
-    <p><b>Multivariate time-series forecasting with graph structure learning and signal decomposition</b><br>
-    <i>In preparation</i>
-    [<a href="https://">pdf</a>]</p><br>
+    <p><b>Hierarchical Joint Graph Learning and Multivariate Time Series Forecasting</b><br>
+    Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Yoon, K.<br>
+    <i>In review</i>
+    [<a href="https://">arXiv</a>]</p><br>
     </div>
 </div>
 
