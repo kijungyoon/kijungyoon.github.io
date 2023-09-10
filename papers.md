@@ -10,6 +10,19 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/wrist.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Osteoporosis Risk Prediction from Wrist X-Ray Images using Image Segmentation and Self-Supervised Learning</b><br>
+    Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K.<br>
+    <i>In preparation</i>
+    [<a href="https://">arXiv</a>]</p><br>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/HGMTS.png" alt="Alt Text">
     </div>
 
