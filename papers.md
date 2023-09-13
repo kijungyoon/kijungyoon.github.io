@@ -14,7 +14,7 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Osteoporosis risk prediction from wrist x-ray images using image segmentation and self-supervised learning</b><br>
+    <p><b>Osteoporosis prediction from hand and wrist x-rays using image segmentation and self-supervised learning</b><br>
     Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K.<br>
     <i>In preparation</i>
     [<a href="https://">arXiv</a>]</p><br>
