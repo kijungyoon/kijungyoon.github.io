@@ -79,7 +79,7 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>생명체의 유연한 자연지능 모사 방법과 데이터 기반 방법을 융합한 통합 인공지능</b><br>
+    <p><b>생명체의 유연한 자연지능 모사방법과 데이터기반 방법을 융합한 통합 인공지능</b><br>
     Kim, J. et al.<br>
     <i>한국정보과학회 (2021)</i>
     [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/abstracts/niai.pdf">pdf</a>]</p><br>
