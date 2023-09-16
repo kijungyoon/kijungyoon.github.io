@@ -75,7 +75,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/brain.png" alt="Alt Text" width="200">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/brain.png" alt="Alt Text" width="100">
     </div>
 
     <div class="toright">
