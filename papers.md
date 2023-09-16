@@ -9,8 +9,8 @@ layout: page
 
 <h2>Publications</h2>
 <div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/wrist.png" alt="Alt Text" class="center">
+    <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/wrist.png" alt="Alt Text">
     </div>
 
     <div class="toright">
