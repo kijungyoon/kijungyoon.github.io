@@ -66,7 +66,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Wooyeol Jung (정우열)</b><br>
+    <p><b>Wooyul Jung (정우열)</b><br>
 	  Research Interest: Graph-based machine learning</p>
     </div>
 </div>
@@ -79,7 +79,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Misun Park (박미선)</b><br>
+    <p><b>Miseon Park (박미선)</b><br>
 	  Research Interest: Graph-based machine learning</p>
     </div>
 </div>
