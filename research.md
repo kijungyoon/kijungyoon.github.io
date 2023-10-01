@@ -6,7 +6,7 @@ layout: page
 
 <p>Structures permeate the fields of science and engineering, manifesting in various forms. Some structures, like molecular structures and transportation networks, are easily observable, while others, such as biological neural networks, spatial structures, causal graphs, and latent interactions among signals from diverse sensors, are not readily apparent or challenging to measure.</p>
 
-<p>In our laboratory, we harness cutting-edge deep learning methods that embrace structures from both probabilistic and geometric perspectives. Specifically, our focus lies on graph neural networks, the broader domain of geometric deep learning, and generative models. By leveraging these approaches, we aim to tackle a wide range of important scientific, engineering, and real-world problems.<a href="https://niai-lab.github.io/GraphML-JC/suggested_reading.html">*</a></p>
+<p>In our laboratory, we harness cutting-edge deep learning methods that embrace structures from both probabilistic and geometric perspectives. Specifically, our focus lies on graph neural networks, the broader domain of geometric deep learning, and generative models. By leveraging these approaches, we aim to tackle a wide range of important scientific, engineering, and real-world problems.<a href="https://niai-lab.github.io/GraphML-JC/suggested_reading.html" target="_blank" rel="noopener noreferrer">*</a></p>
 
 <div class="center">
     <center><img class="image" src="https://kijungyoon.github.io/assets/images/research.png" alt="Alt Text" width="400"></center>
