@@ -86,7 +86,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/YeonghakJeong.jpg" alt="Alt Text" width="150">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/YeonghakJeong.jpg" alt="Alt Text" width="170">
 	<figcaption class="caption"></figcaption>
     </div>
 	
