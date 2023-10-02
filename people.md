@@ -54,7 +54,7 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Hyungeun Lee (이현근)</b><br>
-	  Research Interest: Graph Representation Learning</p>
+	  Research Interest: Graph-based machine learning, Artificial and natural intelligence</p>
     </div>
 </div>
 
@@ -67,7 +67,7 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Wooyul Jung (정우열)</b><br>
-	  Research Interest: Graph-based machine learning</p>
+	  Research Interest: Graph-based machine learning, Artificial and natural intelligence</p>
     </div>
 </div>
 
@@ -80,7 +80,20 @@ layout: page
     <div class="toright">
     <br><br><br><br>
     <p><b>Miseon Park (박미선)</b><br>
-	  Research Interest: Graph-based machine learning</p>
+	  Research Interest: Graph-based machine learning, Dynamic routing</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/YeonghakJeong.jpg" alt="Alt Text">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright">
+    <br><br><br><br>
+    <p><b>Yeonghak Jeong (정영학)</b><br>
+	  Research Interest: Graph-based machine learning, Artificial and natural intelligence</p>
     </div>
 </div>
 	
