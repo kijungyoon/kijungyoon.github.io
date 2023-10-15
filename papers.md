@@ -16,7 +16,7 @@ layout: page
     <div class="toright">
     <p><b>Osteoporosis prediction from hand and wrist x-rays using image segmentation and self-supervised learning</b><br>
     Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K.<br>
-    <i>Machine Learning for Health (ML4H), (2023)</i>
+    <i>Machine Learning for Health (ML4H) (2023)</i>
     [<a href="https://">arXiv</a>]</p><br>
     </div>
 </div>
@@ -29,7 +29,7 @@ layout: page
     <div class="toright">
     <p><b>Hierarchical joint graph learning and multivariate time series forecasting</b><br>
     Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Yoon, K.<br>
-    <i>Accepted</i>
+    <i>Accepted (2023)</i>
     [<a href="https://">arXiv</a>]</p><br>
     </div>
 </div>
@@ -42,7 +42,7 @@ layout: page
     <div class="toright">
     <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
     Lee, H., Yoon, K.<br>
-    <i>TMLR (2023)</i>
+    <i>Transactions on Machine Learning Research (TMLR) (2023)</i>
     [<a href="https://openreview.net/pdf?id=EYjfLeJL4l">pdf</a>]</p><br>
     </div>
 </div>
