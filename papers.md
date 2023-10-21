@@ -28,8 +28,8 @@ layout: page
 
     <div class="toright">
     <p><b>Hierarchical joint graph learning and multivariate time series forecasting</b><br>
-    Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Yoon, K.<br>
-    <i>Accepted (2023)</i>
+    Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Park, M., Yoon, K.<br>
+    <i>NeurIPS Workshop on Temporal Graph Learning (2023)</i>
     [<a href="https://">arXiv</a>]</p><br>
     </div>
 </div>
