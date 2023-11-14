@@ -17,7 +17,7 @@ layout: page
     <p><b>Osteoporosis prediction from hand and wrist x-rays using image segmentation and self-supervised learning</b><br>
     Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K.<br>
     <i>Machine Learning for Health (ML4H) (2023)</i>
-    [<a href="https://">arXiv</a>]</p><br>
+    [<a href="https://arxiv.org/pdf/2311.06834.pdf">pdf</a>]</p><br>
     </div>
 </div>
 
