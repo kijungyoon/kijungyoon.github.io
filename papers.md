@@ -30,7 +30,7 @@ layout: page
     <p><b>Hierarchical joint graph learning and multivariate time series forecasting</b><br>
     Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Park, M., Yoon, K.<br>
     <i>NeurIPS Workshop on Temporal Graph Learning (2023)</i>
-    [<a href="https://">arXiv</a>]</p><br>
+    [<a href="https://arxiv.org/pdf/2311.12630.pdf">pdf</a>]</p><br>
     </div>
 </div>
 
