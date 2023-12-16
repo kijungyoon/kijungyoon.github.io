@@ -13,6 +13,7 @@ layout: page
 <li>Introduction to ML</li>
 <li>Graph-based Machine Learning</li>
 <li>Deep Generative Models</li>
+<li>Learning and Inference (2024 Spring)</li>
 </ul>
 
 <h3>Service</h3>
