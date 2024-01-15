@@ -18,6 +18,7 @@ layout: page
 
 <h3>Service</h3>
 <ul>
+<li>Reviewer, ICLR 2024 Workshop on Representational Alignment</li>
 <li>Program Committee, NeurIPS 2023 Workshop on Symmetry and Geometry in NeurReps</li>
 <li>Program Committee, NeurIPS 2023 Workshop on Temporal Graph Learning</li>
 <li>Program Committee, AAAI 2024, 2023, ICML 2022, AISTATS 2024, 2022</li>
