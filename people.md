@@ -12,7 +12,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p>Kijung Yoon is an Assistant Professor in the Department of Electronic Engineering at Hanyang University. He obtained his Ph.D. at the University of Texas at Austin, under the guidance of Ila Fiete now at MIT. Prior to that he completed his Bachelor's degree in EE at KAIST. His postdoctoral work was with Xaq Pitkow now at CMU.</p>
+    <p>Kijung Yoon is an Associate Professor in the Department of Electronic Engineering at Hanyang University. He obtained his Ph.D. at the University of Texas at Austin, under the guidance of Ila Fiete now at MIT. Prior to that he completed his Bachelor's degree in EE at KAIST. His postdoctoral work was with Xaq Pitkow now at CMU.</p>
     </div>   
 </div>
 
