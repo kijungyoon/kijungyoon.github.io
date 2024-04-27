@@ -23,7 +23,6 @@ layout: page
     </div>
 	
     <div class="toright">
-    <br><br><br><br>
     <p><b>Seungwon Yu (유승원)</b><br>
     	Research Interest<br>
      	- Graph Machine Learning<br>
@@ -41,7 +40,6 @@ layout: page
     </div>
 	
     <div class="toright">
-    <br><br><br><br>
     <p><b>Ung Hwang (황웅)</b><br>
   	Research Interest<br>
      	- Graph Machine Learning<br>
@@ -59,11 +57,10 @@ layout: page
     </div>
 	
     <div class="toright">
-    <br><br><br><br>
     <p><b>Miseon Park (박미선)</b><br>
 	  Research Interest<br>
      	- Graph Machine Learning<br>
-      	- Foundation Models for AI
+      	- Foundation Models for AI<br>
       	- Time-series Analysis<br>
       	- Anomaly Detection</p>
     </div>
@@ -76,7 +73,6 @@ layout: page
     </div>
 	
     <div class="toright">
-    <br><br><br><br>
     <p><b>Yeonghak Jeong (정영학)</b><br>
 	  Research Interest<br>
    	- Graph Machine Learning<br>
@@ -107,6 +103,9 @@ layout: page
 	    <b>Taehoon Park (MS, 2023): LG전자 CDO AI</b><br>
 	    <b>Hyungeun Lee (BS, 2024)</b></p>
     </div>
- 
+	
+ <div class="toright">
+    
+</div>
 
 </div>
