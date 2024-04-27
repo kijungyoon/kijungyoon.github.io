@@ -22,7 +22,7 @@ layout: page
 	<figcaption class="caption"></figcaption>
     </div>
 	
-    <div class="toright">
+    <div class="toright"><br>
     <p><b>Seungwon Yu (유승원)</b><br>
     	Research Interest<br>
      	- Graph Machine Learning<br>
@@ -39,7 +39,7 @@ layout: page
 	<figcaption class="caption"></figcaption>
     </div>
 	
-    <div class="toright">
+    <div class="toright"><br>
     <p><b>Ung Hwang (황웅)</b><br>
   	Research Interest<br>
      	- Graph Machine Learning<br>
@@ -56,7 +56,7 @@ layout: page
 	<figcaption class="caption"></figcaption>
     </div>
 	
-    <div class="toright">
+    <div class="toright"><br>
     <p><b>Miseon Park (박미선)</b><br>
 	  Research Interest<br>
      	- Graph Machine Learning<br>
@@ -72,11 +72,11 @@ layout: page
 	<figcaption class="caption"></figcaption>
     </div>
 	
-    <div class="toright">
+    <div class="toright"><br>
     <p><b>Yeonghak Jeong (정영학)</b><br>
 	  Research Interest<br>
    	- Graph Machine Learning<br>
-      	- Artificial and Natural Intelligence
+      	- Artificial and Natural Intelligence</p>
     </div>
 </div>
 
