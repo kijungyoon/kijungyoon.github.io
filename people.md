@@ -104,7 +104,7 @@ layout: page
 	    <p><b>Hyunmok Park (MS, 2022): NHN Cloud AI </b><br>
 	    <b>Donghee Kang (MS, 2023): 삼성전자 DX AI</b><br>
 	    <b>Juhyeon Kim (MS, 2023): LG전자 BS, Data Scientist</b><br>
-	    <b>Taehoon Park (MS, 2023): LG전자 CDO AI</b></p>
+	    <b>Taehoon Park (MS, 2023): LG전자 CDO AI</b><br>
 	    <b>Hyungeun Lee (BS, 2024)</b></p>
     </div>
  
