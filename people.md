@@ -104,8 +104,6 @@ layout: page
 	    <b>Hyungeun Lee (BS, 2024)</b></p>
     </div>
 	
- <div class="toright">
- </div>   
-</div>
-
+    <div class="toright"> 
+    </div>
 </div>
