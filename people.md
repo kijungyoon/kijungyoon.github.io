@@ -89,7 +89,7 @@ layout: page
 	
     <div class="toright">
     <br><br><br><br>
-    <p><b>Wooyul Jung (정우열)</b><br>
+    <p><b>Wooyul Jung (정우열)</b><br></p>
     </div>
 </div>
 
@@ -105,7 +105,7 @@ layout: page
     </div>
 	
  <div class="toright">
-    
+ </div>   
 </div>
 
 </div>
