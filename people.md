@@ -18,7 +18,14 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<h2> Graduate Students</h2>    
+	<h2> Graduate Students</h2>
+    </div>
+    <div class="toright">
+    </div>
+</div>
+     
+<div class="side-by-side">
+    <div class="toleft">
 	<img class="image" src="https://kijungyoon.github.io/assets/images/SeungwonYoo.png" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
