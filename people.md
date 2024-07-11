@@ -76,20 +76,6 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/YeonghakJeong.jpg" alt="Alt Text" width="170">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Yeonghak Jeong (정영학)</b><br>
-	  Research Interest<br>
-   	- Graph Machine Learning<br>
-      	- Artificial and Natural Intelligence</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
 	<h2>Undergrads</h2>
 	<img class="image" src="https://kijungyoon.github.io/assets/images/WooyeolJung.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
