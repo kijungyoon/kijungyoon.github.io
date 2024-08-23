@@ -14,7 +14,7 @@ layout: page
 </div>
 
 
-We are currently seeking <b>three</b> highly motivated individuals pursuing MS-PhD/PhD degrees to join our research team. Our primary objective is to find candidates who are deeply passionate about the field of AI and possess a strong drive to contribute to cutting-edge advancements in machine learning.
+We are currently seeking highly motivated individuals pursuing PhD degrees to join our research team. Our primary objective is to find candidates who are deeply passionate about the field of AI and possess a strong drive to contribute to cutting-edge advancements in machine learning.
 
 <b>Key Responsibilities:</b>
 
