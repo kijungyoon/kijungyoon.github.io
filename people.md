@@ -74,14 +74,6 @@ layout: page
     </div>
 </div>
 
-<div class="side-by-side">
-    <div class="toleft">
-	<h2>Undergrads</h2>
-	<img class="image" src="https://kijungyoon.github.io/assets/images/WooyeolJung.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-
-</div>
 
 	
 <div class="side-by-side">
