@@ -80,11 +80,7 @@ layout: page
 	<img class="image" src="https://kijungyoon.github.io/assets/images/WooyeolJung.jpg" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
-	
-    <div class="toright">
-    <br><br><br><br>
-    <p><b>Wooyul Jung (정우열)</b><br></p>
-    </div>
+
 </div>
 
 	
