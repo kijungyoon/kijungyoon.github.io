@@ -14,10 +14,10 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Osteoporosis prediction from hand and wrist x-rays using image segmentation and self-supervised learning</b><br>
-    Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K.<br>
-    <i>Machine Learning for Health (ML4H) (2023)</i>
-    [<a href="https://arxiv.org/pdf/2311.06834.pdf">pdf</a>]</p><br>
+    <p><b>Osteoporosis Prediction from Hand X-ray Images Using Segmentation-for-Classification and Self-Supervised Learning</b><br>
+    Hwang, U., Lee, C., Yoon, K.<br>
+    <i>In review (2024)</i>
+    [<a href="">pdf</a>]</p><br>
     </div>
 </div>
 
@@ -156,6 +156,9 @@ layout: page
 <h2>Conference/Workshop</h2>
 <ul class="conference-list">
 
+<li>
+Lee, H., Hwang, U., Yu, S., Lee, C., Yoon, K. “Osteoporosis prediction from hand and wrist x-rays using image segmentation and self-supervised learning”, Machine Learning for Health (ML4H) (2023) [<a href="https://arxiv.org/pdf/2311.06834.pdf">pdf</a>]
+</li>    
 <li>
 Park, T., Yoon, K. “Connectivity inference of biological neural networks through systematic perturbations”, Korea Computer Congress, Jeju, South Korea (2022)
 </li>
