@@ -10,7 +10,7 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/wrist.png" alt="Alt Text" width="300">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/osteo_pred.png" alt="Alt Text" width="300">
     </div>
 
     <div class="toright">
