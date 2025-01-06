@@ -84,9 +84,9 @@ layout: page
     <p><b>Ingyeom Kim (김인겸)</b><br>
 	  Research Interest<br>
       	- Compositional Learning<br>
-      	- Object-Centric Learning</p>
+      	- Object-Centric Learning<br>
         - OOD Generalization<br>
-        - Graph Machine Learning<br>
+        - Graph Machine Learning</p>
     </div>
 </div>
 
