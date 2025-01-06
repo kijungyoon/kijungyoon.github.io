@@ -76,7 +76,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/IngyeomKim.jpg" alt="Alt Text">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/IngyeomKim.jpg" alt="Alt Text" width="100">
 	<figcaption class="caption"></figcaption>
     </div>
 	
