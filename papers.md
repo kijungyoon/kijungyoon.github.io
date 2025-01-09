@@ -10,7 +10,7 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/circ_inf.png" alt="Alt Text" width="300">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/circ_inf.png" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -23,7 +23,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/alzheimer.png" alt="Alt Text" width="300">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/alzheimer.png" alt="Alt Text" width="200">
     </div>
 
     <div class="toright">
