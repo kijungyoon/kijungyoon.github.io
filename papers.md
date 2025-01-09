@@ -10,6 +10,32 @@ layout: page
 <h2>Publications</h2>
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/circ_inf.png" alt="Alt Text" width="300">
+    </div>
+
+    <div class="toright">
+    <p><b>Unsupervised Discovery of Neural Circuits with Graph Neural Networks in Spatially Patterned Neural Responses</b><br>
+    Yoon, K.<br>
+    <i>In preparation (2025)</i>
+    [<a href="https://">pdf</a>]</p><br>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/alzheimer.png" alt="Alt Text" width="300">
+    </div>
+
+    <div class="toright">
+    <p><b>A Multimodal Approach to Alzheimer’s Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments</b><br>
+    Hwang, U., Yoon, K.<br>
+    <i>In preparation (2025)</i>
+    [<a href="https://">pdf</a>]</p><br>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
         <img class="image" src="https://kijungyoon.github.io/assets/images/osteo_pred.png" alt="Alt Text" width="300">
     </div>
 
