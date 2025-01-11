@@ -100,19 +100,6 @@ layout: page
 </div>
 
 <div class="side-by-side">
-    <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/brain.png" alt="Alt Text" width="100">
-    </div>
-
-    <div class="toright">
-    <p><b>생명체의 유연한 자연지능 모사방법과 데이터기반 방법을 융합한 통합 인공지능</b><br>
-    Kim, J. et al.<br>
-    <i>한국정보과학회 (2021)</i>
-    [<a href="https://github.com/kijungyoon/kijungyoon.github.io/blob/master/abstracts/niai.pdf">pdf</a>]</p><br>
-    </div>
-</div>
-
-<div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://kijungyoon.github.io/assets/images/inference_gnn.png" alt="Alt Text">
     </div>
