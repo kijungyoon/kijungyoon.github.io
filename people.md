@@ -90,6 +90,20 @@ layout: page
     </div>
 </div>
 
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunjungKim.png" alt="Alt Text" width="170">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright"><br>
+    <p><b>Hyunjung Kim (김현정)</b><br>
+	  Research Interest<br>
+      	- Object-Centric Learning<br>
+        - OOD Generalization<br>
+    </div>
+</div>
+
 	
 <div class="side-by-side">
     <div class="toleft">
