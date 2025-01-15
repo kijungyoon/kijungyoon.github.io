@@ -14,7 +14,7 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Unsupervised Discovery of Neural Circuits with Graph Neural Networks in Spatially Patterned Neural Responses</b><br>
+    <p><b>Unsupervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks</b><br>
     Yoon, K.<br>
     <i>In preparation (2025)</i>
     [<a href="https://">pdf</a>]</p><br>
