@@ -100,7 +100,7 @@ layout: page
     <p><b>Hyunjung Kim (김현정)</b><br>
 	  Research Interest<br>
       	- Object-Centric Learning<br>
-        - OOD Generalization<br>
+        - OOD Generalization</p>
     </div>
 </div>
 
