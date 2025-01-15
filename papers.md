@@ -189,27 +189,6 @@ Yoon, K., Orhan, E., Kim, J., Pitkow X. “Two-argument activation functions lea
 <li>
 Park, H., Yoon, K. “Degree matters: assessing the generalization of graph neural network”, IEEE IC-NIDC, Beijing, China (2021)
 </li>
-<li>
-Yoon, K., Pitkow, X. “Learning nonlinearities for identifying regular structure in the brain’s inference algorithm.”, Computational and Systems Neuroscience, Denver, CO (2018)
-</li>
-<li>
-Yoon, K., Fiete, I. R. “Statistical framework for encoding and decoding grid cell population activity.”, Society for Neuroscience, Washington DC (2014)
-</li>
-<li>
-Yoon, K.∗, Lewallen, S.∗, Kinkhabwala, A. A., Tank, D. W., Fiete, I. R. “Grid cell responses in 1-d environments are consistent with 2-d continuous attractor dynamics.”, Society for Neuroscience, San Diego, CA (2013)
-</li>
-<li>
-Lewallen, S.∗, Yoon, K.∗, Kinkhabwala, A. A., Domnisoru, C., Tank, D. W., Fiete, I. R. “Grid cell responses in 1-d environments are linear slices of the 2-d periodic pattern.”, Society for Neuroscience, San Diego, CA (2013)
-</li>
-<li>
-Yoon, K., Kinkhabwala, A. A., Tank, D. W., Fiete, I. R. “Are aperiodic 1D grid cell responses consistent with low-dimensional continuous attractor dynamics?”, Computational and Systems Neu- roscience, Salt Lake City, UT (2013)
-</li>
-<li>
-Yoon, K., Barry, C., Buice, M. A., Burgess, N. Fiete, I. R. “Are grid-cell responses very low- dimensional?”, Computational and Systems Neuroscience, Salt Lake City, UT (2012)
-</li>
-<li>
-Yoon, K., Barry, C., Burgess, N., Fiete, I. R. “Assessing the role of feedback in spatially pat- terened grid cell responses.” Society for Neuroscience, San Diego, CA (2010)
-</li>
 *Equal contributions.	
 </ul>
 
