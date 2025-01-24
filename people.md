@@ -43,23 +43,6 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/WoongHwang.jpg" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Ung Hwang (황웅)</b><br>
-  	Research Interest<br>
-     	- Graph Machine Learning<br>
-      	- Explainable AI<br>
-     	- Multimodal Deep Learning<br>
-      	- Time-series Analysis<br>
-      	- Medical/Healthcare Applications</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
 	<img class="image" src="https://kijungyoon.github.io/assets/images/MisunPark.JPG" alt="Alt Text">
 	<figcaption class="caption"></figcaption>
     </div>
@@ -112,7 +95,8 @@ layout: page
 	    <b>Donghee Kang (MS, 2023): 삼성전자 DX AI</b><br>
 	    <b>Juhyeon Kim (MS, 2023): LG전자 BS, Data Scientist</b><br>
 	    <b>Taehoon Park (MS, 2023): LG전자 CDO AI</b><br>
-	    <b>Hyungeun Lee (BS, 2024)</b></p>
+	    <b>Hyungeun Lee (BS, 2024)</b><br>
+	    <b>Ung Hwang (MS, 2025): Co-Advised by Prof. Jechang Jeong</b></p>
     </div>
 	
     <div class="toright"> 
