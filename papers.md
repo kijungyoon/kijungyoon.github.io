@@ -171,7 +171,12 @@ layout: page
     <p><b>A map-like micro-organization of grid cells in the medial entorhinal cortex</b><br>
     Gu, Y., Lewallen, S., Kinkhabwala, A. A., Domnisoru, C., Yoon, K., Gauthier, J., Fiete, I. R., Tank, D. W.<br>
     <i>Cell (2018)</i>
-    [<a href="https://doi.org/10.1016/j.cell.2018.08.066">pdf</a>]</p><br>
+    [<a href="https://doi.org/10.1016/j.cell.2018.08.066">pdf</a>]<br>
+    <span class="pill-label pill-gold">Navigation</span>
+    <span class="pill-label pill-dsalmon">Attractor Net</span>
+    <span class="pill-label pill-maqm">Module</span>
+    <span class="pill-label pill-hotpink">VR</span>
+    </p>
     </div>
 </div>
 
@@ -299,6 +304,9 @@ display: inline-block;
 }
 .pill-hotpink {
   background-color: #FF69B4; /* blue shade */
+}#FF69B4
+.pill-maqm {
+  background-color: #66CDAA; /* blue shade */
 }#FF69B4
 
 </style>
