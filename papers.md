@@ -26,7 +26,9 @@ layout: page
     <p><b>A Multimodal Approach to Alzheimer’s Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments</b><br>
     Hwang, U., Yoon, K.<br>
     <i>In preparation (2025)</i>
-    [<a href="https://">pdf</a>]</p><br>
+    [<a href="https://">pdf</a>]<br>
+    <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
     </div>
 </div>
 
