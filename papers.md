@@ -129,8 +129,8 @@ layout: page
     [<a href="https://arxiv.org/pdf/1803.07710.pdf">pdf</a>]<br>
     <i>ICLR Workshop (2018)</i>
     [<a href="https://openreview.net/pdf?id=rkN1pF1vz">pdf</a>]<br>
-    <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-dolivegreen">PGM</span>
+    <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-dgreen">Generalization</span>
     </p>
     </div>
@@ -145,7 +145,12 @@ layout: page
     <p><b>Reviving and improving recurrent backpropagation</b><br>
     Liao, R., Xiong, Y., Fetaya, E., Zhang, L., Yoon, K., Pitkow, X., Urtasun, R., Zemel, R. <br>
     <i>ICML (2018)</i>
-    [<a href="http://proceedings.mlr.press/v80/liao18c/liao18c.pdf">pdf</a>]</p><br>
+    [<a href="http://proceedings.mlr.press/v80/liao18c/liao18c.pdf">pdf</a>]<br>
+    <span class="pill-label pill-dolivegreen">PGM</span>
+    <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dsalmon">Hopfield Net</span>
+    <span class="pill-label pill-dviolet">RBP</span>
+    </p>
     </div>
 </div>
 
@@ -263,6 +268,11 @@ display: inline-block;
 .pill-dkkhaki {
   background-color: #BDB76B; /* blue shade */
 }
-
+.pill-dsalmon {
+  background-color: #E9967A; /* blue shade */
+}
+.pill-dviolet {
+  background-color: #9400D3; /* blue shade */
+}
 </style>
 
