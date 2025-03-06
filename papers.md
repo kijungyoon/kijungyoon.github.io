@@ -176,6 +176,7 @@ layout: page
     <span class="pill-label pill-dsalmon">Attractor Net</span>
     <span class="pill-label pill-maqm">Module</span>
     <span class="pill-label pill-hotpink">VR</span>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
     </p>
     </div>
 </div>
@@ -194,6 +195,7 @@ layout: page
     <span class="pill-label pill-dsalmon">Attractor Net</span>
     <span class="pill-label pill-lgreen">Memory</span>
     <span class="pill-label pill-hotpink">VR</span>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
     </p>
     </div>
 </div>
@@ -211,6 +213,7 @@ layout: page
     <span class="pill-label pill-gold">Navigation</span>
     <span class="pill-label pill-dsalmon">Attractor Net</span>
     <span class="pill-label pill-lgreen">Memory</span>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
     </p>
     </div>
 </div>
