@@ -17,6 +17,8 @@ layout: page
     <span class="pill-label pill-dmagenta">Neuroscience</span>
     <span class="pill-label pill-bwood">Point Process</span>
     <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dsalmon">Attractor Net</span>
+    <span class="pill-label pill-lgreen">Memory</span>
     </p>
     </div>
 </div>
