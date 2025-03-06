@@ -57,8 +57,8 @@ layout: page
     <i>NeurIPS Workshop on Temporal Graph Learning (2023)</i>
     [<a href="https://arxiv.org/pdf/2311.12630.pdf">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
-    <span class="pill-label pill-bisque">Time-series</span>
-    <span class="pill-label pill-aqua">Attention</span>
+    <span class="pill-label pill-bwood">Time-series</span>
+    <span class="pill-label pill-dcyan">Attention</span>
     </p>
     </div>
 </div>
@@ -235,14 +235,14 @@ display: inline-block;
 .pill-dorg {
   background-color: #FF8C00; /* blue shade */
 }
-.pill-aqua {
-  background-color: #00FFFF; /* blue shade */
+.pill-dcyan {
+  background-color: #008B8B; /* blue shade */
 }
 .pill-brown {
   background-color: #A52A2A; /* blue shade */
 }
-.pill-bisque {
-  background-color: #FFE4C4; /* blue shade */
+.pill-bwood {
+  background-color: #DEB887; /* blue shade */
 }
 
 </style>
