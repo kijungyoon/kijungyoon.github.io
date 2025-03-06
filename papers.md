@@ -28,6 +28,7 @@ layout: page
     <i>In preparation (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-green">Medical AI</span>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
     </div>
 </div>
