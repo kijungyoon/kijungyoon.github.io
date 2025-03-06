@@ -37,12 +37,12 @@ layout: page
 
     <div class="toright">
     <p><b>Osteoporosis Prediction from Hand X-ray Images Using Segmentation-for-Classification and Self-Supervised Learning</b><br>
-    <span class="pill-label pill-purple">SSL</span>
-    <span class="pill-label pill-green">Medical AI</span>
-    <br>
     Hwang, U., Lee, C., Yoon, K.<br>
     <i>In review (2024)</i>
     [<a href="https://arxiv.org/pdf/2412.05345">pdf</a>]</p><br>
+    <span class="pill-label pill-purple">SSL</span>
+    <span class="pill-label pill-green">Medical AI</span>
+    <br>
     </div>
 </div>
 
@@ -56,6 +56,11 @@ layout: page
     Kim, J., Lee, H., Yu, S., Hwang, U., Jung, W., Park, M., Yoon, K.<br>
     <i>NeurIPS Workshop on Temporal Graph Learning (2023)</i>
     [<a href="https://arxiv.org/pdf/2311.12630.pdf">pdf</a>]</p><br>
+    <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dorg">Meta Learning</span>
+    <span class="pill-label pill-purple">MoE</span>
+    <span class="pill-label pill-green">OOD</span>
+    <br>
     </div>
 </div>
 
@@ -202,13 +207,16 @@ font-weight: bold;
 display: inline-block;
 }
 .pill-purple {
-background-color: #c078c8; /* purple shade */
+  background-color: #c078c8; /* purple shade */
 }
 .pill-green {
   background-color: #4CAF50; /* green shade */
 }
 .pill-blue {
   background-color: #2196F3; /* blue shade */
+}
+.pill-dorg {
+  background-color: #FF8C00; /* blue shade */
 }
 </style>
 
