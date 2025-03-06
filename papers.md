@@ -197,7 +197,11 @@ layout: page
     <p><b>Specific evidence of low-dimensional continuous attractor dynamics in grid cells</b><br>
     Yoon, K., Buice, M. A., Barry, C., Hayman, R., Burgess, N., Fiete, I. R.<br>
     <i>Nature Neuroscience (2013)</i><br>
-    [<a href="https://doi.org/10.1038/nn.3450">pdf</a>],[<a href="https://static-content.springer.com/esm/art%3A10.1038%2Fnn.3450/MediaObjects/41593_2013_BFnn3450_MOESM29_ESM.pdf">SI</a>],[<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiIhNCW85LQAhWqsVQKHXK5DHIQFggnMAE&url=http%3A%2F%2Ff1000.com%2Fprime%2F718030887&usg=AFQjCNHhAmmMNnD-zFD-v2PJHmr7hc8kYg&sig2=ByZupaSyaCDKPMy5T7LLaQ&bvm=bv.137904068,d.amc">F1000</a>]</p>
+    [<a href="https://doi.org/10.1038/nn.3450">pdf</a>],[<a href="https://static-content.springer.com/esm/art%3A10.1038%2Fnn.3450/MediaObjects/41593_2013_BFnn3450_MOESM29_ESM.pdf">SI</a>],[<a href="https://archive.connect.h1.co/article/718030887/">F1000</a>]<br>
+    <span class="pill-label pill-gold">Navigation</span>
+    <span class="pill-label pill-dsalmon">Attractor Net</span>
+    <span class="pill-label pill-lgreen">Memory</span>
+    </p>
     </div>
 </div>
 
@@ -247,7 +251,10 @@ display: inline-block;
   background-color: #4CAF50; /* green shade */
 }
 .pill-dgreen {
-  background-color: #006400; /* blue shade */
+  background-color: #006400; /* blue shade */ #90EE90
+}
+.pill-lgreen {
+  background-color: #90EE90; /* blue shade */
 }
 .pill-dolivegreen {
   background-color: #556B2F; /* blue shade */
@@ -282,5 +289,9 @@ display: inline-block;
 .pill-dviolet {
   background-color: #9400D3; /* blue shade */
 }
+.pill-gold {
+  background-color: #FFD700; /* blue shade */
+}
+
 </style>
 
