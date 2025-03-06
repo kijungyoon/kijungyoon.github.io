@@ -310,7 +310,7 @@ display: inline-block;
 }#FF69B4
 .pill-maqm {
   background-color: #66CDAA; /* blue shade */
-}#FF69B4
+}
 
 </style>
 
