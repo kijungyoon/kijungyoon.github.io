@@ -57,9 +57,8 @@ layout: page
     <i>NeurIPS Workshop on Temporal Graph Learning (2023)</i>
     [<a href="https://arxiv.org/pdf/2311.12630.pdf">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
-    <span class="pill-label pill-dorg">Meta Learning</span>
-    <span class="pill-label pill-brown">MoE</span>
-    <span class="pill-label pill-dgreen">OOD</span>
+    <span class="pill-label pill-bisque">Time-series</span>
+    <span class="pill-label pill-aqua">Attention</span>
     </p>
     </div>
 </div>
@@ -73,7 +72,12 @@ layout: page
     <p><b>Towards better generalization with flexible representation of multi-module graph neural networks</b><br>
     Lee, H., Yoon, K.<br>
     <i>Transactions on Machine Learning Research (TMLR) (2023)</i>
-    [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]</p><br>
+    [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]<br>
+    <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dorg">Meta Learning</span>
+    <span class="pill-label pill-brown">MoE</span>
+    <span class="pill-label pill-dgreen">OOD</span>
+    </p>
     </div>
 </div>
 
