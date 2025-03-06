@@ -42,6 +42,8 @@ layout: page
     [<a href="https://arxiv.org/pdf/2412.05345">pdf</a>]<br>
     <span class="pill-label pill-purple">SSL</span>
     <span class="pill-label pill-green">Medical AI</span>
+    <span class="pill-label pill-dblue">Optimal Transport</span>
+    <span class="pill-label pill-dkkhaki">U-Net</span>
     </p>
     </div>
 </div>
@@ -76,7 +78,7 @@ layout: page
     <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-dorg">Meta Learning</span>
     <span class="pill-label pill-brown">MoE</span>
-    <span class="pill-label pill-dgreen">OOD</span>
+    <span class="pill-label pill-dgreen">Generalization</span>
     </p>
     </div>
 </div>
@@ -107,7 +109,11 @@ layout: page
     <p><b>Two-argument activation functions learn soft XOR operations like cortical neurons</b><br>
     Kim, J., Orhan, E., Yoon, K.*, Pitkow, X.*<br>
     <i>IEEE Access (2022)</i>
-    [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785635">pdf</a>]</p><br>
+    [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785635">pdf</a>]<br>
+    <span class="pill-label pill-cfblue">XOR</span>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
+    <span class="pill-label pill-dgreen">Generalization</span>
+    </p>
     </div>
 </div>
 
@@ -247,7 +253,9 @@ display: inline-block;
 .pill-bwood {
   background-color: #DEB887; /* blue shade */
 }
+.pill-dkkhaki {
+  background-color: #BDB76B; /* blue shade */
+}
 
-    
 </style>
 
