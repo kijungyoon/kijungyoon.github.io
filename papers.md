@@ -128,7 +128,11 @@ layout: page
     <i>ICML Workshop on Tractable Probabilistic Modeling (2019)</i>
     [<a href="https://arxiv.org/pdf/1803.07710.pdf">pdf</a>]<br>
     <i>ICLR Workshop (2018)</i>
-    [<a href="https://openreview.net/pdf?id=rkN1pF1vz">pdf</a>]</p><br>
+    [<a href="https://openreview.net/pdf?id=rkN1pF1vz">pdf</a>]<br>
+    <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dolivegreen-">PGM</span>
+    <span class="pill-label pill-dgreen">Generalization</span>
+    </p>
     </div>
 </div>
 
@@ -231,6 +235,9 @@ display: inline-block;
 }
 .pill-dgreen {
   background-color: #006400; /* blue shade */
+}
+.pill-dolivegreen {
+  background-color: #556B2F; /* blue shade */
 }
 .pill-blue {
   background-color: #2196F3; /* blue shade */
