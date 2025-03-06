@@ -130,7 +130,7 @@ layout: page
     <i>ICLR Workshop (2018)</i>
     [<a href="https://openreview.net/pdf?id=rkN1pF1vz">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
-    <span class="pill-label pill-dolivegreen-">PGM</span>
+    <span class="pill-label pill-dolivegreen">PGM</span>
     <span class="pill-label pill-dgreen">Generalization</span>
     </p>
     </div>
