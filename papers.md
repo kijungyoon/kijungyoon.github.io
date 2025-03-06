@@ -30,6 +30,7 @@ layout: page
     <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-green">Medical AI</span>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
+    </p>
     </div>
 </div>
 
