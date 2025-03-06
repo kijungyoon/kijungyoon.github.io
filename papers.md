@@ -193,7 +193,7 @@ Park, H., Yoon, K. “Degree matters: assessing the generalization of graph neur
   .pill-label {
     background-color: #c078c8;
     color: #ffffff;
-    padding: 4px;
+    padding: 4px 8px;
     border-radius: 9999px;
     font-weight: bold;
     display: inline-block;
