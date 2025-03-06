@@ -184,7 +184,12 @@ layout: page
     <p><b>Grid cell responses in 1D environments assessed as slices through a 2D lattice</b><br>
     Yoon, K.*, Lewallen, S.*, Kinkhabwala, A. A., Tank, D. W., Fiete, I. R.<br>
     <i>Neuron (2016)</i>
-    [<a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2816%2900064-7">pdf</a>],[<a href="https://www.cell.com/cms/10.1016/j.neuron.2016.01.039/attachment/57d65060-bdc8-41f3-837a-671470bdcce7/mmc1.pdf">SI</a>]</p><br>
+    [<a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2816%2900064-7">pdf</a>],[<a href="https://www.cell.com/cms/10.1016/j.neuron.2016.01.039/attachment/57d65060-bdc8-41f3-837a-671470bdcce7/mmc1.pdf">SI</a>]<br>
+    <span class="pill-label pill-gold">Navigation</span>
+    <span class="pill-label pill-dsalmon">Attractor Net</span>
+    <span class="pill-label pill-lgreen">Memory</span>
+    <span class="pill-label pill-hotpink">VR</span>
+    </p>
     </div>
 </div>
 
@@ -292,6 +297,9 @@ display: inline-block;
 .pill-gold {
   background-color: #FFD700; /* blue shade */
 }
+.pill-hotpink {
+  background-color: #FF69B4; /* blue shade */
+}#FF69B4
 
 </style>
 
