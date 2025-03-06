@@ -195,6 +195,7 @@ Park, H., Yoon, K. “Degree matters: assessing the generalization of graph neur
     color: #ffffff;
     padding: 2px 12px;
     border-radius: 12px;
+    font-size: 6px;
     font-weight: bold;
     display: inline-block;
   }
