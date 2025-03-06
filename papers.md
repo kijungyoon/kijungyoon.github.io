@@ -37,7 +37,9 @@ layout: page
 
     <div class="toright">
     <p><b>Osteoporosis Prediction from Hand X-ray Images Using Segmentation-for-Classification and Self-Supervised Learning</b><br>
-    <span class="pill-label">SSL</span><br>
+    <span class="pill-label pill-purple">SSL</span>
+    <span class="pill-label pill-green">Medical AI</span>
+    <br>
     Hwang, U., Lee, C., Yoon, K.<br>
     <i>In review (2024)</i>
     [<a href="https://arxiv.org/pdf/2412.05345">pdf</a>]</p><br>
@@ -190,14 +192,23 @@ Park, H., Yoon, K. “Degree matters: assessing the generalization of graph neur
 </ul>
 
 <style>
-  .pill-label {
-    background-color: #c078c8;
-    color: #ffffff;
-    padding: 2px 12px;
-    border-radius: 12px;
-    font-size: 10px;
-    font-weight: bold;
-    display: inline-block;
-  }
+
+.pill-label {
+color: #ffffff;
+padding: 2px 12px;
+border-radius: 12px;
+font-size: 10px;
+font-weight: bold;
+display: inline-block;
+}
+.pill-purple {
+background-color: #c078c8; /* purple shade */
+}
+.pill-green {
+  background-color: #4CAF50; /* green shade */
+}
+.pill-blue {
+  background-color: #2196F3; /* blue shade */
+}
 </style>
 
