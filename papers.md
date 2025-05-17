@@ -10,9 +10,9 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Unsupervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks</b><br>
+    <p><b>Self-Supervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks</b><br>
     Yoon, K.<br>
-    <i>In preparation (2025)</i>
+    <i>In review (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
     <span class="pill-label pill-bwood">Point Process</span>
