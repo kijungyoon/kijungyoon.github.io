@@ -16,11 +16,13 @@ layout: page
 
 <h3>Service</h3>
 <ul>
+<li>Reviewer, ICML 2025 Workshop on Assessing World Models</li>
+<li>Reviewer, ICML 2025 Workshop on Foundation Models for Structured Data</li>
 <li>Reviewer, ICLR 2025, 2024 Workshop on Representational Alignment</li>
 <li>Reviewer, NeurIPS 2024 Workshop on Behavioral Machine Learning</li>
-<li>Program Committee, NeurIPS 2024, 2023 Workshop on Symmetry and Geometry in NeurReps</li>
+<li>Program Committee, NeurIPS 2025, 2024, 2023 Workshop on Symmetry and Geometry in NeurReps</li>
 <li>Program Committee, NeurIPS 2023 Workshop on Temporal Graph Learning</li>
-<li>Program Committee, AAAI 2025, 2024, 2023, ICML 2022, AISTATS 2025, 2024, 2022</li>
+<li>Program Committee, NeurIPS 2025, AAAI 2025, 2024, 2023, ICML 2022, AISTATS 2025, 2024, 2022</li>
 <li>Participant, ETRI 개방형 Brain-AI R&D 기획 2023</li>
 <li>Reviewer, IEEE TNNLS, IEEE Signal Processing</li>
 <li>Discussant, UAI 2023</li>
