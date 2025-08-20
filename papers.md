@@ -25,12 +25,46 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/tsfm_tsad.png" alt="Alt Text" width="200">
+    </div>
+
+    <div class="toright">
+    <p><b>A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection</b><br>
+    Park, M., Yoon, K.<br>
+    <i>In preparation (2025)</i>
+    [<a href="https://">pdf</a>]<br>
+    <span class="pill-label pill-blue">Foundation Model</span>
+    <span class="pill-label pill-bwood">Time Series</span>
+    <span class="pill-label pill-dmagenta">Anomaly Detection</span>
+    </p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/fm_pose_syllables.png" alt="Alt Text" width="200">
+    </div>
+
+    <div class="toright">
+    <p><b>From Foundation Pose Models to Alzheimer’s Biomarkers via Latent Motor Syllables</b><br>
+    Yu, S., Yoon, K.<br>
+    <i>In preparation (2025)</i>
+    [<a href="https://">pdf</a>]<br>
+    <span class="pill-label pill-blue">Pose Estimation</span>
+    <span class="pill-label pill-green">Medical AI</span>
+    <span class="pill-label pill-dmagenta">SLDS</span>
+    </p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
         <img class="image" src="https://kijungyoon.github.io/assets/images/alzheimer.png" alt="Alt Text" width="200">
     </div>
 
     <div class="toright">
     <p><b>A Multimodal Approach to Alzheimer’s Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments</b><br>
-    Hwang, U., Yoon, K.<br>
+    Yang, J., Hwang, U., Yoon, K.<br>
     <i>In preparation (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
