@@ -25,7 +25,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/tsfm_tsad.png" alt="Alt Text" width="200">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/tsfm_tsad.png" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -33,16 +33,16 @@ layout: page
     Park, M., Yoon, K.<br>
     <i>In preparation (2025)</i>
     [<a href="https://">pdf</a>]<br>
-    <span class="pill-label pill-blue">Foundation Model</span>
+    <span class="pill-label pill-gold">Foundation Model</span>
     <span class="pill-label pill-bwood">Time Series</span>
-    <span class="pill-label pill-dmagenta">Anomaly Detection</span>
+    <span class="pill-label pill-orangered">Anomaly Detection</span>
     </p>
     </div>
 </div>
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/fm_pose_syllables.png" alt="Alt Text" width="200">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/fm_pose_syllables.png" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -50,9 +50,9 @@ layout: page
     Yu, S., Yoon, K.<br>
     <i>In preparation (2025)</i>
     [<a href="https://">pdf</a>]<br>
-    <span class="pill-label pill-blue">Pose Estimation</span>
+    <span class="pill-label pill-steelblue">Pose Estimation</span>
     <span class="pill-label pill-green">Medical AI</span>
-    <span class="pill-label pill-dmagenta">SLDS</span>
+    <span class="pill-label pill-plum">SLDS</span>
     </p>
     </div>
 </div>
@@ -347,6 +347,14 @@ display: inline-block;
 .pill-maqm {
   background-color: #66CDAA; /* blue shade */
 }
-
+.pill-orangered {
+  background-color: #FF4500; /* blue shade */
+}
+.pill-steelblue {
+  background-color: #4682b4; /* blue shade */
+}
+.pill-plum {
+  background-color: #dda0dd; /* blue shade */
+}
 </style>
 
