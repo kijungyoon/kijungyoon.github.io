@@ -48,7 +48,7 @@ layout: page
     <div class="toright">
     <p><b>Osteoporosis Prediction from Hand X-ray Images Using Segmentation-for-Classification and Self-Supervised Learning</b><br>
     Hwang, U., Lee, C., Yoon, K.<br>
-    <i>In review (2024)</i>
+    <i>Accepted in Scientific Reports (2025)</i>
     [<a href="https://arxiv.org/pdf/2412.05345">pdf</a>]<br>
     <span class="pill-label pill-purple">SSL</span>
     <span class="pill-label pill-green">Medical AI</span>
