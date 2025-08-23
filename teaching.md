@@ -22,7 +22,7 @@ layout: page
 <li>Reviewer, NeurIPS 2024 Workshop on Behavioral Machine Learning</li>
 <li>Program Committee, NeurIPS 2025, 2024, 2023 Workshop on Symmetry and Geometry in NeurReps</li>
 <li>Program Committee, NeurIPS 2023 Workshop on Temporal Graph Learning</li>
-<li>Program Committee, NeurIPS 2025, AAAI 2026, 2025, 2024, 2023, ICML 2022, AISTATS 2025, 2024, 2022</li>
+<li>Program Committee, NeurIPS 2025, AISTATS 2026-2022, AAAI 2026-2023</li>
 <li>Participant, ETRI 개방형 Brain-AI R&D 기획 2023</li>
 <li>Reviewer, IEEE TNNLS, IEEE Signal Processing</li>
 <li>Discussant, UAI 2023</li>
