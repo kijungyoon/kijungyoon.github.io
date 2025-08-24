@@ -31,7 +31,7 @@ layout: page
     <div class="toright">
     <p><b>A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection</b><br>
     Park, M., Yoon, K.<br>
-    <i>In preparation (2025)</i>
+    <i>In review (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-gold">Foundation Model</span>
     <span class="pill-label pill-bwood">Time Series</span>
