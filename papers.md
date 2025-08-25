@@ -42,23 +42,6 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/fm_pose_syllables.png" alt="Alt Text" width="300">
-    </div>
-
-    <div class="toright">
-    <p><b>From Foundation Pose Models to Alzheimer’s Biomarkers via Latent Motor Syllables</b><br>
-    Yu, S., Yoon, K.<br>
-    <i>In preparation (2025)</i>
-    [<a href="https://">pdf</a>]<br>
-    <span class="pill-label pill-steelblue">Pose Estimation</span>
-    <span class="pill-label pill-green">Medical AI</span>
-    <span class="pill-label pill-plum">SLDS</span>
-    </p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft" style="text-align:center">
         <img class="image" src="https://kijungyoon.github.io/assets/images/alzheimer.png" alt="Alt Text" width="200">
     </div>
 
