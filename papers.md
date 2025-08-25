@@ -34,6 +34,7 @@ layout: page
     <i>In review (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-gold">Foundation Model</span>
+    <span class="pill-label pill-dblue">PEFT</span>
     <span class="pill-label pill-bwood">Time Series</span>
     <span class="pill-label pill-orangered">Anomaly Detection</span>
     </p>
@@ -47,7 +48,7 @@ layout: page
 
     <div class="toright">
     <p><b>A Multimodal Approach to Alzheimer’s Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments</b><br>
-    Yang, J., Hwang, U., Yoon, K.<br>
+    Yang, J., Yoon, K.<br>
     <i>In preparation (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
