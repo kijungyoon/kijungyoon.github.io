@@ -43,13 +43,13 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/alzheimer.png" alt="Alt Text" width="200">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/cube.png" alt="Alt Text" width="200">
     </div>
 
     <div class="toright">
     <p><b>A Multimodal Approach to Alzheimer’s Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments</b><br>
     Yang, J., Yoon, K.<br>
-    <i>In preparation (2025)</i>
+    <i>In review (2025)</i>
     [<a href="https://">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-green">Medical AI</span>
