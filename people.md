@@ -33,11 +33,9 @@ layout: page
     <div class="toright"><br>
     <p><b>Seungwon Yu (유승원)</b><br>
     	Research Interest<br>
-     	- Graph Machine Learning<br>
-      	- Explainable AI<br>
-     	- Multimodal Deep Learning<br>
-      	- Time-series Analysis<br>
-      	- Medical/Healthcare Applications</p>
+     	- Diffusion Models<br>
+	    - Graph Machine Learning<br>
+      	- Time-series Analysis<br></p>
     </div>
 </div>
 
@@ -95,7 +93,9 @@ layout: page
 	
     <div class="toright"><br>
     <p><b>Jaeho Yang (양재호)</b><br>
-	  </p>
+     	- Diffusion Models<br>
+	    - Graph Machine Learning<br>
+      	- Time-series Analysis<br></p>
     </div>
 </div>
 
@@ -107,7 +107,9 @@ layout: page
 	
     <div class="toright"><br>
     <p><b>Eunjung Kim (김은정)</b><br>
-	  </p>
+     	- Diffusion Models<br>
+	    - Graph Machine Learning<br>
+      	- Time-series Analysis<br></p>
     </div>
 </div>
 
