@@ -12,8 +12,8 @@ layout: page
     <div class="toright">
     <p><b>Self-Supervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks</b><br>
     Yoon, K.<br>
-    <i>Accepted in NeurIPS (2025)</i>
-    [<a href="https://">pdf</a>]<br>
+    <i>NeurIPS (2025)</i>
+    [<a href="https://arxiv.org/pdf/2509.17174">pdf</a>]<br>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
     <span class="pill-label pill-bwood">Point Process</span>
     <span class="pill-label pill-blue">GNN</span>
