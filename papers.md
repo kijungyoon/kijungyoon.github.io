@@ -49,8 +49,8 @@ layout: page
     <div class="toright">
     <p><b>A Multimodal Approach to Alzheimer’s Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments</b><br>
     Yang, J., Yoon, K.<br>
-    <i>In review (2025)</i>
-    [<a href="https://">pdf</a>]<br>
+    <i>Preprint (2025)</i>
+    [<a href="https://arxiv.org/pdf/2512.16184">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-green">Medical AI</span>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
