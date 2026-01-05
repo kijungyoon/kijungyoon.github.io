@@ -4,35 +4,17 @@ layout: page
 ---
 
 <h2>Publications</h2>
-<div class="side-by-side">
-    <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/circuit_inf.png" alt="Alt Text">
-    </div>
-
-    <div class="toright">
-    <p><b>Self-Supervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks</b><br>
-    Yoon, K.<br>
-    <i>NeurIPS (2025)</i>
-    [<a href="https://arxiv.org/pdf/2509.17174">pdf</a>]<br>
-    <span class="pill-label pill-dmagenta">Neuroscience</span>
-    <span class="pill-label pill-bwood">Point Process</span>
-    <span class="pill-label pill-blue">GNN</span>
-    <span class="pill-label pill-dsalmon">Attractor Net</span>
-    <span class="pill-label pill-lgreen">Memory</span>
-    </p>
-    </div>
-</div>
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/tsfm_tsad.png" alt="Alt Text" width="300">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/scale_vs_vuspr.png" alt="Alt Text" width="300">
     </div>
 
     <div class="toright">
     <p><b>A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection</b><br>
     Park, M., Yoon, K.<br>
-    <i>In review (2025)</i>
-    [<a href="https://">pdf</a>]<br>
+    <i>Preprint (2026)</i>
+    [<a href="https://arxiv.org/pdf/2601.00446">pdf</a>]<br>
     <span class="pill-label pill-gold">Foundation Model</span>
     <span class="pill-label pill-dblue">PEFT</span>
     <span class="pill-label pill-bwood">Time Series</span>
@@ -54,6 +36,25 @@ layout: page
     <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-green">Medical AI</span>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
+    </p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/circuit_inf.png" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+    <p><b>Self-Supervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks</b><br>
+    Yoon, K.<br>
+    <i>NeurIPS (2025)</i>
+    [<a href="https://arxiv.org/pdf/2509.17174">pdf</a>]<br>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
+    <span class="pill-label pill-bwood">Point Process</span>
+    <span class="pill-label pill-blue">GNN</span>
+    <span class="pill-label pill-dsalmon">Attractor Net</span>
+    <span class="pill-label pill-lgreen">Memory</span>
     </p>
     </div>
 </div>
