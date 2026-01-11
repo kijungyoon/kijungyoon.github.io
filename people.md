@@ -47,7 +47,7 @@ layout: page
 	
     <div class="toright"><br>
     <p><b>Miseon Park (박미선)</b><br>
-	  Research Interest<br>
+	  	Research Interest<br>
      	- Graph Machine Learning<br>
       	- Foundation Models for AI<br>
       	- Time-series Analysis<br>
@@ -63,7 +63,7 @@ layout: page
 	
     <div class="toright"><br>
     <p><b>Ingyeom Kim (김인겸)</b><br>
-	  Research Interest<br>
+	  	Research Interest<br>
 	    - Compositional Learning<br>
       	- Episodic Memory<br>
         - OOD Generalization</p>
@@ -78,6 +78,7 @@ layout: page
 	
     <div class="toright"><br>
     <p><b>Jaeho Yang (양재호)</b><br>
+		Research Interest<br>
      	- Diffusion Models<br>
 		- Manifold Learning<br>
 		- Continuous Attractors</p>
@@ -92,6 +93,7 @@ layout: page
 	
     <div class="toright"><br>
     <p><b>Eunjung Kim (김은정)</b><br>
+		Research Interest<br>
      	- Working Memory<br>
 		- Associative Memory<br>
 	    - Continuous Attractors</p>
