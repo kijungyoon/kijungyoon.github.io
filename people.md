@@ -33,7 +33,7 @@ layout: page
     <div class="toright"><br>
     <p><b>Seungwon Yu (유승원)</b><br>
     	Research Interest<br>
-     	- Diffusion Models<br>
+     	- Neural Connectivity Inference<br>
 	    - Graph Machine Learning<br>
       	- Time-series Analysis<br></p>
     </div>
@@ -64,10 +64,53 @@ layout: page
     <div class="toright"><br>
     <p><b>Ingyeom Kim (김인겸)</b><br>
 	  Research Interest<br>
+	    - Compositional Learning<br>
+      	- Episodic Memory<br>
+        - OOD Generalization</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/JaehoYang.jpg" alt="Alt Text" width="170">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright"><br>
+    <p><b>Jaeho Yang (양재호)</b><br>
+     	- Diffusion Models<br>
+		- Manifold Learning<br>
+		- Continuous Attractors</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/EunjungKim.jpg" alt="Alt Text" width="170">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright"><br>
+    <p><b>Eunjung Kim (김은정)</b><br>
+     	- Working Memory<br>
+		- Associative Memory<br>
+	    - Continuous Attractors</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/***.jpg" alt="Alt Text" width="170">
+	<figcaption class="caption"></figcaption>
+    </div>
+	
+    <div class="toright"><br>
+    <p><b>Hyunseok Kim (김현석)</b><br>
+	  Research Interest<br>
       	- Compositional Learning<br>
-      	- Object-Centric Learning<br>
         - OOD Generalization<br>
-        - Graph Machine Learning</p>
+		- Object-Centric Learning<br>
+		- Perceptual Inference</p>
     </div>
 </div>
 
@@ -84,35 +127,6 @@ layout: page
         - OOD Generalization</p>
     </div>
 </div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/JaehoYang.jpg" alt="Alt Text" width="170">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Jaeho Yang (양재호)</b><br>
-     	- Diffusion Models<br>
-	    - Graph Machine Learning<br>
-      	- Time-series Analysis<br></p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/EunjungKim.jpg" alt="Alt Text" width="170">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Eunjung Kim (김은정)</b><br>
-     	- Diffusion Models<br>
-	    - Graph Machine Learning<br>
-      	- Time-series Analysis<br></p>
-    </div>
-</div>
-
 	
 <div class="side-by-side">
     <div class="toleft">
