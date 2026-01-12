@@ -106,7 +106,7 @@ layout: page
     [<a href="https://arxiv.org/pdf/2209.06589.pdf">pdf</a>]<br>
     <span class="pill-label pill-blue">GNN</span>
     <span class="pill-label pill-dorg">Meta Learning</span>
-    <span class="pill-label pill-brown">MoE</span>
+    <span class="pill-label pill-brown">Modular Learning</span>
     <span class="pill-label pill-dgreen">Generalization</span>
     </p>
     </div>
