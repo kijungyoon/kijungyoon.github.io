@@ -102,7 +102,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunseokKim.jpg" alt="Alt Text" width="170">
+	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunSeokKim.jpg" alt="Alt Text" width="170">
 	<figcaption class="caption"></figcaption>
     </div>
 	
