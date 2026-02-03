@@ -64,8 +64,9 @@ layout: page
     <div class="toright"><br>
     <p><b>Ingyeom Kim (김인겸)</b><br>
 	  	Research Interest<br>
-	    - Compositional Learning<br>
-      	- Episodic Memory<br>
+	    - Biological Memory<br>
+		- Compositional Learning<br>
+      	- Continual Learning<br>
         - OOD Generalization</p>
     </div>
 </div>
@@ -94,9 +95,10 @@ layout: page
     <div class="toright"><br>
     <p><b>Eunjung Kim (김은정)</b><br>
 		Research Interest<br>
-     	- Working Memory<br>
-		- Associative Memory<br>
-	    - Continuous Attractors</p>
+		- Biological Memory<br>
+	    - Continual Learning<br>
+		- Compositional Learning<br>
+		- OOD Generalization</p>
     </div>
 </div>
 
@@ -109,9 +111,9 @@ layout: page
     <div class="toright"><br>
     <p><b>Hyunseok Kim (김현석)</b><br>
 	  Research Interest<br>
-      	- Compositional Learning<br>
+      	- Object-Centric Learning<br>
+		- Compositional Learning<br>
         - OOD Generalization<br>
-		- Object-Centric Learning<br>
 		- Perceptual Inference</p>
     </div>
 </div>
