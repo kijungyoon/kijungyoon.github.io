@@ -88,22 +88,6 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/EunjungKim.jpg" alt="Alt Text" width="170">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Eunjung Kim (김은정)</b><br>
-		Research Interest<br>
-		- Biological Memory<br>
-	    - Continual Learning<br>
-		- Compositional Learning<br>
-		- OOD Generalization</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
 	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunSeokKim.jpg" alt="Alt Text" width="170">
 	<figcaption class="caption"></figcaption>
     </div>
