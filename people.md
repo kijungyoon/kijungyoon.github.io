@@ -41,22 +41,6 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/MisunPark.JPG" alt="Alt Text">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Miseon Park (박미선)</b><br>
-	  	Research Interest<br>
-     	- Graph Machine Learning<br>
-      	- Foundation Models for AI<br>
-      	- Time-series Analysis<br>
-      	- Anomaly Detection</p>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
 	<img class="image" src="https://kijungyoon.github.io/assets/images/IngyeomKim.jpg" alt="Alt Text" width="170">
 	<figcaption class="caption"></figcaption>
     </div>
@@ -101,20 +85,6 @@ layout: page
 		- Perceptual Inference</p>
     </div>
 </div>
-
-<div class="side-by-side">
-    <div class="toleft">
-	<img class="image" src="https://kijungyoon.github.io/assets/images/HyunjungKim.png" alt="Alt Text" width="170">
-	<figcaption class="caption"></figcaption>
-    </div>
-	
-    <div class="toright"><br>
-    <p><b>Hyunjung Kim (김현정)</b><br>
-	  Research Interest<br>
-      	- Object-Centric Learning<br>
-        - OOD Generalization</p>
-    </div>
-</div>
 	
 <div class="side-by-side">
     <div class="toleft">
@@ -124,7 +94,9 @@ layout: page
 	    <b>Juhyeon Kim (MS, 2023): LG전자 BS, Data Scientist</b><br>
 	    <b>Taehoon Park (MS, 2023): LG전자 CDO AI</b><br>
 	    <b>Hyungeun Lee (BS, 2024)</b><br>
-	    <b>Ung Hwang (MS, 2025): Co-Advised by Prof. Jechang Jeong</b></p>
+	    <b>Ung Hwang (MS, 2025): Co-Advised by Prof. Jechang Jeong</b><br>
+		<b>Miseon Park (MS, 2026)</b></p>
+		
     </div>
 	
     <div class="toright"> 
