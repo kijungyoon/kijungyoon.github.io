@@ -7,6 +7,23 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/pe.png" alt="Alt Text" width="500">
+    </div>
+
+    <div class="toright">
+    <p><b>Symmetry-Induced Non-Identifiability in Neural Circuit Inference</b><br>
+    Yu, S., Yang, J., Yoon, K.<br>
+    <i>Preprint (2026)</i>
+    [<a href="">pdf</a>]<br>
+    <span class="pill-label pill-lightcoral">Network Inference</span>
+    <span class="pill-label pill-skyblue">Perturbation</span>
+    <span class="pill-label pill-dmagenta">Neuroscience</span>
+    </p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
         <img class="image" src="https://kijungyoon.github.io/assets/images/scale_vs_vuspr.png" alt="Alt Text" width="300">
     </div>
 
@@ -340,6 +357,12 @@ display: inline-block;
 }
 .pill-plum {
   background-color: #dda0dd; /* blue shade */
+}
+.pill-lightcoral {
+  background-color: #F08080; /* blue shade */
+}
+.pill-skyblue {
+  background-color: #87ceeb; /* blue shade */
 }
 </style>
 
