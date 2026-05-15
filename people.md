@@ -33,9 +33,9 @@ layout: page
     <div class="toright"><br>
     <p><b>Seungwon Yu (유승원)</b><br>
     	Research Interest<br>
-     	- Neural Connectivity Inference<br>
-	    - Graph Machine Learning<br>
-      	- Time-series Analysis<br></p>
+     	- Biological network and connectivity inference<br>
+	    - Biological learning rule inference<br>
+      	- Neural data analysis<br></p>
     </div>
 </div>
 
@@ -64,9 +64,10 @@ layout: page
     <div class="toright"><br>
     <p><b>Jaeho Yang (양재호)</b><br>
 		Research Interest<br>
-     	- Diffusion Models<br>
+		- Biological Memory<br>
+		- Compositional Learning<br>
 		- Manifold Learning<br>
-		- Continuous Attractors</p>
+		- Medical AI</p>
     </div>
 </div>
 
