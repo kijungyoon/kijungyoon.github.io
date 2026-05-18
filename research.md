@@ -73,48 +73,78 @@ layout: page
 
     <!-- Column 1 -->
     <div class="legend-col">
-        <span class="pill-label pill-lightcoral">CompLearn</span>
-        <span class="topic-text">Compositional learning</span>
-        <span class="pill-label pill-lightcoral">ModLearn</span>
-        <span class="topic-text">Modular learning</span>
-        <span class="pill-label pill-lightcoral">ObjLearn</span>
-        <span class="topic-text">Object-centric learning</span>
-        <span class="pill-label pill-lightcoral">SelfSup</span>
-        <span class="topic-text">Self-supervised learning</span>
-        <span class="pill-label pill-lightcoral">PercInfer</span>
-        <span class="topic-text">Perceptual inference</span>
+        <div class="topic-item">
+            <span class="pill-label pill-lightcoral">CompLearn</span>
+            <span class="topic-text">Compositional learning</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-lightcoral">ModLearn</span>
+            <span class="topic-text">Modular learning</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-lightcoral">ObjLearn</span>
+            <span class="topic-text">Object-centric learning</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-lightcoral">SelfSup</span>
+            <span class="topic-text">Self-supervised learning</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-lightcoral">PercInfer</span>
+            <span class="topic-text">Perceptual inference</span>
+        </div>
     </div>
 
     <!-- Column 2 -->
     <div class="legend-col">
-        <span class="pill-label pill-skyblue">NetInfer</span>
-        <span class="topic-text">Inference of network structure</span>
-        <span class="pill-label pill-skyblue">RuleInfer</span>
-        <span class="topic-text">Inference of learning rule</span>
-        <span class="pill-label pill-skyblue">Causal</span>
-        <span class="topic-text">Causal inference</span>
+        <div class="topic-item">
+            <span class="pill-label pill-skyblue">NetInfer</span>
+            <span class="topic-text">Inference of network structure</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-skyblue">RuleInfer</span>
+            <span class="topic-text">Inference of learning rule</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-skyblue">Causal</span>
+            <span class="topic-text">Causal inference</span>
+        </div>
     </div>
 
     <!-- Column 3 -->
     <div class="legend-col">
-        <span class="pill-label pill-green">NeuroData</span>
-        <span class="topic-text">Neural data analysis</span>
-        <span class="pill-label pill-green">BioMemory</span>
-        <span class="topic-text">Biological memory</span>
-        <span class="pill-label pill-green">NeuralDyn</span>
-        <span class="topic-text">Neural dynamics and state-space modeling</span>
-        <span class="pill-label pill-green">BrainComp</span>
-        <span class="topic-text">Brain-inspired computation</span>
+        <div class="topic-item">
+            <span class="pill-label pill-green">NeuroData</span>
+            <span class="topic-text">Neural data analysis</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-green">BioMemory</span>
+            <span class="topic-text">Biological memory</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-green">NeuralDyn</span>
+            <span class="topic-text">Neural dynamics and state-space modeling</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-green">BrainComp</span>
+            <span class="topic-text">Brain-inspired computation</span>
+        </div>
     </div>
 
     <!-- Column 4 -->
     <div class="legend-col">
-        <span class="pill-label pill-purple">CompGen</span>
-        <span class="topic-text">Compositional generalization</span>
-        <span class="pill-label pill-purple">Transfer</span>
-        <span class="topic-text">Transfer and out-of-distribution generalization</span>
-        <span class="pill-label pill-purple">Abstract</span>
-        <span class="topic-text">Abstraction and reasoning</span>
+        <div class="topic-item">
+            <span class="pill-label pill-purple">CompGen</span>
+            <span class="topic-text">Compositional generalization</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-purple">Transfer</span>
+            <span class="topic-text">Transfer and out-of-distribution generalization</span>
+        </div>
+        <div class="topic-item">
+            <span class="pill-label pill-purple">Abstract</span>
+            <span class="topic-text">Abstraction and reasoning</span>
+        </div>
     </div>
 
 </div>
