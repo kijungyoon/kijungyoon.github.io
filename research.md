@@ -13,7 +13,7 @@ layout: page
     color:#ffffff;
     padding:2px 12px;
     border-radius:12px;
-    font-size:10px;
+    font-size:12px;
     font-weight:bold;
     display:inline-block;
     min-width:92px;
