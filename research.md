@@ -12,7 +12,7 @@ layout: page
 .pill-label {
     color:#ffffff;
     padding:2px 12px;
-    border-radius:12px;
+    border-radius:13px;
     font-size:12px;
     font-weight:bold;
     display:inline-block;
@@ -44,7 +44,7 @@ layout: page
 .research-legend{
     display:flex;
     justify-content:space-between;
-    gap:30px;
+    gap:40px;
     width:100%;
     margin-top:20px;
 }
