@@ -56,12 +56,6 @@ layout: page
     flex:1;
 }
 
-.topic-item{
-    display:flex;
-    flex-direction:column;
-    gap:1px;
-}
-
 .topic-text{
     margin-left:4px;
 }
