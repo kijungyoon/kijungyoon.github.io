@@ -59,7 +59,7 @@ layout: page
 .topic-item{
     display:flex;
     flex-direction:column;
-    gap:4px;
+    gap:1px;
 }
 
 .topic-text{
