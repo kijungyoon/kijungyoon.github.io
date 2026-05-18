@@ -147,7 +147,7 @@ layout: page
         </div>
     </div>
 
-</div>
+</div><br><br>
 
 
 We are currently seeking highly motivated individuals pursuing PhD degree to join our research team. Our primary objective is to find candidates who are deeply passionate about the field of AI and possess a strong drive to contribute to cutting-edge advancements in machine learning.
