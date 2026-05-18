@@ -55,6 +55,16 @@ layout: page
     gap:14px;
     flex:1;
 }
+
+.topic-item{
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+}
+
+.topic-text{
+    margin-left:4px;
+}
 </style>
 
 
@@ -62,36 +72,52 @@ layout: page
 
     <!-- Column 1 -->
     <div class="legend-col">
-        <div><span class="pill-label pill-lightcoral">CompLearn</span> Compositional learning</div>
-        <div><span class="pill-label pill-lightcoral">ModLearn</span> Modular learning</div>
-        <div><span class="pill-label pill-lightcoral">ObjLearn</span> Object-centric learning</div>
-        <div><span class="pill-label pill-lightcoral">SelfSup</span> Self-supervised learning</div>
-        <div><span class="pill-label pill-lightcoral">PercInfer</span> Perceptual inference</div>
+        <span class="pill-label pill-lightcoral">CompLearn</span>
+        <div>Compositional learning</div>
+        <span class="pill-label pill-lightcoral">ModLearn</span>
+        <div>Modular learning</div>
+        <span class="pill-label pill-lightcoral">ObjLearn</span>
+        <div>Object-centric learning</div>
+        <span class="pill-label pill-lightcoral">SelfSup</span>
+        <div>Self-supervised learning</div>
+        <span class="pill-label pill-lightcoral">PercInfer</span>
+        <div>Perceptual inference</div>
     </div>
 
     <!-- Column 2 -->
     <div class="legend-col">
-        <div><span class="pill-label pill-skyblue">NetInfer</span> Inference of network structure</div>
-        <div><span class="pill-label pill-skyblue">RuleInfer</span> Inference of learning rule</div>
-        <div><span class="pill-label pill-skyblue">Causal</span> Causal inference</div>
+        <span class="pill-label pill-skyblue">NetInfer</span>
+        <div>Inference of network structure</div>
+        <span class="pill-label pill-skyblue">RuleInfer</span>
+        <div>Inference of learning rule</div>
+        <span class="pill-label pill-skyblue">Causal</span>
+        <div>Causal inference</div>
     </div>
 
     <!-- Column 3 -->
     <div class="legend-col">
-        <div><span class="pill-label pill-green">NeuroData</span> Neural data analysis</div>
-        <div><span class="pill-label pill-green">BioMemory</span> Biological memory</div>
-        <div><span class="pill-label pill-green">NeuralDyn</span> Neural dynamics and state-space modeling</div>
-        <div><span class="pill-label pill-green">BrainComp</span> Brain-inspired computation</div>
+        <span class="pill-label pill-green">NeuroData</span>
+        <div>Neural data analysis</div>
+        <span class="pill-label pill-green">BioMemory</span>
+        <div>Biological memory</div>
+        <span class="pill-label pill-green">NeuralDyn</span>
+        <div>Neural dynamics and state-space modeling</div>
+        <span class="pill-label pill-green">BrainComp</span>
+        <div>Brain-inspired computation</div>
     </div>
 
     <!-- Column 4 -->
     <div class="legend-col">
-        <div><span class="pill-label pill-purple">CompGen</span> Compositional generalization</div>
-        <div><span class="pill-label pill-purple">Transfer</span> Transfer and out-of-distribution generalization</div>
-        <div><span class="pill-label pill-purple">Abstract</span> Abstraction and reasoning</div>
+        <span class="pill-label pill-purple">CompGen</span>
+        <div>Compositional generalization</div>
+        <span class="pill-label pill-purple">Transfer</span>
+        <div>Transfer and out-of-distribution generalization</div>
+        <span class="pill-label pill-purple">Abstract</span>
+        <div>Abstraction and reasoning</div>
     </div>
 
 </div>
+
 
 We are currently seeking highly motivated individuals pursuing PhD degree to join our research team. Our primary objective is to find candidates who are deeply passionate about the field of AI and possess a strong drive to contribute to cutting-edge advancements in machine learning.
 
