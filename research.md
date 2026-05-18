@@ -44,7 +44,7 @@ layout: page
 .research-legend{
     display:flex;
     justify-content:space-between;
-    gap:50px;
+    gap:40px;
     width:100%;
     margin-top:20px;
 }
