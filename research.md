@@ -56,6 +56,13 @@ layout: page
     flex:1;
 }
 
+.topic-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+}
+
 .topic-text{
     margin-left:4px;
 }
@@ -67,47 +74,47 @@ layout: page
     <!-- Column 1 -->
     <div class="legend-col">
         <span class="pill-label pill-lightcoral">CompLearn</span>
-        <div>Compositional learning</div>
+        <span class="topic-text">Compositional learning</span>
         <span class="pill-label pill-lightcoral">ModLearn</span>
-        <div>Modular learning</div>
+        <span class="topic-text">Modular learning</span>
         <span class="pill-label pill-lightcoral">ObjLearn</span>
-        <div>Object-centric learning</div>
+        <span class="topic-text">Object-centric learning</span>
         <span class="pill-label pill-lightcoral">SelfSup</span>
-        <div>Self-supervised learning</div>
+        <span class="topic-text">Self-supervised learning</span>
         <span class="pill-label pill-lightcoral">PercInfer</span>
-        <div>Perceptual inference</div>
+        <span class="topic-text">Perceptual inference</span>
     </div>
 
     <!-- Column 2 -->
     <div class="legend-col">
         <span class="pill-label pill-skyblue">NetInfer</span>
-        <div>Inference of network structure</div>
+        <span class="topic-text">Inference of network structure</span>
         <span class="pill-label pill-skyblue">RuleInfer</span>
-        <div>Inference of learning rule</div>
+        <span class="topic-text">Inference of learning rule</span>
         <span class="pill-label pill-skyblue">Causal</span>
-        <div>Causal inference</div>
+        <span class="topic-text">Causal inference</span>
     </div>
 
     <!-- Column 3 -->
     <div class="legend-col">
         <span class="pill-label pill-green">NeuroData</span>
-        <div>Neural data analysis</div>
+        <span class="topic-text">Neural data analysis</span>
         <span class="pill-label pill-green">BioMemory</span>
-        <div>Biological memory</div>
+        <span class="topic-text">Biological memory</span>
         <span class="pill-label pill-green">NeuralDyn</span>
-        <div>Neural dynamics and state-space modeling</div>
+        <span class="topic-text">Neural dynamics and state-space modeling</span>
         <span class="pill-label pill-green">BrainComp</span>
-        <div>Brain-inspired computation</div>
+        <span class="topic-text">Brain-inspired computation</span>
     </div>
 
     <!-- Column 4 -->
     <div class="legend-col">
         <span class="pill-label pill-purple">CompGen</span>
-        <div>Compositional generalization</div>
+        <span class="topic-text">Compositional generalization</span>
         <span class="pill-label pill-purple">Transfer</span>
-        <div>Transfer and out-of-distribution generalization</div>
+        <span class="topic-text">Transfer and out-of-distribution generalization</span>
         <span class="pill-label pill-purple">Abstract</span>
-        <div>Abstraction and reasoning</div>
+        <span class="topic-text">Abstraction and reasoning</span>
     </div>
 
 </div>
