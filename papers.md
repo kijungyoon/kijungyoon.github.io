@@ -13,7 +13,7 @@ layout: page
     <div class="toright">
     <p><b>Symmetry-Induced Non-Identifiability in Neural Circuit Inference</b><br>
     Yu, S., Yang, J., Yoon, K.<br>
-    <i>Preprint (2026)</i>
+    <i>ICML Workshop on Weight-Space Symmetries (2026)</i>
     [<a href="">pdf</a>]<br>
     <span class="pill-label pill-lightcoral">Network Inference</span>
     <span class="pill-label pill-skyblue">Perturbation</span>
