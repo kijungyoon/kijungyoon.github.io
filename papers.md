@@ -7,7 +7,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/pe_ring.png" alt="Alt Text" width="300">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/pe_ring.png" alt="Alt Text" width="200">
     </div>
 
     <div class="toright">
