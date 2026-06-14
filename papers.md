@@ -7,11 +7,11 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
-        <img class="image" src="https://kijungyoon.github.io/assets/images/pe.png" alt="Alt Text" width="500">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/pe_ring.png" alt="Alt Text" width="500">
     </div>
 
     <div class="toright">
-    <p><b>Symmetry-Induced Non-Identifiability in Neural Circuit Inference</b><br>
+    <p><b>Symmetry-Aligned Priors Can Dominate Spike Activity in Neural Circuit Inference</b><br>
     Yu, S., Yang, J., Yoon, K.<br>
     <i>ICML Workshop on Weight-Space Symmetries (2026)</i>
     [<a href="">pdf</a>]<br>
