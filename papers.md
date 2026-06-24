@@ -14,7 +14,7 @@ layout: page
     <p><b>Symmetry-Aligned Priors Can Dominate Spike Activity in Neural Circuit Inference</b><br>
     Yu, S., Yang, J., Yoon, K.<br>
     <i>ICML Workshop on Weight-Space Symmetries (2026)</i>
-    [<a href="">pdf</a>]<br>
+    [<a href="https://openreview.net/pdf?id=8Myvm7z5Ca">pdf</a>]<br>
     <span class="pill-label pill-lightcoral">Network Inference</span>
     <span class="pill-label pill-skyblue">Perturbation</span>
     <span class="pill-label pill-dmagenta">Neuroscience</span>
