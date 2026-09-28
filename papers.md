@@ -21,6 +21,20 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft" style="text-align:center">
+        <img class="image" src="https://kijungyoon.github.io/assets/images/vector_hash_demo.png" alt="Alt Text" width="300">
+    </div>
+
+    <div class="toright">
+    <p><b>Interactive GUI demonstration of Vector-HaSH</b><br>
+    Yang, J., Yoon, K.<br>
+    <i>Vector-HaSH GUI Demo (2026)</i>
+    [<a href="https://github.com/niai-lab/vectorhash-demo">github</a>][<a href="https://niai-vectorhash-demo.streamlit.app/">demo</a>]<br>
+    </p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft" style="text-align:center">
         <img class="image" src="https://kijungyoon.github.io/assets/images/pe_ring.png" alt="Alt Text" width="300">
     </div>
 
