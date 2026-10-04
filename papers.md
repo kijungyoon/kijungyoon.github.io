@@ -59,7 +59,7 @@ layout: page
     <p><b>A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection</b><br>
     Park, M., Yoon, K.<br>
     <i>ICPR (2026) (Oral Presentation)</i>
-    [<a href="https://arxiv.org/pdf/2601.00446">pdf</a>]<br>
+    [<a href="https://doi.org/10.1007/978-3-032-31397-3_42">pdf</a>]<br>
     <span class="pill-label pill-gold">Foundation Model</span>
     <span class="pill-label pill-dblue">PEFT</span>
     <span class="pill-label pill-bwood">Time Series</span>
