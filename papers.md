@@ -13,8 +13,8 @@ layout: page
     <div class="toright">
     <p><b>뇌·신경 데이터를 역공학하는 AI: 구조적·기하학적 딥러닝 접근</b><br>
     Yoon, K.<br>
-    <i>한국뇌연구원 Brain Insight 12호 (2026)</i>
-    [<a href="https://drive.google.com/file/d/1ZxAcZaYcvRczX975OyPDg9X8u00zU9CD/view">preprint</a>]<br>
+    <i>한국뇌연구원 Brain Insight 12-3호 (2026)</i>
+    [<a href="https://library.kbri.re.kr/library/10360/contents/7821058">pdf</a>]<br>
     </p>
     </div>
 </div>
