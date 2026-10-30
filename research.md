@@ -151,18 +151,3 @@ layout: page
 </div>
 <br>
 
-
-We are currently seeking highly motivated individuals pursuing PhD degree to join our research team:
-
-<b>Key Responsibilities:</b>
-
-- Design, implement, and evaluate novel deep neural networks and related methods.
-- Collaborate with research colleagues to efficiently implement structured machine learning architectures.
-- Effectively communicate research findings and developments, both internally and externally, through clear and concise written and verbal presentations.
-- Stay up to date with the latest advancements in machine learning by actively exploring and assimilating new research.
-- Foster collaborations with external collaborators and maintain relationships with relevant research labs and individuals.
-
-<b>Minimum Qualifications:</b>
-
-- A Bachelor's degree in a technical field or equivalent practical experience.
-- Proficiency in programming languages such as Python, PyTorch, JAX, etc.
