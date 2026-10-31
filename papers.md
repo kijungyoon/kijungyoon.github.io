@@ -25,10 +25,10 @@ layout: page
     </div>
 
     <div class="toright">
-    <p><b>Interactive GUI demonstration of Vector-HaSH</b><br>
-    Yang, J., Yoon, K.<br>
-    <i>Vector-HaSH GUI Demo (2026)</i>
-    [<a href="https://github.com/niai-lab/vectorhash-demo">github</a>][<a href="https://niai-vectorhash-demo.streamlit.app/">demo</a>]<br>
+    <p><b>Development of a GUI for Understanding the Vector-HaSH</b><br>
+    Kim, I., Yang, J., Yoon, K.<br>
+    <i>대한전자공학회 추계학술대회 (2026)</i>
+    [<a href="https://drive.google.com/file/d/1pNUYHgNJCqMwIXJjGyhzC5kfZFoFzJ5w/view?usp=sharing">pdf</a>][<a href="https://github.com/niai-lab/vectorhash-demo">github</a>][<a href="https://niai-vectorhash-demo.streamlit.app/">demo</a>]<br>
     </p>
     </div>
 </div>
